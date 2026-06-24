@@ -1,0 +1,36 @@
+# Concepts index
+
+Physiological and theoretical ideas. Start with the basics, then the determinants.
+
+- [The basics (what actually matters)](the-basics.md) — the 95% that drives most of the gains for most runners
+- [Running for beginners](running-for-beginners.md) — how to start running and keep at it
+- [Running for intermediates](running-for-intermediates.md) — the next stage: more volume, a long run, a little structure, strength work
+- [VO₂max](vo2max.md) — the aerobic ceiling, and what it does and does not predict
+- [Lactate threshold](lactate-threshold.md) — why velocity at threshold predicts endurance performance
+- [Critical speed and critical power](critical-speed-and-power.md) — the highest pace with a metabolic steady state, and the finite capacity above it
+- [Running economy](running-economy.md) — the energy cost of running, and what separates runners of similar VO₂max
+- [Durability (fatigue resistance)](durability.md) — resistance to physiological decline late in long efforts
+- [VO₂ kinetics](vo2-kinetics.md) — how fast oxygen uptake responds to a change of pace, and why it matters
+- [Physiological adaptations and their timelines](physiological-adaptations.md) — what training changes, and why tendons and bones lag the heart
+- [Energy systems](energy-systems.md) — the three ways muscle makes ATP, and why distance running is aerobic
+- [Muscular adaptations to training](muscular-adaptations.md) — mitochondria, capillaries, enzymes, fat oxidation
+- [Fat oxidation and metabolic flexibility](fat-oxidation-and-metabolic-flexibility.md) — how the body blends fat and carbohydrate by intensity, and what shifts the mix
+- [Thermoregulation](thermoregulation.md) — how runners produce and shed heat, and why heat limits performance
+- [Cardiovascular and respiratory adaptations](cardiovascular-and-respiratory-adaptations.md) — the heart and blood drive VO₂max; the lungs rarely limit you
+- [Glycogen and glycogen depletion](glycogen.md) — the limited carbohydrate store, "the wall", and how to manage it
+- [Lactate testing](lactate-testing.md) — how blood lactate is measured, in the lab and by finger-prick during sessions
+- [Muscle tone (Bakken)](muscle-tone.md) — a practitioner readiness concept from the Norwegian model; weak evidence
+- [Individual variation and trainability](individual-variation.md) — why "works on average" is not "works for you"
+- [Anaerobic capacity and speed reserve](anaerobic-capacity-and-speed-reserve.md) — why top speed matters even for distance runners
+- [Fatigue mechanisms](fatigue-mechanisms.md) — central versus peripheral, an unsettled debate
+- [Biomechanics and gait](biomechanics-and-gait.md) — cadence, footstrike and overstriding, mostly self-optimised
+
+## Populations and health
+
+- [The female runner](the-female-runner.md) — sex differences in physiology, and the male-default research problem
+- [Menstrual cycle and training](menstrual-cycle-and-training.md) — phase effects are individual and the evidence is thin
+- [Pregnancy and postpartum running](pregnancy-and-postpartum-running.md) — running through an uncomplicated pregnancy, and the gradual return afterwards
+- [Masters runners](masters-runners.md) — how performance changes with age, and what preserves it
+- [Youth and adolescent runners](youth-running.md) — why children are not small adults, and the case against early specialisation
+- [Running and health](running-and-health.md) — the longevity benefit, and the contested "too much running" question
+- [Heat illness](heat-illness.md) — recognising and treating exertional heat illness
