@@ -1,0 +1,22 @@
+# ---------------------------------------------------------------------------
+# A push to this wiki forces a rebuild of the Quartz site on Cloudflare Pages.
+# The wiki is the source of truth; the site just renders it.
+#
+# One-time setup:
+#   1. Cloudflare dashboard → Pages → <your project> → Settings →
+#      Builds & deployments → Deploy hooks → "Add deploy hook".
+#      Name it e.g. "wiki-push", select the production branch, and copy the URL.
+#   2. GitHub → this repo → Settings → Secrets and variables → Actions →
+#      New repository secret:  CLOUDFLARE_DEPLOY_HOOK_URL = <the hook URL>.
+# ---------------------------------------------------------------------------
+name: Trigger site deploy
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Cloudflare Pages deploy hook
+        run: curl -fsS -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK_URL }}"
