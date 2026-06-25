@@ -1,6 +1,6 @@
 # Sources index
 
-Provenance anchors for every claim in the wiki. Each page records a source, its location, and the headline finding with an evidence note. Grouped by domain tag.
+Every work cited in the knowledge base, with its location and headline finding. Each claim on a content page links back to one of these. Grouped by domain.
 
 ## Physiology
 

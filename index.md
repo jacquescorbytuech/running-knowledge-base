@@ -1,8 +1,8 @@
 # Running knowledge base
 
-The master catalogue. This is an evidence-graded knowledge base on distance running, biased toward what is real, science-based and proven, and honest about what is not. Start with [the basics](concepts/the-basics.md); it puts everything else in proportion.
+An evidence-graded knowledge base on distance running, biased toward what is real, science-based and proven, and honest about what is not. Start with [the basics](concepts/the-basics.md); it puts everything else in proportion.
 
-Every claim-bearing page carries an `evidence:` grade (`strong` / `moderate` / `limited` / `weak` / `contested`) and cites its sources at the point of each claim. See [CLAUDE.md](CLAUDE.md) for the schema and editorial stance.
+Every claim-bearing page carries an `evidence:` grade (`strong` / `moderate` / `limited` / `weak` / `contested`) and cites its sources at the point of each claim. See the [contributing guide](CONTRIBUTING.md) for the schema and editorial stance.
 
 ## Start here
 
@@ -49,4 +49,4 @@ The coaches and scientists behind the methods: [Lydiard](entities/arthur-lydiard
 
 ## Sources ([sources/](sources/index.md))
 
-Every cited work, with its location and headline finding. Provenance is non-negotiable: no claim enters the wiki without a source.
+Every cited work, with its location and headline finding. Provenance is non-negotiable: every claim links back to one of these.

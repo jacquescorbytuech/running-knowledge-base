@@ -1,12 +1,12 @@
 # Running knowledge base
 
-An evidence-based knowledge base on distance running, built as an [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) (OKF) wiki: a directory of markdown files, one concept per file, cross-linked into a graph, following the [LLM-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+An evidence-based knowledge base on distance running, published as a website at **[running.wiki](https://running.wiki)**. It is built as an [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) (OKF) wiki: a directory of markdown files, one concept per file, cross-linked into a graph, following the [LLM-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
 The bias is deliberate: heavy on the methods that move the needle for most runners, light on the marginal and the marketing. Every empirical claim is graded for evidence quality and cited at the point it is made.
 
 ## How to read it
 
-Start at [index.md](index.md), the master catalogue, or jump straight to [the basics](concepts/the-basics.md) for the short version of what actually matters. Navigate by the per-directory index files.
+Start at [running.wiki](https://running.wiki) or, in the repository, [index.md](index.md) — the full table of contents — or jump straight to [the basics](concepts/the-basics.md) for the short version of what actually matters. Navigate by the per-directory index files.
 
 The knowledge is organised by type:
 
@@ -34,7 +34,7 @@ Poorly evidenced topics get a page so a reader can find an honest account of *wh
 
 ## Conventions and maintenance
 
-The schema, type vocabulary and house rules live in [CLAUDE.md](CLAUDE.md). The bundle is maintained with the `okf-wiki` skill; all prose is written under the `clear-writing` skill. [log.md](log.md) records the history of changes.
+The schema, type vocabulary and house rules live in [CONTRIBUTING.md](CONTRIBUTING.md). The bundle is maintained with the `okf-wiki` skill; all prose is written under the `clear-writing` skill. [log.md](log.md) records the history of changes.
 
 To add or correct something, see [CONTRIBUTING.md](CONTRIBUTING.md). In short: keep it non-commercial, no affiliate links, no brand promotion, source every claim, and the more outlandish the claim the more careful the sourcing.
 
