@@ -45,13 +45,13 @@ Sweating capacity varies widely between people, which is one reason heat toleran
 
 ## Dehydration degrades cooling
 
-Sweating to cool down depletes the very blood volume the cooling system relies on. As dehydration progresses toward about 4% of body mass, systemic, muscle and skin blood flow all fall, core temperature rises faster and cardiovascular strain worsens ([González-Alonso et al. 2008](../sources/gonzalez-alonso-2008-cardiovascular-heat.md)). Dehydration and hyperthermia together account for most of the strain of exercising in the heat. This is the physiological case for sensible [hydration](../nutrition/hydration-and-electrolytes.md), though the size of the performance penalty from modest, self-paced fluid loss is contested ([Goulet 2011](../sources/goulet-2011-hydration.md)), and overdrinking carries its own serious risk.
+Sweating to cool down depletes the very blood volume the cooling system relies on. As dehydration progresses toward about 4% of body mass, systemic, muscle and skin blood flow all fall, core temperature rises faster and cardiovascular strain worsens ([González-Alonso et al. 2008](../sources/gonzalez-alonso-2008-cardiovascular-heat.md)). Dehydration and hyperthermia together account for most of the strain of exercising in the heat. This is the physiological case for sensible [hydration](../nutrition/hydration.md), though the size of the performance penalty from modest, self-paced fluid loss is contested ([Goulet 2011](../sources/goulet-2011-hydration.md)), and overdrinking carries its own serious risk.
 
 ## Related
 
 - [Exertional heat illness](heat-illness.md)
 - [Heat acclimation](../techniques/heat-acclimation.md)
-- [Hydration and electrolytes](../nutrition/hydration-and-electrolytes.md)
+- [Hydration](../nutrition/hydration.md)
 - [Durability](durability.md)
 - [Cardiovascular and respiratory adaptations](cardiovascular-and-respiratory-adaptations.md)
 - [The basics](the-basics.md)

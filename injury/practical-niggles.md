@@ -44,7 +44,7 @@ Prevention is fit: enough length in front of the longest toe (often a thumb's wi
 
 The 'side stitch', or exercise-related transient abdominal pain (ETAP), is sharp or stabbing when severe and cramping or aching when milder, usually felt at the side of the mid-abdomen. It is very common: around 70% of runners report it in a given year ([Morton & Callister 2015](../sources/morton-2015-etap.md)).
 
-The mechanism is genuinely unsettled. The older idea of diaphragm cramp or ischaemia has largely given way; the review by Morton and Callister judges that irritation of the parietal peritoneum (the membrane lining the abdominal wall) best fits the features, while stating plainly that the cause is not settled ([Morton & Callister 2015](../sources/morton-2015-etap.md)). Reported associations include eating or drinking shortly before exercise, especially concentrated or hypertonic drinks, and being less trained ([Morton & Callister 2015](../sources/morton-2015-etap.md)). See [pre-race fuelling](../nutrition/pre-race-fuelling.md) and [hydration and electrolytes](../nutrition/hydration-and-electrolytes.md).
+The mechanism is genuinely unsettled. The older idea of diaphragm cramp or ischaemia has largely given way; the review by Morton and Callister judges that irritation of the parietal peritoneum (the membrane lining the abdominal wall) best fits the features, while stating plainly that the cause is not settled ([Morton & Callister 2015](../sources/morton-2015-etap.md)). Reported associations include eating or drinking shortly before exercise, especially concentrated or hypertonic drinks, and being less trained ([Morton & Callister 2015](../sources/morton-2015-etap.md)). See [pre-race fuelling](../nutrition/pre-race-fuelling.md) and [hydration](../nutrition/hydration.md).
 
 Management is practical and largely untested by trials: slow down, deepen and steady the breathing, and apply pressure to the painful spot or bend forward briefly. Leaving more time after meals and avoiding very concentrated drinks before running follows from the associations. The reassurance is real: it is transient and harmless, and eases as fitness builds.
 
@@ -56,5 +56,5 @@ Three of these four are friction-and-shear problems (blisters, chafing and black
 
 - [Common overuse injuries](common-overuse-injuries.md)
 - [Running shoes](../gear/running-shoes.md)
-- [Hydration and electrolytes](../nutrition/hydration-and-electrolytes.md)
+- [Electrolytes](../nutrition/electrolytes.md)
 - [The basics](../concepts/the-basics.md)

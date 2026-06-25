@@ -31,7 +31,7 @@ Carbohydrate taken in the 30 to 60 minutes before the start raises insulin, and 
 
 ## Hydration and caffeine
 
-Start well hydrated rather than over-drinking on the morning. Drink to thirst through the run-up and have a measured amount with the meal; do not force fluid, since drinking far beyond thirst risks hyponatraemia and confers no benefit (see [hydration and electrolytes](hydration-and-electrolytes.md)). Pale-straw urine is a reasonable gauge.
+Start well hydrated rather than over-drinking on the morning. Drink to thirst through the run-up and have a measured amount with the meal; do not force fluid, since drinking far beyond thirst risks hyponatraemia and confers no benefit (see [hydration](hydration.md)). Pale-straw urine is a reasonable gauge.
 
 If you use [caffeine](caffeine.md), the standard timing is about 60 minutes before the start, at 3 to 6 mg/kg, which is when blood levels peak from a normal dose ([Guest et al. 2021](../sources/guest-2021-caffeine.md)). Caffeinated gum or gels absorb faster and can be taken closer to the gun or saved for late in a long race.
 
@@ -48,7 +48,7 @@ Race-morning fuelling is a skill, not a fixed prescription, because tolerance fo
 - [In-race carbohydrate](in-race-carbohydrate.md)
 - [Daily carbohydrate and energy](daily-carbohydrate-and-energy.md)
 - [Caffeine](caffeine.md)
-- [Hydration and electrolytes](hydration-and-electrolytes.md)
+- [Hydration](hydration.md)
 - [Gut training](gut-training.md)
 - [Glycogen and glycogen depletion](../concepts/glycogen.md)
 - [The basics](../concepts/the-basics.md)

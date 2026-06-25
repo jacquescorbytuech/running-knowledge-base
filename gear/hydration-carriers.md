@@ -10,9 +10,9 @@ timestamp: 2026-06-25
 # Hydration carriers
 
 > [!info] Evidence: limited
-> How you carry fluid is a comfort and logistics question, not a performance one. Most road running needs nothing; longer runs, trail and hot weather are where a carrier earns its place. Match the format to the distance and terrain, fit it so it does not bounce, and let the [hydration evidence](../nutrition/hydration-and-electrolytes.md), drink to thirst, decide how much you actually need.
+> How you carry fluid is a comfort and logistics question, not a performance one. Most road running needs nothing; longer runs, trail and hot weather are where a carrier earns its place. Match the format to the distance and terrain, fit it so it does not bounce, and let the [hydration evidence](../nutrition/hydration.md), drink to thirst, decide how much you actually need.
 
-For most road sessions, carrying water is unnecessary; the [hydration and electrolytes](../nutrition/hydration-and-electrolytes.md) page is the place to settle how much you need, and the short answer is to drink to thirst rather than to a schedule. A carrier matters when refills are scarce: long runs, [ultra and trail](../techniques/ultra-and-trail-training.md), and hot conditions where fluid and electrolyte needs rise.
+For most road sessions, carrying water is unnecessary; the [hydration](../nutrition/hydration.md) page is the place to settle how much you need, and the short answer is to drink to thirst rather than to a schedule. A carrier matters when refills are scarce: long runs, [ultra and trail](../techniques/ultra-and-trail-training.md), and hot conditions where fluid and electrolyte needs rise.
 
 The formats trade off capacity, access and stability:
 
@@ -25,6 +25,7 @@ Whatever the format, fit and bounce decide comfort more than brand. Try it loade
 
 ## Related
 
-- [Hydration and electrolytes](../nutrition/hydration-and-electrolytes.md)
+- [Hydration](../nutrition/hydration.md)
+- [Electrolytes](../nutrition/electrolytes.md)
 - [Ultra and trail training](../techniques/ultra-and-trail-training.md)
 - [In-race carbohydrate](../nutrition/in-race-carbohydrate.md)

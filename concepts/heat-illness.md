@@ -40,7 +40,7 @@ The main drivers are environmental and personal ([Casa et al. 2015](../sources/c
 - Dehydration, which reduces sweating and blood volume and so impairs cooling.
 - Poor fitness, illness, recent infection, certain medications and a previous episode of heat illness.
 
-Sensible [hydration and electrolyte](../nutrition/hydration-and-electrolytes.md) practice helps, but it does not make a runner immune. A fit, well-hydrated, acclimatised athlete can still develop heat stroke if they push hard enough in severe conditions.
+Sensible [hydration](../nutrition/hydration.md) and [electrolyte](../nutrition/electrolytes.md) practice helps, but it does not make a runner immune. A fit, well-hydrated, acclimatised athlete can still develop heat stroke if they push hard enough in severe conditions.
 
 ## Treatment: cool first, transport second
 
@@ -52,6 +52,6 @@ The single most important principle is to cool the body as fast as possible, and
 ## Related
 
 - [Heat acclimation](../techniques/heat-acclimation.md)
-- [Hydration and electrolytes](../nutrition/hydration-and-electrolytes.md)
+- [Hydration](../nutrition/hydration.md)
 - [Cold water immersion](../recovery/cold-water-immersion.md)
 - [The basics](the-basics.md)

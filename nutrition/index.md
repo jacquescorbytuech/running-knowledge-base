@@ -15,7 +15,7 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Dietary nitrate (beetroot juice)](dietary-nitrate.md) — real but modest, fades in elites
 - [Sodium bicarbonate](sodium-bicarbonate.md) — for short hard efforts; the "pros use it" case
 - [Iron](iron.md) — correct a diagnosed deficiency, do not supplement when replete
-- [Hydration and electrolytes](hydration-and-electrolytes.md) — drink to thirst; overdrinking is the danger
+- [Hydration](hydration.md) — drink to thirst; overdrinking is the danger
 - [Protein, supplements and recovery nutrition](protein-and-recovery.md) — total daily intake beats timing
 - [Recovery nutrition](recovery-nutrition.md) — when rapid refuelling matters, the overstated protein window, and rehydration
 - [Vitamin D and calcium](vitamin-d-and-calcium.md) — correct a deficiency, mainly for bone health
@@ -46,5 +46,6 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Ketone esters](ketone-esters.md) — expensive, no race-day benefit
 - [BCAAs](bcaas.md) — plausible mechanism, no delivery
 - [Magnesium](magnesium.md) — heavily promoted; real if you are deficient, little on top of an adequate diet, and not a cramp cure
+- [Electrolytes](electrolytes.md) — oversold; no cramp or hyponatraemia protection, and most runners already get enough sodium
 - [Antioxidant supplements](antioxidant-supplements.md) — may blunt adaptation
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md) — glutamine, HMB, MCT, nitric-oxide products and more

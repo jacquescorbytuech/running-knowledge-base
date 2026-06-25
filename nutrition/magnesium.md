@@ -24,7 +24,7 @@ In runners who are not deficient, supplementing magnesium does not improve endur
 
 ## Cramps: the marketing's weakest claim
 
-The cramp claim is the one magnesium is sold on hardest and supported on least. A Cochrane review concluded that magnesium is unlikely to be effective for ordinary muscle cramps at any dose, and found no trials at all in people who cramp while exercising ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)). This fits the wider picture that exercise-associated cramp is driven by [fatigue-related neuromuscular control, not electrolyte depletion](hydration-and-electrolytes.md) ([Schwellnus](../sources/schwellnus-cramps.md)). Taking magnesium to stop running cramps is treating the wrong mechanism.
+The cramp claim is the one magnesium is sold on hardest and supported on least. A Cochrane review concluded that magnesium is unlikely to be effective for ordinary muscle cramps at any dose, and found no trials at all in people who cramp while exercising ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)). This fits the wider picture that exercise-associated cramp is driven by [fatigue-related neuromuscular control, not electrolyte depletion](electrolytes.md) ([Schwellnus](../sources/schwellnus-cramps.md)). Taking magnesium to stop running cramps is treating the wrong mechanism.
 
 ## Sleep: a thin signal
 
@@ -43,7 +43,7 @@ The sleep claim is the most defensible of the marketed uses, but only just. A sy
 
 - [Evaluating supplements](evaluating-supplements.md)
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
-- [Hydration and electrolytes](hydration-and-electrolytes.md)
+- [Electrolytes](electrolytes.md)
 - [Relative Energy Deficiency in Sport (RED-S)](red-s.md)
 - [Iron](iron.md)
 - [Vitamin D and calcium](vitamin-d-and-calcium.md)

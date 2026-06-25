@@ -23,7 +23,7 @@ The clearest mechanism is suppressed repair. In a crossover trial, drinking afte
 
 ## Glycogen, hydration and heat
 
-Alcohol also slows the refilling of fuel and fluid. It impairs [glycogen](../concepts/glycogen.md) resynthesis, mostly indirectly by displacing the carbohydrate a recovering runner should be eating, with a possible smaller direct effect on storage ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)). Because alcohol is a diuretic it works against [rehydration](hydration-and-electrolytes.md), promoting urine output at the very point when fluid and electrolytes need replacing, and it disturbs thermoregulation through peripheral vasodilation, a particular concern after hot or long efforts ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)).
+Alcohol also slows the refilling of fuel and fluid. It impairs [glycogen](../concepts/glycogen.md) resynthesis, mostly indirectly by displacing the carbohydrate a recovering runner should be eating, with a possible smaller direct effect on storage ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)). Because alcohol is a diuretic it works against [rehydration](hydration.md), promoting urine output at the very point when fluid and electrolytes need replacing, and it disturbs thermoregulation through peripheral vasodilation, a particular concern after hot or long efforts ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)).
 
 ## Sleep
 
@@ -41,6 +41,6 @@ The heaviest costs land on larger doses taken soon after hard sessions or races,
 
 - [Sleep](../recovery/sleep.md)
 - [Protein and recovery nutrition](protein-and-recovery.md)
-- [Hydration and electrolytes](hydration-and-electrolytes.md)
+- [Hydration](hydration.md)
 - [Glycogen](../concepts/glycogen.md)
 - [The basics](../concepts/the-basics.md)

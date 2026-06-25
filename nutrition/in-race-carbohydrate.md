@@ -50,4 +50,5 @@ Very high intakes of 100 to 120 g per hour are tolerable for some trained athlet
 - [Carbohydrate loading](carbohydrate-loading.md)
 - [The long run](../techniques/the-long-run.md)
 - [Durability](../concepts/durability.md)
-- [Hydration and electrolytes](hydration-and-electrolytes.md)
+- [Hydration](hydration.md)
+- [Electrolytes](electrolytes.md)

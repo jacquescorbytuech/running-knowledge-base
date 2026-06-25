@@ -22,7 +22,7 @@ The sauna gets recommended to runners for three different reasons that are usual
 The idea is that post-run heat relaxes muscles, raises blood flow and speeds recovery. The evidence does not support treating it as a recovery tool. A 2025 systematic review found the literature on sauna for recovery sparse and showed no clear superiority of sauna over other recovery methods ([Sauna recovery review 2025](../sources/smo-2025-sauna.md)). That does not make it harmful or useless, and many runners find a sauna pleasant and relaxing, which has value in itself. It just means the specific claim that sauna accelerates physical recovery is not established. It sits alongside the other modest-to-null modalities in [recovery modalities](recovery-modalities.md).
 
 > [!warning] A sauna straight after a hard run is a heat and fluid load
-> Heat exposure on top of an already dehydrated, heat-stressed body adds strain rather than removing it. If you use a sauna after running, rehydrate first, keep sessions short and treat it as relaxation, not as a recovery accelerator. The cautions in [hydration and electrolytes](../nutrition/hydration-and-electrolytes.md) apply.
+> Heat exposure on top of an already dehydrated, heat-stressed body adds strain rather than removing it. If you use a sauna after running, rehydrate first, keep sessions short and treat it as relaxation, not as a recovery accelerator. The cautions in [hydration](../nutrition/hydration.md) apply.
 
 ## As heat acclimation: a separate performance method
 
@@ -39,5 +39,5 @@ Finnish cohort studies link frequent sauna use to lower cardiovascular mortality
 
 - [Heat acclimation](../techniques/heat-acclimation.md)
 - [Recovery modalities](recovery-modalities.md)
-- [Hydration and electrolytes](../nutrition/hydration-and-electrolytes.md)
+- [Hydration](../nutrition/hydration.md)
 - [Cold water immersion](cold-water-immersion.md)
