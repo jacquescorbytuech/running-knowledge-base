@@ -47,4 +47,5 @@ Honestly, not much, and nothing that abolishes it. No treatment reliably removes
 - [Active recovery and recovery runs](active-recovery.md)
 - [Muscle strains](../injury/muscle-strains.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
+- [Ultramarathon and trail training](../techniques/ultra-and-trail-training.md)
 - [Training-load management](../techniques/training-load-management.md)

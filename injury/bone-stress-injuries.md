@@ -36,7 +36,7 @@ The largest modifiable driver is low energy availability, where intake does not 
 
 Other risk factors include female sex, menstrual dysfunction and a prior bone stress injury. In female runners, the high-risk, trabecular-rich sites cluster with markers of low energy availability such as low bone mineral density, menstrual disturbance and restrictive eating ([Tenforde et al. 2024](../sources/tenforde-2024-female-bsi.md)). A previous bone stress injury, especially more than one, is a strong pointer to an underlying energy or bone-health problem worth investigating ([Gallant et al. 2024](../sources/gallant-2024-lea-reds.md)). See [the female runner](../concepts/the-female-runner.md).
 
-A note on gear: a case series linked navicular stress injuries to carbon-plated 'super-shoes', but it had no denominator and cannot show cause ([Tenforde et al. 2023](../sources/tenforde-2023-navicular.md)). Treat it as a weak signal to introduce new stiff footwear gradually, not as proof of harm. See [running shoes](../gear/running-shoes.md).
+A note on gear: a case series linked navicular stress injuries to carbon-plated 'super-shoes', but it had no denominator and cannot show cause ([Tenforde et al. 2023](../sources/tenforde-2023-navicular.md)). Treat it as a weak signal to introduce new stiff footwear gradually, not as proof of harm. The same question is covered from the shoe side in [carbon plate](../gear/carbon-plate.md) and [shoe geometry](../gear/shoe-geometry.md).
 
 ## Diagnosis
 

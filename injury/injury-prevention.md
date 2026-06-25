@@ -43,7 +43,7 @@ A lot of effort goes into measures with little or no evidence behind them.
 
 ## Running form and cadence
 
-Changing running form to prevent injury is intuitive but thinly evidenced. The popular target of 180 steps per minute is a guideline drawn from elites at race pace, not a universal optimum; cadence rises with pace and the best value is individual ([Marathon Handbook](../sources/marathon-handbook-cadence-myth.md)). A modest cadence increase reduces some joint loads and may help specific problems such as [patellofemoral pain](patellofemoral-pain.md), but there is no good evidence that prescribing form changes prevents injury in healthy runners, and overhauling a natural gait can shift load elsewhere. Treat form tweaks as a targeted tool for an existing problem, not a general shield.
+Changing running form to prevent injury is intuitive but thinly evidenced; the fuller picture is on [biomechanics and gait](../concepts/biomechanics-and-gait.md). The popular target of 180 steps per minute is a guideline drawn from elites at race pace, not a universal optimum; cadence rises with pace and the best value is individual ([Marathon Handbook](../sources/marathon-handbook-cadence-myth.md)). A modest cadence increase reduces some joint loads and may help specific problems such as [patellofemoral pain](patellofemoral-pain.md), but there is no good evidence that prescribing form changes prevents injury in healthy runners, and overhauling a natural gait can shift load elsewhere. Treat form tweaks as a targeted tool for an existing problem, not a general shield.
 
 ## Related
 
