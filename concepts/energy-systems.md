@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 Every muscle contraction is powered by ATP, and the body holds only a few seconds' worth, so it must be resupplied continuously. Three systems do this, and the key idea is that they operate *simultaneously* and blend smoothly by how hard and how long the effort is, rather than switching on and off ([Baker et al. 2010](../sources/baker-2010-energy-systems.md)):
 
 - **The phosphocreatine (ATP-PCr) system.** Immediate and very high-power, but tiny: it fuels all-out efforts of a few seconds, such as a sprint start, then is spent.
-- **Anaerobic glycolysis.** Breaks down carbohydrate without oxygen for fast ATP, dominating maximal efforts of roughly 20 seconds to a couple of minutes. It produces lactate, which, contrary to the old story, is a [fuel the body reuses, not a waste product or the cause of fatigue](lactate-threshold.md).
+- **Anaerobic glycolysis.** Breaks down carbohydrate without oxygen for fast ATP, dominating maximal efforts of roughly 20 seconds to a couple of minutes. It produces lactate, which, contrary to the old story, is a [fuel the body reuses](lactate-shuttle.md), not a waste product or the [cause of fatigue](lactate-threshold.md).
 - **Oxidative phosphorylation (the aerobic system).** Burns carbohydrate and fat with oxygen in the [mitochondria](muscular-adaptations.md). It is comparatively slow to ramp but effectively unlimited in capacity, and it powers everything sustained.
 
 ## Why distance running is an aerobic event
@@ -27,6 +27,7 @@ This single fact shapes training. It is why the bulk of work targets the aerobic
 ## Related
 
 - [Lactate threshold](lactate-threshold.md)
+- [Lactate shuttle](lactate-shuttle.md)
 - [Muscular adaptations to training](muscular-adaptations.md)
 - [VO₂max](vo2max.md)
 - [Training volume versus intensity](../techniques/training-volume-vs-intensity.md)

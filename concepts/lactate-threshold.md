@@ -16,7 +16,7 @@ The lactate threshold is the exercise intensity above which blood lactate accumu
 
 ## What lactate actually is
 
-The threshold is widely misunderstood because lactate is. Lactate is not a waste product and not the cause of fatigue or of muscle soreness. It is a fuel: it is produced continuously, shuttled between and within cells, and oxidised for energy, and the better-trained the athlete, the better they clear and reuse it ([San Millán & Brooks 2018](../sources/san-millan-2018.md)). Blood lactate rises not because the muscle has "run out of oxygen" but because, as intensity climbs, production by fast-twitch fibres outpaces the body's capacity to clear it through the lactate-shuttle transporters. The threshold is therefore a balance point between production and clearance, and training shifts that balance, which is why it moves with fitness.
+The threshold is widely misunderstood because lactate is. Lactate is not a waste product and not the cause of fatigue or of muscle soreness. It is a fuel: it is produced continuously, shuttled between and within cells, and oxidised for energy, and the better-trained the athlete, the better they clear and reuse it ([San Millán & Brooks 2018](../sources/san-millan-2018.md)). Blood lactate rises not because the muscle has "run out of oxygen" but because, as intensity climbs, production by fast-twitch fibres outpaces the body's capacity to clear it through the [lactate-shuttle transporters](lactate-shuttle.md). The threshold is therefore a balance point between production and clearance, and training shifts that balance, which is why it moves with fitness.
 
 ## Why it predicts performance
 
@@ -38,6 +38,7 @@ Trained athletes hold threshold at roughly 80 to 90% of VO₂max; untrained peop
 
 ## Related
 
+- [Lactate shuttle](lactate-shuttle.md)
 - [VO₂max](vo2max.md)
 - [Running economy](running-economy.md)
 - [Lactate testing](lactate-testing.md)

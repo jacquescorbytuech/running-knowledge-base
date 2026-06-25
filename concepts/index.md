@@ -7,6 +7,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Running for intermediates](running-for-intermediates.md) — the next stage: more volume, a long run, a little structure, strength work
 - [VO₂max](vo2max.md) — the aerobic ceiling, and what it does and does not predict
 - [Lactate threshold](lactate-threshold.md) — why velocity at threshold predicts endurance performance
+- [Lactate shuttle](lactate-shuttle.md) — why lactate is a fuel the body produces, moves and reuses, not a waste product
 - [Critical speed and critical power](critical-speed-and-power.md) — the highest pace with a metabolic steady state, and the finite capacity above it
 - [Running economy](running-economy.md) — the energy cost of running, and what separates runners of similar VO₂max
 - [Durability (fatigue resistance)](durability.md) — resistance to physiological decline late in long efforts

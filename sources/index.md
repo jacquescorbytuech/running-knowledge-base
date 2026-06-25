@@ -16,6 +16,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Belval et al. 2018, Exertional heat stroke care consensus](belval-2018-ehs-cooling.md)
 - [Besson et al. 2022, sex differences in endurance running](besson-2022-sex-differences-running.md)
 - [Brooks & Mercier 1994, Balance of carbohydrate and lipid utilization during exercise: the "crossover" concept](brooks-mercier-1994-crossover.md)
+- [Brooks 2018, The Science and Translation of Lactate Shuttle Theory](brooks-2018-lactate-shuttle.md)
 - [Burnley & Jones 2007, oxygen uptake kinetics as a determinant of sports performance](burnley-jones-2007-vo2-kinetics-performance.md)
 - [Campbell & Turner 2018, Debunking exercise-induced immune suppression](campbell-turner-2018-immune-myth.md)
 - [Casa et al. 2015, NATA exertional heat illness position statement](casa-2015-nata-heat.md)

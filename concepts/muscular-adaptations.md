@@ -22,13 +22,14 @@ Much of what separates a trained distance runner from an untrained person is bui
 
 ## Why it matters
 
-These peripheral adaptations are how a runner comes to sustain a higher fraction of their [VO₂max](vo2max.md): the [lactate threshold](lactate-threshold.md) rises largely because better-equipped, better-supplied muscle produces and clears lactate more favourably at a given pace. They also underpin [running economy](running-economy.md) and the resistance to fatigue that is [durability](durability.md). This is the substance behind why VO₂max alone does not make a runner fast: the engine's size is one thing, but the muscle's ability to use oxygen is built by [training](physiological-adaptations.md).
+These peripheral adaptations are how a runner comes to sustain a higher fraction of their [VO₂max](vo2max.md): the [lactate threshold](lactate-threshold.md) rises largely because better-equipped, better-supplied muscle produces and [clears lactate](lactate-shuttle.md) more favourably at a given pace. They also underpin [running economy](running-economy.md) and the resistance to fatigue that is [durability](durability.md). This is the substance behind why VO₂max alone does not make a runner fast: the engine's size is one thing, but the muscle's ability to use oxygen is built by [training](physiological-adaptations.md).
 
 Volume and intensity contribute differently: a large [easy-running base](../techniques/base-building.md) drives mitochondrial *content*, while harder [intervals](../techniques/interval-training.md) drive mitochondrial *function*, and the content gains reverse relatively quickly once training stops ([Granata et al. 2018](../sources/granata-2018-mitochondria.md)). The timeline for building and losing these adaptations is covered under [physiological adaptations](physiological-adaptations.md) and [detraining](../recovery/detraining.md).
 
 ## Related
 
 - [Energy systems](energy-systems.md)
+- [Lactate shuttle](lactate-shuttle.md)
 - [Cardiovascular and respiratory adaptations](cardiovascular-and-respiratory-adaptations.md)
 - [VO₂max](vo2max.md)
 - [Lactate threshold](lactate-threshold.md)
