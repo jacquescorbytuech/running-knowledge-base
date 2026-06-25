@@ -1,4 +1,4 @@
-# Everything I Know — Running
+# Running knowledge base
 
 The master catalogue. This is an evidence-graded knowledge base on distance running, biased toward what is real, science-based and proven, and honest about what is not. Start with [the basics](concepts/the-basics.md); it puts everything else in proportion.
 

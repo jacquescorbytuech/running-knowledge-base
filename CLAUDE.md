@@ -1,4 +1,4 @@
-# Schema: Everything I Know — Running
+# Schema: Running knowledge base
 
 This repository is an Open Knowledge Format (OKF v0.1) wiki bundle on distance running, with a deliberate bias toward methods that are real, science-based, and evidence-backed. It follows the LLM-wiki pattern: a directory of markdown files, one concept per file, the file path as the concept's identity, with YAML frontmatter and a markdown body. Cross-links between files form the graph.
 

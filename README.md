@@ -1,4 +1,4 @@
-# Everything I Know — Running
+# Running knowledge base
 
 An evidence-based knowledge base on distance running, built as an [Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) (OKF) wiki: a directory of markdown files, one concept per file, cross-linked into a graph, following the [LLM-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
 
