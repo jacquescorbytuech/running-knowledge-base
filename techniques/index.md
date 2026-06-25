@@ -12,6 +12,8 @@ Training and practice methods.
 - [Polarised training and 80/20](polarised-training.md) — most easy, some hard; partly supported, partly contested
 - [Heart-rate and effort-based training](heart-rate-and-effort-training.md) — using heart rate and perceived effort, why the zone models disagree, and the limits of a heart-rate cap
 - [Mental training and sports psychology](mental-training.md) — effort perception, self-talk, goal-setting and the honest size of the effects
+- [Music and running](music-and-running.md) — a small, perceptual aid for easy running; the safety and rules caveats
+- [Treadmill running](treadmill-running.md) — a valid substitute, and the truth about the 1% incline rule
 
 ## Quality and sharpening
 
@@ -25,6 +27,7 @@ Training and practice methods.
 - [Strides and running drills](strides-and-drills.md) — low-cost strides for priming and form, and an honest look at why drills probably do not improve economy
 - [Heat acclimation](heat-acclimation.md) — reliable for hot races, contested as a cool-weather aid
 - [Altitude training](altitude-training.md) — reliable haematology, contested performance payoff
+- [Cold-weather running](cold-weather-running.md) — cool helps but cold hurts; the lungs do not freeze; manage wind chill and wet
 
 ## Structure and peaking
 

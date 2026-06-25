@@ -15,3 +15,5 @@ Equipment, and how much of it actually matters. Super-shoes are the rare case of
 - [Heart-rate monitors](heart-rate-monitors.md) — chest strap versus optical wrist and armband, and how accuracy differs by type
 - [Training apps and platforms](training-apps.md) — tracking, social and adaptive-plan apps; modest real benefit, with load metrics and AI plans weaker than they look
 - [Sports bras and running apparel](sports-bras-and-apparel.md) — high-support, well-fitted bras are essential kit; the honest case on socks and fabrics
+- [Compression apparel](compression-apparel.md) — worn socks, sleeves and tights; nothing for performance, a little (mostly perceptual) for recovery
+- [Hydration carriers](hydration-carriers.md) — handhelds, belts, vests and bladders, and how to choose between them

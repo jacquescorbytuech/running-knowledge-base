@@ -34,4 +34,5 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Youth and adolescent runners](youth-running.md) — why children are not small adults, and the case against early specialisation
 - [Running and health](running-and-health.md) — the longevity benefit, and the contested "too much running" question
 - [Illness and immune function](illness-and-immune-function.md) — heavy training and infection risk, and how to decide whether to train through illness
+- [Air quality and pollution](air-quality-and-pollution.md) — how polluted air affects runners, and why the benefits of running usually still win
 - [Heat illness](heat-illness.md) — recognising and treating exertional heat illness
