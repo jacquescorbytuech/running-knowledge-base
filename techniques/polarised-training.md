@@ -40,3 +40,4 @@ The expert literature treats this as a live debate rather than a settled questio
 - [Interval training](interval-training.md)
 - [Training philosophies](training-philosophies.md)
 - [Individual variation](../concepts/individual-variation.md)
+- [Training intensity zones](../concepts/training-intensity-zones.md)

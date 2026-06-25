@@ -46,3 +46,4 @@ Hills are most valuable when flat fast running is risky or unavailable: early in
 - [Running economy](../concepts/running-economy.md)
 - [VO₂max](../concepts/vo2max.md)
 - [Base building](base-building.md)
+- [Delayed onset muscle soreness](../recovery/delayed-onset-muscle-soreness.md)

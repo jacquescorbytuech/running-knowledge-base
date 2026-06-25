@@ -45,3 +45,4 @@ Trained athletes hold threshold at roughly 80 to 90% of VO₂max; untrained peop
 - [Double-threshold training](../techniques/double-threshold.md)
 - [Interval training](../techniques/interval-training.md)
 - [Wearable lactate-threshold estimates](../gear/gps-watches-and-metrics.md)
+- [Training intensity zones](training-intensity-zones.md)

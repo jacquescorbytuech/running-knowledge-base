@@ -25,6 +25,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Anaerobic capacity and speed reserve](anaerobic-capacity-and-speed-reserve.md) — why top speed matters even for distance runners
 - [Fatigue mechanisms](fatigue-mechanisms.md) — central versus peripheral, an unsettled debate
 - [Biomechanics and gait](biomechanics-and-gait.md) — cadence, footstrike and overstriding, mostly self-optimised
+- [Training intensity zones](training-intensity-zones.md) — two thresholds, three domains, and how the zone models map onto them
 
 ## Populations and health
 
@@ -37,3 +38,4 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Illness and immune function](illness-and-immune-function.md) — heavy training and infection risk, and how to decide whether to train through illness
 - [Air quality and pollution](air-quality-and-pollution.md) — how polluted air affects runners, and why the benefits of running usually still win
 - [Heat illness](heat-illness.md) — recognising and treating exertional heat illness
+- [Exercise-induced bronchoconstriction](exercise-induced-bronchoconstriction.md) — the airway narrowing exercise triggers in many runners, why symptoms diagnose it badly, and what manages it

@@ -47,4 +47,5 @@ Threshold work delivers a large, sustainable training stimulus at relatively low
 - [Types of training](workout-types.md)
 - [Distance-specific training](distance-specific-training.md)
 - [Running economy](../concepts/running-economy.md)
+- [Training intensity zones](../concepts/training-intensity-zones.md)
 - [The basics](../concepts/the-basics.md)

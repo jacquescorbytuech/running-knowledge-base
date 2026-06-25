@@ -37,3 +37,4 @@ The honest framing is non-alarmist: pollution is a real but usually modest tax o
 - [Running and health](running-and-health.md)
 - [Cardiovascular and respiratory adaptations](cardiovascular-and-respiratory-adaptations.md)
 - [Thermoregulation](thermoregulation.md)
+- [Exercise-induced bronchoconstriction](exercise-induced-bronchoconstriction.md)

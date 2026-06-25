@@ -29,3 +29,4 @@ The consistent theme: judge a modality by whether it changes an outcome you care
 - [Heat acclimation](../techniques/heat-acclimation.md)
 - [Supercompensation and adaptation](supercompensation-and-adaptation.md)
 - [Antioxidant supplements](../nutrition/antioxidant-supplements.md)
+- [Delayed onset muscle soreness](delayed-onset-muscle-soreness.md)

@@ -32,3 +32,4 @@ That still leaves a clear decision rule, just a better-calibrated one. The estab
 - [Supercompensation and adaptation](supercompensation-and-adaptation.md)
 - [Antioxidant supplements](../nutrition/antioxidant-supplements.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
+- [Delayed onset muscle soreness](delayed-onset-muscle-soreness.md)

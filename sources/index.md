@@ -6,6 +6,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 
 - [ACOG Committee Opinion 804, exercise during pregnancy and postpartum](acog-2020-exercise-pregnancy.md)
 - [Aengevaeren et al. 2017, Lifelong exercise and coronary calcium](aengevaeren-2017-cac.md)
+- [Aggarwal, Mulgirigama & Berend 2018, exercise-induced bronchoconstriction](aggarwal-2018-eib.md)
 - [Allen, Lamb & Westerblad 2008, cellular muscle fatigue](allen-2008-muscle-fatigue.md)
 - [Almeida, Davis & Lopes 2015, foot-strike biomechanics](almeida-2015-foot-strike-biomechanics.md)
 - [Amann 2011, group III/IV muscle afferents and fatigue](amann-2011-muscle-afferents.md)
@@ -56,6 +57,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Nieman et al. 1990, Infectious episodes around the Los Angeles Marathon](nieman-1990-marathon-urti.md)
 - [Noakes 2012, fatigue as a brain-derived emotion](noakes-2012-central-governor.md)
 - [Nybo, Rasmussen & Sawka 2014, Performance in the heat: physiological factors of hyperthermia-induced fatigue](nybo-2014-heat-performance.md)
+- [Parsons et al. 2013, ATS clinical practice guideline on exercise-induced bronchoconstriction](parsons-2013-ats-eib.md)
 - [Pedisic et al. 2020, Running and mortality meta-analysis](pedisic-2020-running-mortality.md)
 - [Pluim et al., Athlete's heart remodelling](pluim-athletes-heart.md)
 - [Pollock et al. 1997, 20-year follow-up of older track athletes](pollock-1997-masters-vo2max.md)
@@ -367,6 +369,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 
 - [Bellenger et al. 2016, Monitoring training with HRV meta-analysis](bellenger-2016-hrv.md)
 - [Bushman et al. 1997, Effect of 4 wk of deep water run training on running performance](bushman-1997-water-running.md)
+- [Cheung, Hume & Maxwell 2003, Delayed onset muscle soreness](cheung-2003-doms.md)
 - [Coleman et al. 2024, Deload weeks in resistance training](coleman-2024-deload.md)
 - [Coyle et al. 1984, Time course of detraining](coyle-1984-detraining.md)
 - [Dupuy et al. 2018, Active recovery in recovery meta-analysis](dupuy-2018-active-recovery.md)
@@ -378,6 +381,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Halson 2014, Sleep in elite athletes](halson-2014-sleep.md)
 - [Herxheimer & Petrie 2002, Melatonin for jet lag (Cochrane)](herxheimer-2002-melatonin-jetlag.md)
 - [Hill et al. 2014, Compression garments and recovery meta-analysis](hill-2014-compression.md)
+- [Hyldahl, Chen & Nosaka 2017, the repeated bout effect](hyldahl-2017-repeated-bout.md)
 - [Ihsan et al. 2021, Adaptations to post-exercise cold water immersion: friend, foe, or futile?](ihsan-2021-cwi.md)
 - [Ivarsson et al. 2017, Psychosocial factors and sport injury](ivarsson-2017-injury-psychology.md)
 - [Janse van Rensburg et al. 2021, Travel fatigue and jet lag consensus](janse-van-rensburg-2021-jetlag.md)

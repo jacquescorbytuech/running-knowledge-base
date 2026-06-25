@@ -50,3 +50,4 @@ The defining hazard of muscle strains is reinjury. Return before the muscle has 
 - [Strides and drills](../techniques/strides-and-drills.md)
 - [Return to running](../techniques/return-to-running.md)
 - [The basics](../concepts/the-basics.md)
+- [Delayed onset muscle soreness](../recovery/delayed-onset-muscle-soreness.md)

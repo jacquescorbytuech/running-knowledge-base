@@ -6,6 +6,7 @@ Rest, sleep and recovery. Adaptation happens during recovery, not during the run
 - [Napping](naps.md) — a daytime nap recovers part of a lost night and lifts alertness, but supplements rather than replaces night sleep
 - [Supercompensation and adaptation](supercompensation-and-adaptation.md) — why recovery drives fitness; the textbook curve is oversimplified
 - [Overtraining and overreaching](overtraining.md) — the continuum, and why it is only confirmed in hindsight
+- [Delayed onset muscle soreness (DOMS)](delayed-onset-muscle-soreness.md) — what next-day soreness is, the repeated-bout effect, and why no gadget removes it
 - [Recovery modalities](recovery-modalities.md) — an evidence-graded tour of the recovery industry
 - [Cold water immersion](cold-water-immersion.md) — real relief, but it blunts adaptation
 - [Stretching and mobility](stretching.md) — does not prevent overuse injury; more flexibility is not better

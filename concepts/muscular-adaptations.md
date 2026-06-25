@@ -34,3 +34,4 @@ Volume and intensity contribute differently: a large [easy-running base](../tech
 - [VO₂max](vo2max.md)
 - [Lactate threshold](lactate-threshold.md)
 - [Physiological adaptations and their timelines](physiological-adaptations.md)
+- [Delayed onset muscle soreness](../recovery/delayed-onset-muscle-soreness.md)

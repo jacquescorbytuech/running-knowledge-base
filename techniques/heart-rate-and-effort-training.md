@@ -49,3 +49,4 @@ There is a further, less obvious limit for the very fit, and it is why a heart-r
 - [Heart-rate monitors](../gear/heart-rate-monitors.md)
 - [Training-load management](training-load-management.md)
 - [Durability](../concepts/durability.md)
+- [Training intensity zones](../concepts/training-intensity-zones.md)

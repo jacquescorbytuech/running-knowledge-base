@@ -35,3 +35,4 @@ In highly trained athletes at very high intensity, above roughly 80 to 85% of VO
 - [Muscular adaptations to training](muscular-adaptations.md)
 - [Physiological adaptations and their timelines](physiological-adaptations.md)
 - [Detraining](../recovery/detraining.md)
+- [Exercise-induced bronchoconstriction](exercise-induced-bronchoconstriction.md)

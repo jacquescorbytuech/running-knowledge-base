@@ -41,3 +41,4 @@ Most cold-weather risk is manageable with sensible kit. The fear to discard is f
 - [Heat illness](../concepts/heat-illness.md)
 - [Warm-up and cool-down](warm-up-and-cool-down.md)
 - [Sports bras and running apparel](../gear/sports-bras-and-apparel.md)
+- [Exercise-induced bronchoconstriction](../concepts/exercise-induced-bronchoconstriction.md)
