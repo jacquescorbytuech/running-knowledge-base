@@ -24,7 +24,7 @@ One feature is shared across the range. Elite runners from 1500 m to the maratho
 > - **10 km.** Shifts toward [lactate threshold](../concepts/lactate-threshold.md). Threshold volume rises, VO₂max work stays, speed work narrows to sharpening. Specific endurance is the ability to sit just below threshold for half an hour.
 > - **Half marathon.** A threshold event. The goal pace sits near lactate threshold, so threshold and tempo volume dominate, with longer specific runs at goal pace.
 > - **Marathon.** Decided by threshold, economy, [durability](../concepts/durability.md) and fuel. Very high easy volume, large threshold blocks, long runs and marathon-pace work, plus a fuelling and glycogen plan. Holding pace late when tired is the event-specific quality.
-> - **Ultra.** Volume, fat oxidation, durability and gut tolerance dominate. Top-end speed is almost irrelevant; time on feet and fuelling tolerance are everything.
+> - **Ultra.** Volume, [fat oxidation](../concepts/fat-oxidation-and-metabolic-flexibility.md), durability and gut tolerance dominate. Top-end speed is almost irrelevant; time on feet and fuelling tolerance are everything.
 
 ## Specificity narrows toward the race
 

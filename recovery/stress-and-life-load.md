@@ -14,7 +14,7 @@ timestamp: 2026-06-24
 
 ## Stress is a load the body cannot tell apart
 
-A demanding job, poor sleep, money worries or family strain all activate the same stress systems that hard training does. The result is measurable. In a controlled study, people reporting higher chronic life stress recovered muscular function more slowly after a hard bout and reported more fatigue and soreness than lower-stress people doing the identical work ([Stults-Kolehmainen & Bartholomew 2012](../sources/stults-kolehmainen-2014-stress-recovery.md)). The same physical session leaves a more stressed person more depleted and slower to bounce back. For a runner this means an easy week of training can still feel heavy if life is heavy, and adaptation to a given block will be poorer when background stress is high.
+A demanding job, poor sleep, money worries or family strain all activate the same stress systems that hard training does. The result is measurable. In a controlled study, people reporting higher chronic life stress recovered muscular function more slowly after a hard bout and reported more fatigue and soreness than lower-stress people doing the identical work ([Stults-Kolehmainen & Bartholomew 2012](../sources/stults-kolehmainen-2012-stress-recovery.md)). The same physical session leaves a more stressed person more depleted and slower to bounce back. For a runner this means an easy week of training can still feel heavy if life is heavy, and adaptation to a given block will be poorer when background stress is high.
 
 ## Stress raises injury and illness risk
 

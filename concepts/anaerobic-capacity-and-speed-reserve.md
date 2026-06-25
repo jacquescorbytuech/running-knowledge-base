@@ -20,7 +20,7 @@ The reference measure is the maximal accumulated oxygen deficit, or MAOD. A runn
 
 ## VO2 kinetics
 
-How fast oxygen uptake rises at the start of an effort sets how much energy must come from anaerobic stores before aerobic supply catches up. The lag at the onset of hard exercise creates an early oxygen deficit, and above the [lactate threshold](lactate-threshold.md) a slow upward drift in oxygen cost adds to it ([Jones & Burnley 2005](../sources/jones-2005-vo2-kinetics.md)). Training speeds the kinetics, so a fitter runner reaches steady state sooner and draws down less of the anaerobic reserve for the same pace ([Jones & Burnley 2005](../sources/jones-2005-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities.
+How fast oxygen uptake rises at the start of an effort sets how much energy must come from anaerobic stores before aerobic supply catches up. The lag at the onset of hard exercise creates an early oxygen deficit, and above the [lactate threshold](lactate-threshold.md) a slow upward drift in oxygen cost adds to it ([Jones & Burnley 2005](../sources/jones-2005-vo2-kinetics.md)). Training speeds the kinetics, so a fitter runner reaches steady state sooner and draws down less of the anaerobic reserve for the same pace ([Jones & Burnley 2005](../sources/jones-2005-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities. See [VO₂ kinetics](vo2-kinetics.md) for the detail.
 
 ## Anaerobic speed reserve
 

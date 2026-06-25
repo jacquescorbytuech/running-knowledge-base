@@ -25,7 +25,7 @@ Extend one run each week into a [long run](../techniques/the-long-run.md), build
 ## Introduce a little structure
 
 > [!tip] The order to add faster running
-> Start with **strides**, a few relaxed 15-to-20-second accelerations on easy days, to reintroduce leg speed safely. Then add one weekly quality session, beginning with the gentlest forms: a [fartlek](../techniques/fartlek.md) or a [tempo/threshold](../concepts/lactate-threshold.md) run, before progressing to harder [intervals](../techniques/interval-training.md). One, or at most two, harder sessions a week is plenty; keep everything else easy. See [types of training](../techniques/workout-types.md) for the menu.
+> Start with **strides**, a few relaxed 15-to-20-second accelerations on easy days, to reintroduce leg speed safely. Then add one weekly quality session, beginning with the gentlest forms: a [fartlek](../techniques/fartlek.md) or a [tempo/threshold](lactate-threshold.md) run, before progressing to harder [intervals](../techniques/interval-training.md). One, or at most two, harder sessions a week is plenty; keep everything else easy. See [types of training](../techniques/workout-types.md) for the menu.
 
 ## Start strength training
 

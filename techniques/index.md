@@ -43,3 +43,11 @@ Training and practice methods.
 - [Training philosophies](training-philosophies.md) — descriptive survey of the major systems
 - [Canova method](canova-method.md) — training around race pace
 - See also the [entities](../entities/index.md) directory for the coaches and scientists behind these systems
+
+## Clubs, coaching and community
+
+- [Run clubs and group running](run-clubs.md) — social and community running; good for consistency, thin on proven causal benefit
+- [parkrun](parkrun.md) — the free weekly timed 5 km; strong on reach, weak on proven causal health benefit
+- [Athletics clubs](athletics-clubs.md) — affiliated competitive clubs; real organisational benefits, no proven club effect beyond self-selection
+- [Coaching](coaching.md) — what good coaching offers, and the honest limit that no trial isolates it from self-coaching
+- See also [training apps](../gear/training-apps.md) for the platforms that track and prescribe training

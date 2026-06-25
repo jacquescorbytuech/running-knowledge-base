@@ -42,7 +42,7 @@ Prevention is fit: enough length in front of the longest toe (often a thumb's wi
 
 ## Side stitch (ETAP)
 
-The "side stitch", or exercise-related transient abdominal pain (ETAP), is sharp or stabbing when severe and cramping or aching when milder, usually felt at the side of the mid-abdomen. It is very common: around 70% of runners report it in a given year ([Morton & Callister 2015](../sources/morton-2015-etap.md)).
+The 'side stitch', or exercise-related transient abdominal pain (ETAP), is sharp or stabbing when severe and cramping or aching when milder, usually felt at the side of the mid-abdomen. It is very common: around 70% of runners report it in a given year ([Morton & Callister 2015](../sources/morton-2015-etap.md)).
 
 The mechanism is genuinely unsettled. The older idea of diaphragm cramp or ischaemia has largely given way; the review by Morton and Callister judges that irritation of the parietal peritoneum (the membrane lining the abdominal wall) best fits the features, while stating plainly that the cause is not settled ([Morton & Callister 2015](../sources/morton-2015-etap.md)). Reported associations include eating or drinking shortly before exercise, especially concentrated or hypertonic drinks, and being less trained ([Morton & Callister 2015](../sources/morton-2015-etap.md)). See [pre-race fuelling](../nutrition/pre-race-fuelling.md) and [hydration and electrolytes](../nutrition/hydration-and-electrolytes.md).
 
