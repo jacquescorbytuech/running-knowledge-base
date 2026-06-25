@@ -12,7 +12,7 @@ timestamp: 2026-06-24
 > [!success] Evidence: strong
 > Run a lot, mostly easy. Sleep well. Eat a balanced diet without badly over- or under-fuelling. Be consistent. Almost everything else is the last few per cent.
 
-For most runners, the great majority of the available improvement comes from a handful of unglamorous things done consistently. Run as much as you comfortably can, mostly easy. Sleep well. Eat a balanced diet, taking care not to badly over- or under-fuel. Do that for long enough and almost everything else is a rounding error.
+For most runners, the great majority of the available improvement comes from a handful of unglamorous things done consistently. Run as much as you comfortably can, mostly easy. Sleep well. Eat a balanced diet, taking care not to badly over- or under-fuel. Do that for long enough and almost everything else is detail.
 
 The 95% that drives results for most people:
 

@@ -14,7 +14,7 @@ timestamp: 2026-06-24
 
 VO₂max is the maximal rate at which the body can take up and use oxygen during exercise to exhaustion. It sets the ceiling on aerobic ATP production and is one of the three classical physiological determinants of distance-running performance, alongside [lactate threshold](lactate-threshold.md) and [running economy](running-economy.md) ([Joyner & Coyle 2008](../sources/joyner-coyle-2008.md); [Bassett & Howley 2000](../sources/bassett-howley-2000.md)).
 
-It is the most over-claimed of the three. VO₂max correlates strongly with performance across a mixed-ability field, where values range widely, but its power to separate runners collapses within a group of similar ability, because their values cluster ([Farrell et al. 1979](../sources/farrell-1979.md); [Joyner & Coyle 2008](../sources/joyner-coyle-2008.md)). Among trained runners, velocity at lactate threshold and running economy discriminate better. Treating VO₂max as the single master number is a common error.
+It is the most over-claimed of the three. VO₂max correlates strongly with performance across a mixed-ability field, where values range widely, but its power to separate runners collapses within a group of similar ability, because their values cluster ([Farrell et al. 1979](../sources/farrell-1979.md); [Joyner & Coyle 2008](../sources/joyner-coyle-2008.md)). Among trained runners, velocity at lactate threshold and running economy discriminate better.
 
 ## Potential, not performance
 
@@ -23,7 +23,7 @@ It is the most over-claimed of the three. VO₂max correlates strongly with perf
 
 VO₂max describes how much oxygen the body could use, not the ability to turn that into race pace. Realising it depends on the other determinants, which are built by training and barely exist in someone untrained: [running economy](running-economy.md), the fraction of VO₂max sustainable at [lactate threshold](lactate-threshold.md), [durability](durability.md) over the distance, pacing judgement and sport-specific neuromuscular skill. Someone with a naturally high VO₂max who has not trained would run wastefully, be unable to hold a high fraction of their ceiling, and fade badly late on, because those abilities are trained, not given.
 
-This is the same fact seen from two sides. It is why VO₂max barely discriminates between [trained runners](individual-variation.md), whose values cluster while their performances do not, and why the [integrated model](running-economy.md) *multiplies* VO₂max by the other determinants rather than treating it alone. A trained runner with a modest VO₂max routinely beats an untrained one with a high VO₂max. VO₂max raises the lid on what training can achieve; it does not do the training, and a high test result is a reason to train, not a substitute for it.
+This is why VO₂max barely discriminates between [trained runners](individual-variation.md), whose values cluster while their performances do not, and why the [integrated model](running-economy.md) *multiplies* VO₂max by the other determinants rather than treating it alone. A trained runner with a modest VO₂max routinely beats an untrained one with a high VO₂max. VO₂max sets the ceiling; it does not deliver the performance, which is why a high result is a reason to train rather than a substitute for it.
 
 ## How it is measured
 
