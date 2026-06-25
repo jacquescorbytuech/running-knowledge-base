@@ -6,6 +6,7 @@ Training and practice methods.
 
 - [Types of training](workout-types.md) — a map of the common run types and what each is for
 - [Training volume versus intensity](training-volume-vs-intensity.md) — what actually drives improvement
+- [Training for your own ability](train-for-your-ability.md) — calibrate volume to what you can absorb, not to elite mileage
 - [Warm-up and cool-down](warm-up-and-cool-down.md) — what a warm-up does, and the thin case for the cool-down
 - [Base building](base-building.md) — the aerobic foundation
 - [The long run](the-long-run.md) — strong rationale, surprisingly thin isolating evidence

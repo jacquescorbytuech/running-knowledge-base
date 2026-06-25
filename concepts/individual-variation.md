@@ -30,6 +30,7 @@ Treat published effects as a starting hypothesis, then test on yourself with eno
 ## Related
 
 - [VO₂max](vo2max.md)
+- [Training for your own ability](../techniques/train-for-your-ability.md)
 - [Training philosophies](../techniques/training-philosophies.md)
 - [GPS watches and metrics](../gear/gps-watches-and-metrics.md)
 - [Super-shoes: responders and non-responders](../gear/super-shoes.md)

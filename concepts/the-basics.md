@@ -16,7 +16,7 @@ For most runners, the great majority of the available improvement comes from a h
 
 The 95% that drives results for most people:
 
-- **Volume, mostly easy.** Total training volume is the variable most consistently linked to distance performance, and most of it should be easy enough to sustain ([training volume versus intensity](../techniques/training-volume-vs-intensity.md); [base building](../techniques/base-building.md)). Build it gradually, because the main risk is injury from doing too much too soon. A small amount of [harder work](../techniques/interval-training.md) adds the finishing stimulus.
+- **Volume, mostly easy.** Total training volume is the variable most consistently linked to distance performance, and most of it should be easy enough to sustain ([training volume versus intensity](../techniques/training-volume-vs-intensity.md); [base building](../techniques/base-building.md)). Build it gradually to the most you can absorb, not the most an elite can ([training for your own ability](../techniques/train-for-your-ability.md)), because the main risk is injury from doing too much too soon. A small amount of [harder work](../techniques/interval-training.md) adds the finishing stimulus.
 - **Sleep.** The highest-leverage recovery tool there is, and the cheapest. Adaptation is consolidated during rest, and short sleep is associated with higher injury risk ([sleep](../recovery/sleep.md); [supercompensation and adaptation](../recovery/supercompensation-and-adaptation.md)).
 - **A balanced diet, fuelled to the work.** Enough carbohydrate to train and race, enough protein across the day, enough total energy to avoid the harms of under-fuelling, and iron corrected only if a blood test shows a [deficiency](../nutrition/iron.md). A varied diet does most of what the supplement shelf is sold to do ([protein, supplements and recovery nutrition](../nutrition/protein-and-recovery.md)).
 - **Consistency over time.** None of the above works as a single big effort. Fitness is lost faster than it is gained ([detraining](../recovery/detraining.md)), so the runner who trains steadily for years beats the one who trains heroically for six weeks and breaks.
@@ -44,4 +44,5 @@ People respond differently, so treat even the basics as a starting point to tune
 - [Sleep](../recovery/sleep.md)
 - [Protein, supplements and recovery nutrition](../nutrition/protein-and-recovery.md)
 - [Individual variation](individual-variation.md)
+- [Training for your own ability](../techniques/train-for-your-ability.md)
 - [Training philosophies](../techniques/training-philosophies.md)

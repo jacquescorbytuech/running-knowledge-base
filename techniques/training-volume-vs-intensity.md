@@ -31,6 +31,7 @@ This is the substance behind the "most training should be easy" message that the
 ## Related
 
 - [Polarised and 80/20 training](polarised-training.md)
+- [Training for your own ability](train-for-your-ability.md)
 - [Base building](base-building.md)
 - [Interval training](interval-training.md)
 - [The long run](the-long-run.md)

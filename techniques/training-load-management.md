@@ -58,5 +58,6 @@ For where load management sits in the wider picture of how training works, see [
 - [Overtraining](../recovery/overtraining.md)
 - [Base building](../techniques/base-building.md)
 - [Training volume vs intensity](../techniques/training-volume-vs-intensity.md)
+- [Training for your own ability](../techniques/train-for-your-ability.md)
 - [Return to running](../techniques/return-to-running.md)
 - [The basics](../concepts/the-basics.md)

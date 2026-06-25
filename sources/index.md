@@ -205,6 +205,7 @@ Provenance anchors for every claim in the wiki. Each page records a source, its 
 - [Teixeira et al. 2012, Self-determination theory and exercise](teixeira-2012-sdt-exercise.md)
 - [Terry et al. 2020, Effects of music in exercise and sport, a meta-analysis](terry-2020-music-meta.md)
 - [Tjelta 2016, Training characteristics of male and female elite distance runners](tjelta-2016-volume.md)
+- [Tucker and Collins 2012, What makes champions? Genes and training in sporting success](tucker-collins-2012-genes-training.md)
 - [Tyler et al. 2016, Heat adaptation and exercise performance meta-analysis](tyler-2016-heat-meta.md)
 - [UK Athletics and the home-country federations, governance structure](uk-athletics-structure.md)
 - [USATF and World Athletics, headphone and audio-device rules](usatf-headphone-rule.md)

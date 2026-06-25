@@ -36,4 +36,6 @@ Poorly evidenced topics get a page so a reader can find an honest account of *wh
 
 The schema, type vocabulary and house rules live in [CLAUDE.md](CLAUDE.md). The bundle is maintained with the `okf-wiki` skill; all prose is written under the `clear-writing` skill. [log.md](log.md) records the history of changes.
 
+To add or correct something, see [CONTRIBUTING.md](CONTRIBUTING.md). In short: keep it non-commercial, no affiliate links, no brand promotion, source every claim, and the more outlandish the claim the more careful the sourcing.
+
 This is a personal knowledge base, not medical or coaching advice. People respond differently to training and to products; treat even well-evidenced claims as a starting point to test on yourself.
