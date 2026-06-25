@@ -2,7 +2,7 @@
 
 Food, supplements and ergogenic aids, graded by evidence. The honest short version: a balanced diet plus a handful of proven aids does almost everything; most of the supplement shelf sells reassurance.
 
-Start with [evaluating supplement claims](evaluating-supplements.md) for how to read the evidence behind anything below: who funded it, how good the studies are, and whether the headline is a real performance gain or just a biomarker.
+Start with [evaluating supplement claims](evaluating-supplements.md) for how to read the evidence behind anything below: who funded it, how good the studies are, and whether the headline is a real performance gain or just a biomarker. Its companion, [the marketing playbook](the-marketing-playbook.md), is about the practice itself: how the industry sells fixes for problems you do not have, and how to spot it.
 
 ## Well-evidenced (the 95%ers)
 

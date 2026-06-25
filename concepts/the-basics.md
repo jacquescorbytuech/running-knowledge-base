@@ -46,3 +46,4 @@ People respond differently, so treat even the basics as a starting point to tune
 - [Individual variation](individual-variation.md)
 - [Training for your own ability](../techniques/train-for-your-ability.md)
 - [Training philosophies](../techniques/training-philosophies.md)
+- [The marketing playbook](../nutrition/the-marketing-playbook.md)

@@ -39,4 +39,5 @@ The general rule from the [protein and recovery](protein-and-recovery.md) eviden
 - [BCAAs](bcaas.md)
 - [Antioxidant supplements](antioxidant-supplements.md)
 - [Magnesium](magnesium.md)
+- [The marketing playbook](the-marketing-playbook.md)
 - [Iron](iron.md)

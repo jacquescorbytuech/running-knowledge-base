@@ -40,4 +40,5 @@ Applied honestly, this lens clears some products and condemns others. [Caffeine]
 - [Dietary nitrate](dietary-nitrate.md)
 - [Nomio](nomio-broccoli-shots.md)
 - [Magnesium](magnesium.md)
+- [The marketing playbook](the-marketing-playbook.md)
 - [Individual variation](../concepts/individual-variation.md)

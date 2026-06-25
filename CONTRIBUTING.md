@@ -36,7 +36,7 @@ Do not invent types. If something needs a type the bundle lacks, propose adding 
 
 ## Evidence grading
 
-Every claim-bearing page (Concept, Technique, Substance, Gear, Metric) carries an `evidence:` field in its frontmatter, so the editorial stance is structural rather than buried in prose. The value reflects the page's headline claim; the body may grade individual claims differently.
+Every claim-bearing page (Concept, Technique, Substance, Gear, Metric) carries an `evidence:` field in its frontmatter, so the editorial stance is structural rather than buried in prose. The value reflects the page's headline claim; the body may grade individual claims differently. The occasional editorial or meta page, one about the practice of the field rather than an empirical claim (such as [the marketing playbook](nutrition/the-marketing-playbook.md)), may omit the grade and carry a plain callout in place of the evidence banner.
 
 | Grade | Meaning |
 | --- | --- |
