@@ -41,5 +41,6 @@ The foam's advantage fades with mileage; see [shoe foam durability](shoe-foam-du
 - [Carbon plate](carbon-plate.md)
 - [Super-spikes](super-spikes.md)
 - [Shoe foam durability](shoe-foam-durability.md)
+- [Shoe geometry (rocker, drop and stack)](shoe-geometry.md)
 - [Running economy](../concepts/running-economy.md)
 - [Individual variation](../concepts/individual-variation.md)

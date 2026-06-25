@@ -41,3 +41,4 @@ Gait retraining works best as a targeted clinical tool, not a general upgrade. T
 - [Running shoes](../gear/running-shoes.md)
 - [Barefoot running](../gear/barefoot-running.md)
 - [Muscular adaptations](muscular-adaptations.md)
+- [Shoe geometry (rocker, drop and stack)](../gear/shoe-geometry.md)

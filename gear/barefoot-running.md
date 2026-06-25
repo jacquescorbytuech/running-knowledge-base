@@ -33,6 +33,7 @@ Barefoot or minimalist running is a legitimate personal preference and a useful 
 ## Related
 
 - [Running shoes](running-shoes.md)
+- [Shoe geometry (rocker, drop and stack)](shoe-geometry.md)
 - [Physiological adaptations](../concepts/physiological-adaptations.md)
 - [Running economy](../concepts/running-economy.md)
 - [Individual variation](../concepts/individual-variation.md)

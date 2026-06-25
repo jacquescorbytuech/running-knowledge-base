@@ -45,5 +45,6 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Nomio (broccoli-sprout shots)](nomio-broccoli-shots.md) — hyped, plausible mechanism, no performance evidence yet
 - [Ketone esters](ketone-esters.md) — expensive, no race-day benefit
 - [BCAAs](bcaas.md) — plausible mechanism, no delivery
+- [Magnesium](magnesium.md) — heavily promoted; real if you are deficient, little on top of an adequate diet, and not a cramp cure
 - [Antioxidant supplements](antioxidant-supplements.md) — may blunt adaptation
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md) — glutamine, HMB, MCT, nitric-oxide products and more

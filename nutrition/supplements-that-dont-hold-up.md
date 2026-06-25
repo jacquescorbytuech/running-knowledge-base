@@ -38,4 +38,5 @@ The general rule from the [protein and recovery](protein-and-recovery.md) eviden
 - [Ketone esters](ketone-esters.md)
 - [BCAAs](bcaas.md)
 - [Antioxidant supplements](antioxidant-supplements.md)
+- [Magnesium](magnesium.md)
 - [Iron](iron.md)

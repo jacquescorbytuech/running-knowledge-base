@@ -10,6 +10,7 @@ Equipment, and how much of it actually matters. Super-shoes are the rare case of
 - [Carbon plate](carbon-plate.md) — stiffens the toe joint; does little on its own
 - [Super-spikes](super-spikes.md) — the track equivalent, smaller and harder to quantify
 - [Shoe foam durability](shoe-foam-durability.md) — the advantage fades by ~450 km
+- [Shoe geometry (rocker, drop and stack)](shoe-geometry.md) — what the shape of the sole does: stack height, drop and the rocker, the third lever alongside foam and plate
 - [Barefoot and minimalist running](barefoot-running.md) — changes mechanics, but no proven injury or performance benefit
 - [GPS watches and metrics](gps-watches-and-metrics.md) — what they measure well, what they only estimate, and why they are directional trends not absolute truths
 - [Heart-rate monitors](heart-rate-monitors.md) — chest strap versus optical wrist and armband, and how accuracy differs by type

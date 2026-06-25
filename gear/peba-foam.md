@@ -31,4 +31,5 @@ The trade-off is durability. The low-density foams that perform best when new al
 - [Running shoes](running-shoes.md)
 - [Carbon plate](carbon-plate.md)
 - [Shoe foam durability](shoe-foam-durability.md)
+- [Shoe geometry (rocker, drop and stack)](shoe-geometry.md)
 - [Running economy](../concepts/running-economy.md)

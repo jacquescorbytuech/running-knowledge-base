@@ -33,6 +33,12 @@ The case for extra sodium is specific and conditional, not general. Sweat sodium
 
 Even where extra sodium is reasonable, the evidence that it improves *performance* is weak; the firmer rationale is replacing a large measured loss and supporting fluid balance over very long events. And sodium does not protect against [hyponatraemia](#hyponatraemia-is-the-real-danger) if fluid intake is excessive, because that condition is driven by overdrinking, not sodium loss. The practical position: a normal diet covers the average runner, salt your food to taste, and reserve electrolyte products for long, hot, high-sweat sessions and for known salty sweaters, rather than taking them by default.
 
+## What about the other electrolytes?
+
+"Electrolytes" on a label usually means more than sodium: potassium, magnesium, calcium and chloride. For runners, though, sodium is the one that carries the case, and the others are mostly there to complete the picture rather than because replacing them acutely does much. Sweat is largely water and sodium chloride; potassium, magnesium and calcium appear in it at far lower concentrations, and the amounts lost in a session are small against the body's stores and readily replaced by normal meals ([Thomas, Erdman & Burke 2016](../sources/thomas-2016-acsm-nutrition.md)). Chloride simply tracks sodium.
+
+There is no good evidence that topping up potassium, magnesium or calcium *during* exercise improves performance or prevents cramps in a well-fed runner. [Magnesium](magnesium.md) in particular is sold hard for cramps and recovery but does not deliver on either on top of an adequate diet. Where these minerals matter is the everyday diet, not the drinks bottle: a chronic shortfall, as in [low energy availability](red-s.md) or a restricted diet, is worth correcting with food, but that is a nutrition question rather than an in-race electrolyte one. So a long, hot, salty session is a case for sodium and fluid; it is not a reason to chase the full electrolyte panel.
+
 ## The 2% rule is contested
 
 The familiar claim that losing 2% of body mass in fluid impairs performance comes from fixed-intensity laboratory tests. In self-paced time-trials that mimic real racing, exercise-induced dehydration changed performance negligibly, because thirst-guided drinking suffices ([Goulet 2011](../sources/goulet-2011-hydration.md)). The 2% figure may still matter in fixed-pace efforts in the heat, but for self-paced racing it is not the hard limit it is often presented as.
@@ -41,4 +47,5 @@ The familiar claim that losing 2% of body mass in fluid impairs performance come
 
 - [In-race carbohydrate](in-race-carbohydrate.md)
 - [Heat acclimation](../techniques/heat-acclimation.md)
+- [Magnesium](magnesium.md)
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)

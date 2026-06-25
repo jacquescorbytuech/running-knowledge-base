@@ -39,4 +39,5 @@ Applied honestly, this lens clears some products and condemns others. [Caffeine]
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
 - [Dietary nitrate](dietary-nitrate.md)
 - [Nomio](nomio-broccoli-shots.md)
+- [Magnesium](magnesium.md)
 - [Individual variation](../concepts/individual-variation.md)

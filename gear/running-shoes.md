@@ -32,11 +32,12 @@ Replace trainers when the cushioning feels dead or the outsole is worn through, 
 
 ## Cushioning, drop and minimalism
 
-Cushioning protects against impact and changes ride comfort. There is no strong evidence that a particular amount of cushioning reliably prevents injury, so the exact level is largely a comfort choice, but the broader principle still favours it: the main driver of improvement is [training volume](../concepts/the-basics.md), so a shoe that reduces per-stride load and lets a runner train more, more comfortably, with fewer breakdowns is doing useful work, even if it offers no direct performance gain. That is the strongest general argument for a well-cushioned daily trainer, and the argument against the [barefoot](barefoot-running.md) end of the spectrum, which tends to lower the volume most runners can safely sustain. Heel-to-toe drop is, similarly, mostly a comfort and habit choice.
+Cushioning protects against impact and changes ride comfort. There is no strong evidence that a particular amount of cushioning reliably prevents injury, so the exact level is largely a comfort choice, but the broader principle still favours it: the main driver of improvement is [training volume](../concepts/the-basics.md), so a shoe that reduces per-stride load and lets a runner train more, more comfortably, with fewer breakdowns is doing useful work, even if it offers no direct performance gain. That is the strongest general argument for a well-cushioned daily trainer, and the argument against the [barefoot](barefoot-running.md) end of the spectrum, which tends to lower the volume most runners can safely sustain. [Heel-to-toe drop](shoe-geometry.md) is, similarly, mostly a comfort and habit choice, and [sole geometry](shoe-geometry.md) more broadly shapes the ride.
 
 ## Related
 
 - [Super-shoes](super-shoes.md)
 - [Shoe foam durability](shoe-foam-durability.md)
 - [Barefoot and minimalist running](barefoot-running.md)
+- [Shoe geometry (rocker, drop and stack)](shoe-geometry.md)
 - [Running for beginners](../concepts/running-for-beginners.md)
