@@ -10,6 +10,8 @@ Training and practice methods.
 - [Base building](base-building.md) — the aerobic foundation
 - [The long run](the-long-run.md) — strong rationale, surprisingly thin isolating evidence
 - [Polarised training and 80/20](polarised-training.md) — most easy, some hard; partly supported, partly contested
+- [Heart-rate and effort-based training](heart-rate-and-effort-training.md) — using heart rate and perceived effort, why the zone models disagree, and the limits of a heart-rate cap
+- [Mental training and sports psychology](mental-training.md) — effort perception, self-talk, goal-setting and the honest size of the effects
 
 ## Quality and sharpening
 
@@ -37,6 +39,7 @@ Training and practice methods.
 - [Training-load management](training-load-management.md) — quantifying and progressing load; why the 10% rule is lore and the ACWR is contested
 - [Cross-training](cross-training.md) — non-running aerobic work to hold fitness through injury or add load without the impact
 - [Return to running](return-to-running.md) — coming back after injury or a layoff with graded walk-run and tissue-specific pain rules
+- [Run-walk method](run-walk-method.md) — planned walk breaks for beginners, comebacks, heat and trail; similar times with less soreness
 
 ## Systems and people
 

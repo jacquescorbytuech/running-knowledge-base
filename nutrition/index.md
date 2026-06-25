@@ -27,6 +27,7 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 
 - [Low-carbohydrate and ketogenic diets](low-carbohydrate-and-keto.md) — raise fat oxidation, but the cleanest trials show worse economy and race performance
 - [Carbohydrate periodisation (train-low)](carbohydrate-periodisation.md) — fuel to the session to amplify adaptation; loud molecular signal, unreliable performance payoff
+- [Plant-based running nutrition](plant-based-running.md) — vegetarian and vegan diets are neutral for performance when planned; mind B12, iron, omega-3 and creatine
 
 ## Other substances
 

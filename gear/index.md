@@ -14,3 +14,4 @@ Equipment, and how much of it actually matters. Super-shoes are the rare case of
 - [GPS watches and metrics](gps-watches-and-metrics.md) — what they measure well, what they only estimate, and why they are directional trends not absolute truths
 - [Heart-rate monitors](heart-rate-monitors.md) — chest strap versus optical wrist and armband, and how accuracy differs by type
 - [Training apps and platforms](training-apps.md) — tracking, social and adaptive-plan apps; modest real benefit, with load metrics and AI plans weaker than they look
+- [Sports bras and running apparel](sports-bras-and-apparel.md) — high-support, well-fitted bras are essential kit; the honest case on socks and fabrics
