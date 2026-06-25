@@ -9,7 +9,7 @@ timestamp: 2026-06-25
 
 # Compression apparel
 
-> [!info] Evidence: weak
+> [!danger] Evidence: weak
 > Worn compression garments do not improve running performance: the controlled evidence is a consistent null on race time, economy and oxygen cost. For recovery the effect is small and clusters in how sore and tired the legs feel rather than in functional measures, with a likely placebo component. Harmless and maybe mildly comforting after hard sessions; no case for buying them to run faster.
 
 This page is about garments you run in, socks, calf sleeves and tights, not the pneumatic [compression boots](../recovery/compression-boots.md) used afterwards.

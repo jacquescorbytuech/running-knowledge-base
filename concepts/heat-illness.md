@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Exertional heat illness
 
-> [!warning] Evidence: moderate
+> [!info] Evidence: moderate
 > Running hard in the heat can push core temperature to dangerous levels. Exertional heat stroke is a medical emergency defined by a core temperature above about 40.5 °C plus confusion or collapse, and survival depends on cooling the body fast, before anything else. Cold water immersion is the treatment that saves lives.
 
 > [!warning] Not medical advice

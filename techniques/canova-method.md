@@ -9,8 +9,8 @@ timestamp: 2026-06-24
 
 # Canova method
 
-> [!warning] Evidence: limited
-> Influential elite coaching practice built on training around race pace. Documented in detail, but not tested in controlled trials. Described here, not endorsed.
+> [!info] Evidence: limited
+> Influential elite coaching practice built on training around race pace. Documented in detail, but not tested in controlled trials.
 
 [Renato Canova](../entities/renato-canova.md) is an Italian coach whose athletes have taken more than fifty Olympic and World Championship medals, including several of the fastest marathoners in history ([Davis 2011](../sources/davis-2011-canova.md)). His system is built on a single organising idea: the most important training is done at or near goal race pace, and everything else exists to support it.
 

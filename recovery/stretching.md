@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Stretching and mobility
 
-> [!warning] Evidence: contested
+> [!question] Evidence: contested
 > Stretching does not prevent the overuse injuries that affect runners, long static holds before a run can briefly dull performance, and more flexibility is not better. Its real uses are narrow.
 
 > [!note] Keep it in proportion

@@ -9,8 +9,8 @@ timestamp: 2026-06-24
 
 # Types of training
 
-> [!info] Overview
-> A map of the common workout types and what each is for. Most of a week is easy running; the rest is a small selection from the harder types below, chosen to suit the runner and the event.
+> [!info] Evidence: moderate
+> The individual run types rest on well-established physiology, but how best to combine them is far less settled and varies by coach and system. The reliable part is the shape: most of a week is easy running, with a small selection from the harder types below, chosen to suit the runner and the event.
 
 Distance training is built from a handful of run types layered on a base of easy mileage. The names vary between coaches and [systems](training-philosophies.md), but the underlying intensities map onto the physiology: easy aerobic running, work at [lactate threshold](../concepts/lactate-threshold.md), and work near [VO₂max](../concepts/vo2max.md), with race-specific work bridging them near competition. The categories below are not a checklist to complete each week; they are a menu.
 

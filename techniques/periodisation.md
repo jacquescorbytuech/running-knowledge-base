@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Periodisation
 
-> [!warning] Evidence: limited
+> [!info] Evidence: limited
 > The general base-to-specific logic is sound. Claims that one specific scheme reliably beats another are weakly evidenced.
 
 Periodisation is the organisation of training into phases over weeks and months, typically progressing from a general [base](base-building.md) through more specific work to a [taper](tapering.md) before competition. The broad logic, progressive overload and a base-to-specific sequence, is uncontroversial and supported in principle.

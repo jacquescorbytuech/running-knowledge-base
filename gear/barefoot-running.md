@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Barefoot and minimalist running
 
-> [!warning] Evidence: limited
+> [!info] Evidence: limited
 > Running barefoot or in minimalist shoes changes foot-strike mechanics but has no proven benefit for injury prevention or performance; the marketed claims run well ahead of the data. An abrupt switch is a common way to get injured.
 
 Barefoot running, and its near-equivalent in thin "minimalist" shoes, was popularised as a more natural, injury-proof way to run. The evidence does not bear out the strong claims. A systematic review found no conclusive evidence that barefoot or minimalist running prevents injury or enhances performance ([barefoot running review](../sources/barefoot-running-review.md)).

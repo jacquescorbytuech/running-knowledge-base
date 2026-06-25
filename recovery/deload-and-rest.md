@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Deload and rest
 
-> [!warning] Evidence: limited
+> [!info] Evidence: limited
 > Rest days and lighter weeks are sound practice, but the scheduled in-training deload has thin trial support, unlike the well-evidenced race taper. Drive it by monitoring, not the calendar.
 
 Rest days and periodic lighter weeks follow directly from the principle that adaptation happens during [recovery](supercompensation-and-adaptation.md). The principle is sound. The specific practice of a scheduled in-training deload week, however, has thinner evidence than its near-universal use suggests.

@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Cold water immersion
 
-> [!warning] Evidence: moderate
+> [!info] Evidence: moderate
 > Real acute relief of soreness, but it clearly blunts muscle growth (and probably strength), and its effect on endurance adaptation is mixed at best. Use it when fast recovery genuinely matters more than adapting, not as a default, and keep it away from strength sessions.
 
 > [!note] Keep it in proportion

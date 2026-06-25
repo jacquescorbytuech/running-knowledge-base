@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Double-threshold training (Norwegian method)
 
-> [!warning] Evidence: limited
+> [!info] Evidence: limited
 > Well described and physiologically plausible, but its superiority over simpler threshold work is not shown in controlled trials. An elite method built on a large base.
 
 Double-threshold training places two submaximal threshold sessions in a single day, with lactate kept controlled in roughly the 2.0 to 4.0 mmol/L range so that a large volume of quality work accumulates without the cost of all-out efforts ([Kelemen et al. 2024](../sources/kelemen-2024-double-threshold.md)). It is associated with the Ingebrigtsen brothers and other Norwegian distance runners, and uses regular blood-lactate measurement to hold intensity precisely at [threshold](../concepts/lactate-threshold.md) rather than above it.

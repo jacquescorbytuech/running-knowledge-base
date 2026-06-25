@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Body composition, weight and the leanness trap
 
-> [!warning] Evidence: moderate
+> [!info] Evidence: moderate
 > A better power-to-weight ratio helps within a healthy range, but the risk curve is U-shaped: chasing leanness past a point triggers low energy availability, bone injury and illness, and performance falls. Fuel for performance, not for the scale.
 
 > [!warning] Not medical advice

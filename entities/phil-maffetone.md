@@ -3,14 +3,13 @@ type: Entity
 title: Phil Maffetone
 description: Originator of the MAF method and the "180 minus age" aerobic heart-rate formula.
 tags: [training]
-evidence: weak
 timestamp: 2026-06-24
 ---
 
 # Phil Maffetone
 
-> [!danger] Evidence: weak
-> Originator of the MAF method and the "180 minus age" formula. The easy-base idea is sound; the formula itself has no physiological derivation, by its author's own admission.
+> [!info] Coach and author
+> Originator of the MAF method and the "180 minus age" formula. The easy-base idea is sound; the formula itself has no physiological derivation, by its author's own admission (graded weak — see [training philosophies](../techniques/training-philosophies.md)).
 
 Phil Maffetone is the originator of the MAF (Maximum Aerobic Function) method, popularised through his work with endurance athletes including Mark Allen. His background is in alternative and natural medicine rather than academic exercise physiology, which is worth stating given the clinical framing of his claims.
 

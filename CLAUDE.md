@@ -36,6 +36,8 @@ Every claim-bearing page (Concept, Technique, Substance, Gear, Metric) carries a
 
 A page may grade individual claims differently in the body; the frontmatter value reflects the page's headline claim.
 
+The evidence callout at the top of each claim-bearing page renders the grade with a fixed icon, so the colour signals the grade and nothing else. The mapping is: `strong → [!success]`, `moderate → [!info]`, `limited → [!info]`, `weak → [!danger]`, `contested → [!question]`. Do not reach for `[!warning]` on the evidence callout to flag a risky or over-marketed topic — that caution belongs in a separate body callout (a `[!warning]`, or the standard `> [!warning] Not medical advice` notice), never in the headline grade.
+
 ## Directory layout
 
 ```

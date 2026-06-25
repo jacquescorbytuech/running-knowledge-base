@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Antioxidant supplements
 
-> [!warning] Evidence: moderate
+> [!info] Evidence: moderate
 > High-dose vitamin C and E may blunt the training adaptations you are trying to build. Get antioxidants from food, not from chronic megadoses.
 
 > [!warning] Not medical advice

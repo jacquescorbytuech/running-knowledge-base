@@ -9,7 +9,7 @@ timestamp: 2026-06-24
 
 # Disordered eating in runners
 
-> [!warning] Evidence: moderate
+> [!info] Evidence: moderate
 > Disordered eating is more common in endurance and lean-aesthetic sports than in the general population. It runs on a spectrum from mild restriction to a clinical eating disorder, drives [RED-S](red-s.md) and [bone stress injuries](../injury/bone-stress-injuries.md), and places a duty of care on coaches.
 
 > [!warning] Not medical advice
