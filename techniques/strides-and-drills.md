@@ -46,5 +46,6 @@ Do strides. They are cheap, low-risk and well-justified for priming and for keep
 - [Biomechanics and gait](../concepts/biomechanics-and-gait.md)
 - [Warm-up and cool-down](warm-up-and-cool-down.md)
 - [Plyometrics](plyometrics.md)
+- [Training aids](training-aids.md)
 - [Interval training](interval-training.md)
 - [The basics](../concepts/the-basics.md)

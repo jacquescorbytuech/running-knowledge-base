@@ -48,6 +48,7 @@ Age-appropriate volumes, gradual progression and long-term patience serve young 
 - [The basics](the-basics.md)
 - [Individual variation and trainability](individual-variation.md)
 - [Masters runners](masters-runners.md)
+- [Early and late developers](early-and-late-developers.md)
 - [Relative Energy Deficiency in Sport (RED-S)](../nutrition/red-s.md)
 - [Bone stress injuries](../injury/bone-stress-injuries.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)

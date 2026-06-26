@@ -15,6 +15,7 @@ Training and practice methods.
 - [Mental training and sports psychology](mental-training.md) — effort perception, self-talk, goal-setting and the honest size of the effects
 - [Music and running](music-and-running.md) — a small, perceptual aid for easy running; the safety and rules caveats
 - [Treadmill running](treadmill-running.md) — a valid substitute, and the truth about the 1% incline rule
+- [Running surfaces](running-surfaces.md) — road, track, grass and trail; why the body adapts to hardness, the energy cost of soft ground, and indoor versus outdoor tracks
 
 ## Quality and sharpening
 
@@ -26,6 +27,7 @@ Training and practice methods.
 - [Strength training for runners](strength-training-for-runners.md) — well-evidenced economy gains and injury prevention
 - [Plyometrics](plyometrics.md) — jump training for elastic energy return and economy
 - [Strides and running drills](strides-and-drills.md) — low-cost strides for priming and form, and an honest look at why drills probably do not improve economy
+- [Training aids](training-aids.md) — wickets, ladders, sleds and bands; mostly skill tools with thin transfer, and what actually earns its place
 - [Heat acclimation](heat-acclimation.md) — reliable for hot races, contested as a cool-weather aid
 - [Altitude training](altitude-training.md) — reliable haematology, contested performance payoff
 - [Cold-weather running](cold-weather-running.md) — cool helps but cold hurts; the lungs do not freeze; manage wind chill and wet

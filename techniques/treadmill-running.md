@@ -28,3 +28,4 @@ The treadmill earns its place for control: precise pacing, programmed [incline w
 - [Thermoregulation](../concepts/thermoregulation.md)
 - [Hill training](hill-training.md)
 - [Race pacing](race-pacing.md)
+- [Running surfaces](running-surfaces.md)

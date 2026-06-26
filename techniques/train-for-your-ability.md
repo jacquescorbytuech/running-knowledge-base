@@ -31,4 +31,5 @@ There is also a selection effect in what you see. The runners visibly thriving o
 - [Individual variation and trainability](../concepts/individual-variation.md)
 - [Training-load management](training-load-management.md)
 - [Base building](base-building.md)
+- [Theory of constraints (training the limiter)](../concepts/theory-of-constraints.md)
 - [The basics](../concepts/the-basics.md)

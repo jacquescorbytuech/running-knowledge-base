@@ -26,6 +26,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Fatigue mechanisms](fatigue-mechanisms.md) — central versus peripheral, an unsettled debate
 - [Biomechanics and gait](biomechanics-and-gait.md) — cadence, footstrike and overstriding, mostly self-optimised
 - [Training intensity zones](training-intensity-zones.md) — two thresholds, three domains, and how the zone models map onto them
+- [Theory of constraints (training the limiter)](theory-of-constraints.md) — find and train your actual limiter rather than polishing a strength
 
 ## Populations and health
 
@@ -34,6 +35,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Pregnancy and postpartum running](pregnancy-and-postpartum-running.md) — running through an uncomplicated pregnancy, and the gradual return afterwards
 - [Masters runners](masters-runners.md) — how performance changes with age, and what preserves it
 - [Youth and adolescent runners](youth-running.md) — why children are not small adults, and the case against early specialisation
+- [Early and late developers](early-and-late-developers.md) — fast risers and slow bakers; why junior success poorly predicts senior success
 - [Running and health](running-and-health.md) — the longevity benefit, and the contested "too much running" question
 - [Illness and immune function](illness-and-immune-function.md) — heavy training and infection risk, and how to decide whether to train through illness
 - [Air quality and pollution](air-quality-and-pollution.md) — how polluted air affects runners, and why the benefits of running usually still win
