@@ -41,11 +41,13 @@ The hardest part of tendon rehab is the timescale. Meaningful change takes weeks
 > [!warning] Manage expectations from the start
 > Runners often abandon tendon rehab because it feels slow. The evidence says slow is normal: the gains accrue over months, not weeks ([Beyer et al. 2015](../sources/beyer-2015-hsr-eccentric.md)). Setting that expectation early is part of the treatment.
 
-A practical course is to begin isometric or light loading to settle irritable symptoms, progress to heavy-slow resistance two to three times a week, and keep a reduced amount of running going if it stays within the pain rule. Strength work also lowers the chance of the injury returning; see [strength training for runners](../techniques/strength-training-for-runners.md). The springy efficiency a healthy Achilles provides is itself worth protecting; see [Achilles stiffness and economy](../sources/achilles-stiffness-economy.md).
+A practical course is to begin isometric or light loading to settle irritable symptoms, progress to heavy-slow resistance two to three times a week, and keep a reduced amount of running going if it stays within the pain rule. If loading stalls, [shockwave therapy](shockwave-therapy.md) is the best-evidenced passive adjunct to add, with moderate support in chronic tendinopathy ([ESWT Achilles review 2022](../sources/eswt-achilles-2022-review.md)); the [other hands-on treatments](manual-and-passive-therapies.md) offer short-term relief at best. Strength work also lowers the chance of the injury returning; see [strength training for runners](../techniques/strength-training-for-runners.md). The springy efficiency a healthy Achilles provides is itself worth protecting; see [Achilles stiffness and economy](../sources/achilles-stiffness-economy.md).
 
 ## Related
 
 - [Running injuries](running-injuries.md)
 - [Common overuse injuries](common-overuse-injuries.md)
 - [Bone stress injuries](bone-stress-injuries.md)
+- [Shockwave therapy](shockwave-therapy.md)
+- [Manual and passive therapies](manual-and-passive-therapies.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)

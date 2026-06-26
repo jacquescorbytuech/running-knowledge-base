@@ -44,6 +44,8 @@ Foot orthoses and insoles give modest medium-term pain relief of uncertain clini
 
 Night splints, which hold the ankle in dorsiflexion overnight to keep the fascia on a light stretch, and low-dye taping, which supports the arch to offload the fascia in the short term, are both used. Their supporting evidence is thinner than that for loading, so they are adjuncts that may help some people with symptoms rather than the core treatment ([Rathleff et al. 2015](../sources/rathleff-2015-plantar.md)).
 
+For a stubborn case that has not settled with months of loading, [shockwave therapy](shockwave-therapy.md) is the best-evidenced add-on. A double-blind, placebo-controlled trial of focused shockwave found a clinically relevant reduction in heel pain over sham at twelve weeks ([Gollwitzer et al. 2015](../sources/gollwitzer-2015-eswt-plantar.md)), and meta-analysis supports it for chronic, recalcitrant plantar fasciopathy, again as an adjunct rather than a replacement for loading ([ESWT tendinopathy meta 2023](../sources/eswt-tendinopathy-2023-meta.md)). The [other hands-on treatments](manual-and-passive-therapies.md) offer short-term relief at best.
+
 ## It takes months, and usually resolves
 
 The hardest part to accept is the timescale. Plantar fasciopathy is usually self-limiting, but slow: meaningful change takes weeks, and in the trial above the two groups only converged at a year ([Rathleff et al. 2015](../sources/rathleff-2015-plantar.md)). The degenerative tissue adapts slowly, so there is no quick fix. Setting that expectation early, and resisting the urge to abandon the programme because it feels slow, is part of the treatment. Foot strike and arch mechanics are sometimes blamed; see [biomechanics and gait](../concepts/biomechanics-and-gait.md) for why gait tinkering is rarely the lever it is sold as, and [the basics](../concepts/the-basics.md) for where effort is better spent.
@@ -56,6 +58,7 @@ The hardest part to accept is the timescale. Plantar fasciopathy is usually self
 - [Patellofemoral pain](../injury/patellofemoral-pain.md)
 - [Achilles tendinopathy](../injury/achilles-tendinopathy.md)
 - [Return to running](../techniques/return-to-running.md)
+- [Shockwave therapy](shockwave-therapy.md)
 - [Insoles and orthotics](../gear/insoles-and-orthotics.md)
 - [Biomechanics and gait](../concepts/biomechanics-and-gait.md)
 - [The basics](../concepts/the-basics.md)

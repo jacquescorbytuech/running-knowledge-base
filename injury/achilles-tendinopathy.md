@@ -38,7 +38,7 @@ You do not have to keep an irritable Achilles pain-free during rehab. The Silber
 
 ## It takes months
 
-The hardest part is the timescale. Meaningful change takes weeks and full recovery often runs to three months or more, with continued improvement out to a year ([Beyer et al. 2015](../sources/beyer-2015-hsr-eccentric.md)). Tendon adapts slowly and there is no shortcut. Injections, in particular, can give short-term relief but tend to underperform loading over the long run ([Kongsgaard et al. 2009](../sources/kongsgaard-2009-patellar.md)), which is why graded loading, not a needle, is first-line. Returning to full mileage is a gradual, symptom-guided process; see [return to running](../techniques/return-to-running.md).
+The hardest part is the timescale. Meaningful change takes weeks and full recovery often runs to three months or more, with continued improvement out to a year ([Beyer et al. 2015](../sources/beyer-2015-hsr-eccentric.md)). Tendon adapts slowly and there is no shortcut. Injections, in particular, can give short-term relief but tend to underperform loading over the long run ([Kongsgaard et al. 2009](../sources/kongsgaard-2009-patellar.md)), which is why graded loading, not a needle, is first-line. Where a well-run loading programme has stalled, [shockwave therapy](shockwave-therapy.md) is the best-evidenced adjunct to add, with moderate-quality support for mid-portion and insertional disease and the best results when combined with loading rather than used alone ([ESWT Achilles review 2022](../sources/eswt-achilles-2022-review.md)). Returning to full mileage is a gradual, symptom-guided process; see [return to running](../techniques/return-to-running.md).
 
 A workable course: settle an irritable tendon with isometric or light loading, progress to heavy-slow resistance two to three times a week, choosing the off-a-step range for midportion disease and the flat-ground range for insertional, and keep some running going as long as it stays within the pain rule. For where the Achilles sits among other running injuries, see [running injuries](../injury/running-injuries.md), [common overuse injuries](../injury/common-overuse-injuries.md) and the wider context in [the basics](../concepts/the-basics.md).
 
@@ -49,4 +49,5 @@ A workable course: settle an irritable tendon with isometric or light loading, p
 - [Common overuse injuries](common-overuse-injuries.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
 - [Return to running](../techniques/return-to-running.md)
+- [Shockwave therapy](shockwave-therapy.md)
 - [The basics](../concepts/the-basics.md)

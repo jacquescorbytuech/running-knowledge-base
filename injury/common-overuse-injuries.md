@@ -45,7 +45,7 @@ Because the problem is load-related tissue change, progressive loading helps. An
 
 This is diffuse pain along the inner edge of the shin, brought on by running and eased by rest. It sits on the same spectrum as bone stress injury, so a sudden rise in training load is a central trigger ([MTSS reviews](../sources/winters-2018-mtss.md)). Other risk factors include female sex, higher body mass, a previous episode and greater navicular drop ([MTSS reviews](../sources/winters-2018-mtss.md)).
 
-Management rests on relative rest and graded load progression, the same load-first logic as the other overuse injuries ([MTSS reviews](../sources/winters-2018-mtss.md)). Various passive add-ons such as shockwave therapy, compression and shock-absorbing insoles are used, but their supporting evidence is thin, so they are adjuncts rather than the core treatment.
+Management rests on relative rest and graded load progression, the same load-first logic as the other overuse injuries ([MTSS reviews](../sources/winters-2018-mtss.md)). Various passive add-ons such as [shockwave therapy](shockwave-therapy.md), compression and shock-absorbing insoles are used, but their supporting evidence here is thin, so they are adjuncts rather than the core treatment.
 
 > [!warning] Shin pain that localises is a red flag
 > Diffuse shin pain along the inner border is typical of medial tibial stress syndrome, but pain that narrows to a single tender spot, especially on the front edge of the shin, can mark a tibial bone stress injury and needs assessment. See [bone stress injuries](bone-stress-injuries.md).
