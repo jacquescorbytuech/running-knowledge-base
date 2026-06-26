@@ -43,6 +43,7 @@ Heat, wind and terrain all justify pacing slower than a flat-calm goal. Hills ar
 - [Interval training](interval-training.md)
 - [The long run](the-long-run.md)
 - [Distance-specific training](distance-specific-training.md)
+- [Events index](../events/index.md)
 - [Durability](../concepts/durability.md)
 - [Glycogen](../concepts/glycogen.md)
 - [In-race carbohydrate](../nutrition/in-race-carbohydrate.md)

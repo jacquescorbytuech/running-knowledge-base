@@ -31,3 +31,5 @@ This single fact shapes training. It is why the bulk of work targets the aerobic
 - [Muscular adaptations to training](muscular-adaptations.md)
 - [VO₂max](vo2max.md)
 - [Training volume versus intensity](../techniques/training-volume-vs-intensity.md)
+- [Distance-specific training](../techniques/distance-specific-training.md)
+- [Events index](../events/index.md)

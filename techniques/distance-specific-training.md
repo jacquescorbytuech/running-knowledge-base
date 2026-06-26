@@ -19,12 +19,20 @@ One feature is shared across the range. Elite runners from 1500 m to the maratho
 ## The continuum
 
 > [!example] Where the emphasis sits by event
-> - **1500 m.** Still substantially anaerobic, around 16% of energy ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md)). Needs real speed and [anaerobic capacity and speed reserve](../concepts/anaerobic-capacity-and-speed-reserve.md), VO₂max work, and the ability to handle high lactate. Volume is moderate; the closing kick is decisive.
-> - **5 km.** The classic VO₂max event. Heavy on intervals at and around VO₂max pace, threshold work to lift the sustainable ceiling, and enough speed to finish. Specific endurance means holding close to VO₂max for the full distance.
-> - **10 km.** Shifts toward [lactate threshold](../concepts/lactate-threshold.md). Threshold volume rises, VO₂max work stays, speed work narrows to sharpening. Specific endurance is the ability to sit just below threshold for half an hour.
-> - **Half marathon.** A threshold event. The goal pace sits near lactate threshold, so threshold and tempo volume dominate, with longer specific runs at goal pace.
-> - **Marathon.** Decided by threshold, economy, [durability](../concepts/durability.md) and fuel. Very high easy volume, large threshold blocks, long runs and marathon-pace work, plus a fuelling and glycogen plan. Holding pace late when tired is the event-specific quality.
+> - **[800 m](../events/the-800m.md).** The most anaerobic event still called distance running, around 34% of its energy from anaerobic sources ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md)). Won on [speed reserve](../concepts/anaerobic-capacity-and-speed-reserve.md) and lactate tolerance.
+> - **[1500 m and the mile](../events/the-1500m-and-mile.md).** Still substantially anaerobic, around 16% of energy ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md)). Needs real speed and [anaerobic capacity and speed reserve](../concepts/anaerobic-capacity-and-speed-reserve.md), VO₂max work, and the ability to handle high lactate. Volume is moderate; the closing kick is decisive.
+> - **[3000 m](../events/the-3000m.md).** The bridge from middle distance to long: VO₂max-dominant with a shrinking but real anaerobic tail.
+> - **[5 km](../events/the-5k.md).** The classic VO₂max event. Heavy on intervals at and around VO₂max pace, threshold work to lift the sustainable ceiling, and enough speed to finish. Specific endurance means holding close to VO₂max for the full distance.
+> - **[10 km](../events/the-10k.md).** Shifts toward [lactate threshold](../concepts/lactate-threshold.md). Threshold volume rises, VO₂max work stays, speed work narrows to sharpening. Specific endurance is the ability to sit just below threshold for half an hour.
+> - **[Half marathon](../events/the-half-marathon.md).** A threshold event. The goal pace sits near lactate threshold, so threshold and tempo volume dominate, with longer specific runs at goal pace.
+> - **[Marathon](../events/the-marathon.md).** Decided by threshold, economy, [durability](../concepts/durability.md) and fuel. Very high easy volume, large threshold blocks, long runs and marathon-pace work, plus a fuelling and glycogen plan. Holding pace late when tired is the event-specific quality.
 > - **Ultra.** Volume, [fat oxidation](../concepts/fat-oxidation-and-metabolic-flexibility.md), durability and gut tolerance dominate. Top-end speed is almost irrelevant; time on feet and fuelling tolerance are everything.
+
+## Pace labels assume a competitive finish time
+
+The labels above describe the runner whose finish time matches the physiological duration of the effort, and that duration is set by physiology rather than by the distance. Time to exhaustion falls as a hyperbolic function of intensity, so the harder the effort the shorter it can be held ([critical speed and power](../concepts/critical-speed-and-power.md)): a maximal-oxygen-uptake effort lasts only a few minutes, while the [lactate threshold](../concepts/lactate-threshold.md) can be sustained for roughly half an hour to an hour. The 5k is a VO₂max event for someone racing it in 14 minutes, but a 35-minute 5k is run closer to that runner's threshold, because nobody holds VO₂max for half an hour. The same shift runs through every distance. A 62-minute half marathon is a threshold effort; a two-hour half is well below threshold, at an intensity its runner could hold for two hours. The slower the runner, the longer they are on the course and the lower the relative intensity at which they cover the distance.
+
+This does not undo the training emphases, which follow the energy-system demand of racing each distance well. It does mean the pace labels read as the demand of racing the distance fast, not as a fixed property of the distance, and that a slower runner should anchor training to their own threshold and VO₂max paces rather than to the label the event carries for an elite.
 
 ## Specificity narrows toward the race
 
@@ -36,8 +44,11 @@ Training intensity distribution also shifts along the continuum. A descriptive r
 
 The longer the event, the more the result depends on fuel rather than pure fitness. [Glycogen](../concepts/glycogen.md) is rarely a limiter in a 5 km but is central to the marathon, where running out of carbohydrate is a common cause of the late-race collapse. From the half marathon up, [in-race carbohydrate](../nutrition/in-race-carbohydrate.md), [carbohydrate loading](../nutrition/carbohydrate-loading.md) and the [durability](../concepts/durability.md) to resist fatigue late all move into the foreground. For ultras, gut tolerance of high carbohydrate intake becomes a trainable performance factor in its own right; see [gut training](../nutrition/gut-training.md). A marathon training block that ignores fuelling rehearsal is incomplete in a way a 5 km block is not.
 
+Each event has its own page working through its demands and training in depth; see the [events index](../events/index.md), or jump to the [800 m](../events/the-800m.md), [1500 m and the mile](../events/the-1500m-and-mile.md), [3000 m](../events/the-3000m.md), [5k](../events/the-5k.md), [10k](../events/the-10k.md), [half marathon](../events/the-half-marathon.md) and [marathon](../events/the-marathon.md).
+
 ## Related
 
+- [Events index](../events/index.md)
 - [Interval training](interval-training.md)
 - [The long run](the-long-run.md)
 - [Canova method](canova-method.md)

@@ -29,6 +29,7 @@ Every page declares a `type` in its frontmatter. Use only these values:
 - `Technique` — a concrete training or practice method (polarised training, the long run, carb-loading, tapering).
 - `Substance` — anything ingested for performance or health (caffeine, nitrate, sodium bicarbonate, iron, ketones).
 - `Gear` — equipment (super-shoes, foams, carbon plates).
+- `Event` — a racing distance treated as a unit: its energy-system demands, physiological limiters and training approach (the 5k, the marathon). Event pages live in [events/](events/index.md); the [distance-specific training](techniques/distance-specific-training.md) page is the cross-cutting overview, and each event page covers one distance in depth.
 - `Metric` — a defined, measurable quantity (a VO₂max value, HRV, running economy in ml/kg/km). Reserved for now; measured quantities currently live inside the relevant Concept and Gear pages.
 - `Entity` — a named person, body or brand, only where it earns its own page.
 
@@ -36,7 +37,7 @@ Do not invent types. If something needs a type the bundle lacks, propose adding 
 
 ## Evidence grading
 
-Every claim-bearing page (Concept, Technique, Substance, Gear, Metric) carries an `evidence:` field in its frontmatter, so the editorial stance is structural rather than buried in prose. The value reflects the page's headline claim; the body may grade individual claims differently. The occasional editorial or meta page, one about the practice of the field rather than an empirical claim (such as [the marketing playbook](nutrition/the-marketing-playbook.md)), may omit the grade and carry a plain callout in place of the evidence banner.
+Every claim-bearing page (Concept, Technique, Substance, Gear, Metric) carries an `evidence:` field in its frontmatter, so the editorial stance is structural rather than buried in prose. The value reflects the page's headline claim; the body may grade individual claims differently. The occasional editorial or meta page, one about the practice of the field rather than an empirical claim (such as [the marketing playbook](nutrition/the-marketing-playbook.md)), may omit the grade and carry a plain callout in place of the evidence banner. So do the [Event](events/index.md) pages: each is a synthesis that draws graded claims from the concept and technique pages it links, so a single grade on a distance would only flatten and repeat them. Event pages carry a plain orienting callout instead.
 
 | Grade | Meaning |
 | --- | --- |
