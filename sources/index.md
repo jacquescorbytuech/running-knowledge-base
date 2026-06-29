@@ -177,7 +177,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Issurin 2016, Benefits and limitations of block periodisation](issurin-2016-periodisation.md)
 - [Jeffreys 2007, the RAMP method of warm-up](jeffreys-2007-ramp.md)
 - [Jones & Doust 1996, A 1% treadmill grade reflects outdoor running cost](jones-doust-1996-treadmill-grade.md)
-- [Jowett 2017, The coach-athlete relationship at the heart of coaching effectiveness](jowett-2017-coach-athlete.md)
+- [Jowett 2017, Coaching effectiveness: the coach-athlete relationship at its heart](jowett-2017-coach-athlete.md)
 - [Jowett et al. 2017, Motivational processes in the coach-athlete relationship](jowett-2017-motivational-coaching.md)
 - [Karageorghis & Priest 2011-2012, Music in the exercise domain](karageorghis-priest-music.md)
 - [Karvonen et al. 1957, Heart-rate reserve method](karvonen-1957-hrr.md)
