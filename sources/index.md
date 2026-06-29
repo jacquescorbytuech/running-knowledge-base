@@ -201,7 +201,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Marius Bakken on the Norwegian Method — Double Threshold, Lactate Control, and Muscle Tone (Science of Running, 2026)](scienceofrunning-2026-bakken-muscle-tone.md)
 - [Martindale et al. 2010 and Li et al. 2015, Talent Development Environment Questionnaire](martindale-2010-tdeq.md)
 - [Masters & Ogles 1998, Associative and dissociative strategies in running](masters-ogles-1998-attention.md)
-- [Midgley, McNaughton & Jones 2007, Training to enhance VO2max and economy](midgley-2007-long-run.md)
+- [Midgley, McNaughton & Jones 2007, Training to enhance VO2max and economy](midgley-2007-determinants.md)
 - [Mihály Iglói (biographical overview)](igloi-wikipedia.md)
 - [Mikkelsen et al. 2019, Prolonged heat acclimation and aerobic performance](mikkelsen-2019-heat.md)
 - [Miller et al. 2019, Physiological, perceptual and performance differences between treadmill and overground running](miller-2019-treadmill-overground.md)

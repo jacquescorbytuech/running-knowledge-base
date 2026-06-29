@@ -12,7 +12,7 @@ timestamp: 2026-06-24
 > [!info] Evidence: limited
 > Influential elite coaching practice built on training around race pace. Documented in detail, but not tested in controlled trials.
 
-[Renato Canova](../entities/renato-canova.md) is an Italian coach whose athletes include several of the fastest marathoners in history and multiple Olympic and World Championship medallists ([Davis 2011](../sources/davis-2011-canova.md)). His system is built on a single organising idea: the most important training is done at or near goal race pace, and everything else exists to support it.
+[Renato Canova](../entities/renato-canova.md) is an Italian coach who has guided dozens of athletes to world-class performances, including several of the fastest marathoners in history ([Davis 2011](../sources/davis-2011-canova.md)). His system is built on a single organising idea: the most important training is done at or near goal race pace, and everything else exists to support it.
 
 ## What it prescribes
 
