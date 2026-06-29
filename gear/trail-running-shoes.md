@@ -12,7 +12,7 @@ timestamp: 2026-06-24
 > [!info] Evidence: limited
 > Outsole traction on genuinely loose, soft or wet ground is the one trail-specific feature with a clear off-road payoff, and it comes at a cost on hard surfaces. Beyond that, most trail-shoe choice is fit, comfort and durability rather than proven performance, and the "fit and comfort first" rule from the [road-shoe page](running-shoes.md) still applies.
 
-Trail shoes are road shoes adapted for unstable, uneven and often wet ground. The differences are real but mostly serve grip, protection and durability, not the kind of economy gain seen with [super-shoes](super-shoes.md) on the road. The same starting principle holds: the best shoe is the one that fits and feels comfortable on the terrain you actually run ([shoe-selection evidence](../sources/shoe-selection-evidence.md)).
+Trail shoes are road shoes adapted for unstable, uneven and often wet ground. The differences are real but mostly serve grip, protection and durability, not the kind of economy gain seen with [super-shoes](super-shoes.md) on the road. The same starting principle holds: the best shoe is the one that fits and feels comfortable on the terrain you actually run ([Nigg et al. 2015](../sources/nigg-2015-comfort-filter.md)).
 
 ## Outsole: lugs and rubber
 
@@ -40,7 +40,7 @@ The road [super-shoe](super-shoes.md) formula of a stiff [carbon plate](carbon-p
 - **Technical mountain and rocky terrain:** secure fit, toe protection, a rock plate, moderate lugs for grip on rock.
 - **Mud and soft loose ground:** deep, widely spaced lugs in soft sticky rubber; fit security for the slipping and grabbing such ground forces.
 
-Beyond traction on truly loose or wet ground, trail-shoe choice is comfort, fit and durability, not proven performance, so put fit and comfort first ([shoe-selection evidence](../sources/shoe-selection-evidence.md)). Shoes are the last few per cent; training volume is the [basics](../concepts/the-basics.md), and confidence on descents owes more to [hill training](../techniques/hill-training.md) than to the outsole.
+Beyond traction on truly loose or wet ground, trail-shoe choice is comfort, fit and durability, not proven performance, so put fit and comfort first ([Nigg et al. 2015](../sources/nigg-2015-comfort-filter.md)). Shoes are the last few per cent; training volume is the [basics](../concepts/the-basics.md), and confidence on descents owes more to [hill training](../techniques/hill-training.md) than to the outsole.
 
 ## Related
 
