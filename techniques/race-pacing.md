@@ -29,14 +29,14 @@ A caution about the evidence. Most of this comes from observing what fast people
 ## Pacing by distance
 
 > [!tip] Practical guidance
-> - **800 m and shorter.** The first lap is almost always faster than the second. This is partly an unavoidable artefact of accelerating from a standing start and of positioning, and partly because top-end speed cannot be held once lactate climbs ([Abbiss & Laursen 2008](../sources/abbiss-laursen-2008-pacing.md)); whether a positive split is genuinely *optimal* or merely typical is less settled. In practice, commit early and hold on.
+> - **800 m and shorter.** The first lap is almost always faster than the second. This is partly an unavoidable artefact of accelerating from a standing start and of positioning, and partly because top-end speed cannot be held once lactate climbs; whether a positive split is genuinely *optimal* or merely typical is less settled. In practice, commit early and hold on.
 > - **1500 m to 10 km.** Aim for even effort. Avoid the adrenaline-fuelled fast first lap, settle into goal rhythm quickly, and save any change of pace for the finish.
 > - **Half and full marathon.** Start at or just below goal pace and aim for even or slightly negative splits. The classic error is banking time early; it is almost always withdrawn with interest after 30 km ([Grivas 2025](../sources/grivas-2025-negative-splits.md)).
 > - **Ultras and hilly courses.** Hold constant effort, not constant pace. Over hills, keeping exertion steady rather than speed steady is the more economical strategy, so ease on the climbs and let the descents come back to you ([Abbiss & Laursen 2008](../sources/abbiss-laursen-2008-pacing.md)).
 
 ## Conditions
 
-Heat, wind and terrain all justify pacing slower than a flat-calm goal. Hills are best run as constant effort. Headwinds are worth tucking behind others, and championship data show that running in a pack with similar-ability runners helps both sexes, while running alone tends to cost time late ([Hanley 2016](../sources/hanley-2016-pacing-profiles.md)). The discipline to start conservatively is the single most transferable pacing skill, and it is best rehearsed in training so race-day adrenaline does not override it.
+Heat, wind and terrain all justify pacing slower than a flat-calm goal. Hills are best run as constant effort. Headwinds are worth tucking behind others, and championship data show that running in a pack with similar-ability runners helps both sexes, while nomadic or inconsistent group positioning tended to cost time in the second half ([Hanley 2016](../sources/hanley-2016-pacing-profiles.md)). The discipline to start conservatively is the single most transferable pacing skill, and it is best rehearsed in training so race-day adrenaline does not override it.
 
 ## Related
 

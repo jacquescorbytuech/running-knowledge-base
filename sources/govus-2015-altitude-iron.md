@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Govus et al. 2015, Pre-altitude ferritin, iron dose and haemoglobin-mass response
-resource: https://pubmed.ncbi.nlm.nih.gov/26248031/
+resource: https://pubmed.ncbi.nlm.nih.gov/26263553/
 tags: [training]
 timestamp: 2026-06-24
 ---

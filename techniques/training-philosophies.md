@@ -32,7 +32,7 @@ Two facts frame everything below. First, almost no packaged "system" has ever be
 
 ## The honest bottom line
 
-No intensity distribution is a proven universal winner; head-to-head meta-analyses find no clear winner ([Silva Oliveira et al. 2024](../sources/silva-oliveira-2024-meta.md); [Rosenblat et al. 2024](../sources/rosenblat-2024-ipd.md)). Individual response varies and is partly genetic, and single before-after testing tends to exaggerate how distinct "responders" are ([Atkinson & Batterham 2015](../sources/atkinson-batterham-2015.md)). The defensible position is to build on the shared, well-evidenced core in [the basics](../concepts/the-basics.md), borrow structure from whichever system fits your life and event, and judge it on your own response over time, not on the brand.
+No intensity distribution is a proven universal winner; head-to-head meta-analyses find no clear winner ([Silva Oliveira et al. 2024](../sources/silva-oliveira-2024-meta.md); [Rosenblat et al. 2025](../sources/rosenblat-2024-ipd.md)). Individual response varies and is partly genetic, and single before-after testing tends to exaggerate how distinct "responders" are ([Atkinson & Batterham 2015](../sources/atkinson-batterham-2015.md)). The defensible position is to build on the shared, well-evidenced core in [the basics](../concepts/the-basics.md), borrow structure from whichever system fits your life and event, and judge it on your own response over time, not on the brand.
 
 ## Related
 

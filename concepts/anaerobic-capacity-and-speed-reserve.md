@@ -16,7 +16,7 @@ Anaerobic capacity is the total work a runner can do from energy sources that ne
 
 ## Measuring it: the oxygen deficit
 
-The reference measure is the maximal accumulated oxygen deficit, or MAOD. A runner exercises to exhaustion at a supramaximal intensity, around 120% of [VO2max](vo2max.md), and the oxygen the body demanded but could not supply is calculated by extrapolation; that deficit estimates the anaerobic energy released ([Medbo et al. 1988](../sources/medbo-1988-oxygen-deficit.md)). MAOD is the closest thing to a gold standard for anaerobic capacity, and it tracks event specialism: sprinters and middle-distance runners record larger deficits than long-distance runners ([Medbo et al. 1988](../sources/medbo-1988-oxygen-deficit.md)). It is demanding to measure, needing several supramaximal tests, which limits its everyday use.
+The reference measure is the maximal accumulated oxygen deficit, or MAOD. A runner exercises to exhaustion at a supramaximal intensity, around 120% of [VO2max](vo2max.md), and the oxygen the body demanded but could not supply is calculated by extrapolation; that deficit estimates the anaerobic energy released ([Medbo et al. 1988](../sources/medbo-1988-oxygen-deficit.md)). MAOD is the closest thing to a gold standard for anaerobic capacity, and it tracks event specialism: sprinters and middle-distance runners record larger deficits than long-distance runners. It is demanding to measure, needing several supramaximal tests, which limits its everyday use.
 
 ## VO2 kinetics
 

@@ -1,7 +1,7 @@
 ---
 type: Source
 title: TrainingPeaks, aerobic decoupling (Pa:HR / Pw:HR)
-resource: https://www.trainingpeaks.com/coach-blog/aerobic-endurance-and-decoupling/
+resource: https://www.trainingpeaks.com/blog/aerobic-endurance-and-decoupling/
 tags: [physiology]
 timestamp: 2026-06-24
 ---

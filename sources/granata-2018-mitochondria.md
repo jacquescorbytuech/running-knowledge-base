@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Granata et al. 2018, Mitochondrial adaptations to endurance training
-resource: https://pubmed.ncbi.nlm.nih.gov/29022275/
+resource: https://pubmed.ncbi.nlm.nih.gov/29934848/
 tags: [training]
 timestamp: 2026-06-24
 ---

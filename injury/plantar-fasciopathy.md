@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Plantar fasciopathy is pain under the heel, at the point where the plantar fascia attaches to the heel bone. The older name 'plantar fasciitis' implies inflammation, but the tissue change is mainly degenerative rather than inflammatory, which is why 'fasciopathy' is the more accurate term and why rest and anti-inflammatories alone tend to disappoint ([Rathleff et al. 2015](../sources/rathleff-2015-plantar.md)). It is one of the most common causes of foot pain in runners and sits alongside the other load-related complaints on the [common overuse injuries](../injury/common-overuse-injuries.md) page.
+Plantar fasciopathy is pain under the heel, at the point where the plantar fascia attaches to the heel bone. The older name 'plantar fasciitis' implies inflammation, but the tissue change is mainly degenerative rather than inflammatory, which is why 'fasciopathy' is the more accurate term and why rest and anti-inflammatories alone tend to disappoint. It is one of the most common causes of foot pain in runners and sits alongside the other load-related complaints on the [common overuse injuries](../injury/common-overuse-injuries.md) page.
 
 ## How it presents
 

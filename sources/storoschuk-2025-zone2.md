@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Storoschuk et al. 2025, Much ado about Zone 2
 
-Sports Med review: at matched volume, higher intensities equal or beat a narrow Zone 2; the Zone-2-as-optimal case rests on observational elite data. Moderate-strong.
+Sports Med narrative review: particularly at lower training volumes, higher intensities equal or beat a narrow Zone 2; the Zone-2-as-optimal case rests on observational elite data. Moderate-strong.

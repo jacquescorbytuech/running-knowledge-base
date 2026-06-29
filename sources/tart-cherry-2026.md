@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Tart cherry and recovery scoping review (Front Nutr 2026)
 
-Moderate benefit for strength/power recovery, weaker for soreness; as a polyphenol may blunt adaptation if used daily. Moderate/limited.
+Moderate benefit for strength/power recovery, weaker for soreness. Moderate/limited.

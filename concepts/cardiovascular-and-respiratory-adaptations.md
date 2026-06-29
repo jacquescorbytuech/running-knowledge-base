@@ -16,10 +16,10 @@ The delivery side of endurance, getting oxygen from the air to the working muscl
 
 ## The heart and blood do most of the work
 
-Endurance training remodels the cardiovascular system substantially ([Coyle et al. 1984](../sources/coyle-1984-detraining.md); [Joyner & Coyle 2008](../sources/joyner-coyle-2008.md)):
+Endurance training remodels the cardiovascular system substantially ([Joyner & Coyle 2008](../sources/joyner-coyle-2008.md)):
 
 - **Stroke volume.** The heart's left ventricle enlarges and fills better, so it pumps more blood per beat. This is the central change behind a higher maximum cardiac output, and therefore behind much of [VO₂max](vo2max.md). It is also why a trained runner has a low resting and submaximal heart rate: the heart does the same job in fewer, bigger beats.
-- **Blood volume.** Plasma volume expands within days of training, which alone improves cardiovascular function and is the quickest adaptation of all. Over longer periods, red-cell mass and total haemoglobin rise more slowly, improving the blood's oxygen-carrying capacity.
+- **Blood volume.** Training expands blood volume, with the reductions in blood and stroke volume being key drivers of the early fall in VO₂max with detraining ([Coyle et al. 1984](../sources/coyle-1984-detraining.md)), implying these are important training-induced adaptations.
 
 These central adaptations pair with the [muscular adaptations](muscular-adaptations.md) that let the muscle extract and use the delivered oxygen. Together, delivery and extraction set VO₂max and the sustainable fraction of it.
 

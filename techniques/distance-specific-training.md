@@ -38,7 +38,7 @@ This does not undo the training emphases, which follow the energy-system demand 
 
 The practical principle that ties the continuum together is funnelling. Training starts general, with broad aerobic and speed development at both ends of the spectrum, then converges on the goal race pace as the event approaches. This is the logic of the [Canova method](canova-method.md), where the specific period before a marathon is built around getting comfortable at race effort, raising power-endurance and aerobic endurance while holding aerobic power ([Davis 2011](../sources/davis-2011-canova.md)). The same funnelling applies at every distance. A 5 km runner narrows toward 5 km pace, a marathoner toward marathon pace, each from their own mix of faster and slower work. See [periodisation](periodisation.md) for how this sequences across a season.
 
-Training intensity distribution also shifts along the continuum. A descriptive review found marathoners leaned more pyramidal, with a large base and a tapering amount of harder work, while 1500 m runners trained more polarised, pairing easy volume with a higher dose of very hard work ([Casado et al. 2022](../sources/casado-2022-pyramidal.md)). Both rest on high easy volume; they differ in how the hard portion is shaped.
+Training intensity distribution also shifts along the continuum. A descriptive review found highly trained runners often follow a pyramidal distribution, with a large base of easy volume and a tapering amount of harder work ([Casado et al. 2022](../sources/casado-2022-pyramidal.md)).
 
 ## Fuelling scales with duration
 

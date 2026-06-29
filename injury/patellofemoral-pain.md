@@ -19,11 +19,11 @@ Patellofemoral pain, commonly called runner's knee, is the single most frequent 
 
 ## How it presents
 
-The pain is diffuse rather than pinpoint. Runners describe an ache around the front of the knee, behind or to the sides of the kneecap, that is hard to localise to one spot. It is provoked by activities that load the patellofemoral joint in a bent-knee position: running downhill, descending or climbing stairs, squatting and deep knee bends. A characteristic feature is pain after prolonged sitting with the knee flexed, the so-called 'theatre sign', named for the discomfort of sitting through a film or a long journey ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). The knee usually looks normal, without the swelling or locking that points to other joint problems.
+The pain is diffuse rather than pinpoint. Runners describe an ache around the front of the knee, behind or to the sides of the kneecap, that is hard to localise to one spot. It is provoked by activities that load the patellofemoral joint in a bent-knee position: running downhill, descending or climbing stairs, squatting and deep knee bends. A characteristic feature is pain after prolonged sitting with the knee flexed, the so-called 'theatre sign', named for the discomfort of sitting through a film or a long journey. The knee usually looks normal, without the swelling or locking that points to other joint problems.
 
 ## A multifactorial problem
 
-There is no single cause. The headline factor is load, too much running volume or intensity applied faster than the joint adapts, which is why the condition clusters in runners ramping up training. On top of that sit several contributing factors that vary between individuals: how the hip and trunk control the leg during the stance phase, knee alignment, and the strength and timing of the muscles around the hip and knee ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). Because the picture is mixed, treatment works best when it addresses load and the whole limb rather than chasing one supposed culprit.
+There is no single cause. The headline factor is load, too much running volume or intensity applied faster than the joint adapts, which is why the condition clusters in runners ramping up training. On top of that sit several contributing factors that vary between individuals: how the hip and trunk control the leg during the stance phase, knee alignment, and the strength and timing of the muscles around the hip and knee. Because the picture is mixed, treatment works best when it addresses load and the whole limb rather than chasing one supposed culprit.
 
 ## The hip-strength evidence
 

@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Creatine is one of the best-evidenced supplements in sport overall, classed Group A, but its case for *distance running* specifically is mixed rather than strong ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). The evidence is robust for sprint and power performance and limited or null for steady-state endurance, where a meta-analysis found no benefit in trained individuals.
+Creatine is one of the best-evidenced supplements in sport overall, classed Group A, but its case for *distance running* specifically is mixed rather than strong ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). The evidence is robust for sprint and power performance and mixed for steady-state endurance, with no consistent benefit shown in trained individuals ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)).
 
 The complication for runners is body mass. Creatine draws water into muscle, adding roughly 0.9 to 2 kg, which penalises weight-bearing endurance; one early study found impaired 6 km running after loading ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). For this reason runners are advised to skip the rapid loading phase and take 3 to 5 g per day over about four weeks, avoiding the acute water-weight spike.
 

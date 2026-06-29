@@ -23,7 +23,7 @@ The adaptation needs roughly one to two weeks of repeated exercise-heat exposure
 > [!tip] How to acclimate
 > Around 5 to 14 consecutive days of exercise in the heat, roughly 60 to 90 minutes per session at an effort that raises core temperature and provokes good sweating. Adaptations (plasma-volume expansion, earlier and greater sweating, lower heart rate at a given effort) appear within about a week and decay over a similar period once exposure stops, so the block is timed to finish close to the target race.
 
-In practice, the sessions are a genuine training stress, so they replace rather than add to hard running, and they must be paired with sensible [hydration](../nutrition/hydration.md) and cooling to be done safely. The adaptation also decays once exposure stops, at roughly the rate it was gained, so the block is timed to finish close to a hot target race rather than weeks before it ([Tyler et al. 2016](../sources/tyler-2016-heat-meta.md)).
+In practice, the sessions are a genuine training stress, so they replace rather than add to hard running, and they must be paired with sensible [hydration](../nutrition/hydration.md) and cooling to be done safely. The adaptation decays once exposure stops, so the block is timed to finish close to a hot target race rather than weeks before it.
 
 ## Related
 

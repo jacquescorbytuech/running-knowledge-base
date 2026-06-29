@@ -24,7 +24,7 @@ That reserve is the second parameter of the relationship: W' (W-prime, written D
 
 ## Relation to the lactate threshold
 
-CS sits close to, but is not the same as, the second [lactate threshold](lactate-threshold.md) and the maximal lactate steady state (MLSS). Both aim at the same idea, the highest sustainable intensity, but reach it differently: MLSS from constant-pace runs that hold blood lactate steady, CS from the mathematics of time to exhaustion. The two land near each other and CS often sits slightly above MLSS, partly because protocols and definitions of MLSS themselves disagree ([Faude et al. 2009](../sources/faude-2009-lactate-thresholds.md)). The practical reading is that CS gives a sharply defined boundary from a few maximal efforts, where the lactate approach needs several constant-pace tests on separate days.
+CS sits close to, but is not the same as, the second [lactate threshold](lactate-threshold.md) and the maximal lactate steady state (MLSS). Both aim at the same idea, the highest sustainable intensity, but reach it differently: MLSS from constant-pace runs that hold blood lactate steady, CS from the mathematics of time to exhaustion. The two land near each other and CS often sits slightly above MLSS. Definitions and protocols for measuring MLSS vary, which partly explains the discrepancy between them ([Faude et al. 2009](../sources/faude-2009-lactate-thresholds.md)). The practical reading is that CS gives a sharply defined boundary from a few maximal efforts, where the lactate approach needs several constant-pace tests on separate days.
 
 ## Practical use
 

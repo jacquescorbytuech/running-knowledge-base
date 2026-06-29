@@ -16,7 +16,7 @@ Pooled across 139 studies, music produces a small benefit to performance, a mode
 
 That perceptual lever has a ceiling. Music lowers perceived effort at low-to-moderate intensities by roughly a tenth, but the effect fades above the anaerobic threshold, where the body's own signals crowd out the distraction ([Karageorghis & Priest 2011-2012](../sources/karageorghis-priest-music.md)). So music helps most exactly where running is already easy, on recovery and steady runs, and least in the hard efforts that decide races. Matching cadence to a track's tempo (synchronous music) squeezes out a little more, including a lower oxygen cost, and faster tempos help more than slow ones. The mechanism is dissociation, pulling attention away from fatigue, which connects to the [attentional strategies](mental-training.md) in mental training.
 
-Music before a run is a separate, modest tool: it raises power output and lifts pre-exercise mood, useful as part of a warm-up, though it does not carry over to lower perceived effort once running ([Delleli et al. 2023](../sources/delleli-2023-pretask-music.md)).
+Music before a run is a separate, modest tool: it raises power output and may shorten completion time, useful as part of a warm-up, though it does not carry over to lower perceived effort once running ([Delleli et al. 2023](../sources/delleli-2023-pretask-music.md)).
 
 ## Safety and rules
 

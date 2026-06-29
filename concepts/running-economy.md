@@ -42,7 +42,7 @@ Joyner combined the three determinants into a single framework: achievable marat
 
 ## What improves it
 
-- **[Strength training](../techniques/strength-training-for-runners.md).** The best-evidenced training lever, improving economy by roughly 2 to 8% with larger effects at faster speeds, through stiffer tendons and better neuromuscular efficiency rather than added mass ([Blagrove et al. 2018](../sources/blagrove-2018-strength.md); [Llanos-Lagos et al. 2024](../sources/llanos-lagos-2024-strength.md)). Heavy resistance has a slightly larger effect than plyometrics ([Eihara et al. 2022](../sources/eihara-2022-strength.md)).
+- **[Strength training](../techniques/strength-training-for-runners.md).** The best-evidenced training lever, improving economy by roughly 2 to 8% with larger effects at faster speeds, without adding body mass ([Blagrove et al. 2018](../sources/blagrove-2018-strength.md); [Llanos-Lagos et al. 2024](../sources/llanos-lagos-2024-strength.md)). Heavy resistance has a slightly larger effect than plyometrics ([Eihara et al. 2022](../sources/eihara-2022-strength.md)).
 - **High mileage over time.** Years of training gradually improve economy, though the effect is slow and hard to isolate from selection.
 - **Super-shoes**, as above, the largest single acute improvement available, but external to the runner.
 

@@ -19,14 +19,14 @@ Distance running rewards moving a given aerobic engine over a lighter frame, so 
 
 ## The real tension
 
-Within a sensible range, carrying less non-functional mass lowers the energy cost of running and tends to improve race times ([body composition synthesis](../sources/sutton-2009-body-fat-kenyan-runners.md)). That is the kernel of truth behind 'racing weight'. But the relationship is not linear, and it does not keep paying out. Among elite runners, body fat clusters in a band, not at zero, and within elite groups lower skinfolds do not reliably predict faster times ([body composition synthesis](../sources/sutton-2009-body-fat-kenyan-runners.md)).
+Within a sensible range, carrying less non-functional mass lowers the energy cost of running and tends to improve race times ([body composition synthesis](../sources/sutton-2009-body-fat-kenyan-runners.md)). That is the kernel of truth behind 'racing weight'. But the relationship is not linear, and it does not keep paying out. Among elite runners, body fat clusters in a band rather than at zero, and within that group being leaner does not reliably predict faster times ([body composition synthesis](../sources/sutton-2009-body-fat-kenyan-runners.md)).
 
 ## The leanness trap
 
 > [!warning] The curve turns sharply downward
 > Pushing body fat too low, below roughly 5% in men or 10–15% in women, harms immune function, bone health and performance ([body composition synthesis](../sources/sutton-2009-body-fat-kenyan-runners.md)). There is an optimal range, and going under it costs more than it ever returns.
 
-The mechanism is energy, not the number on the scale. Getting lean by eating too little for the training done produces low energy availability, the root cause of [RED-S](red-s.md), which suppresses bone-building hormones, lowers bone density and raises [bone stress injury](../injury/bone-stress-injuries.md) rates ([Gallant et al. 2024](../sources/gallant-2024-lea-reds.md)). A prospective study of female runners found that injured runners ate less fat than uninjured ones, with fat intake the single best dietary predictor of future injury ([Gerlach et al. 2008](../sources/gerlach-2008-fat-intake-injury-runners.md)). The drive to be lean often shades into [disordered eating](disordered-eating.md), which makes the trap self-reinforcing.
+The mechanism is energy, not the number on the scale. Getting lean by eating too little for the training done produces low energy availability, the root cause of [RED-S](red-s.md), which impairs bone health, alters bone turnover and raises [bone stress injury](../injury/bone-stress-injuries.md) rates ([Gallant et al. 2024](../sources/gallant-2024-lea-reds.md)). A prospective study of female runners found that injured runners ate less fat than uninjured ones, with fat intake the single best dietary predictor of future injury in that cohort, though the association does not establish causation ([Gerlach et al. 2008](../sources/gerlach-2008-fat-intake-injury-runners.md)). The drive to be lean often shades into [disordered eating](disordered-eating.md), which makes the trap self-reinforcing.
 
 So the risk is U-shaped. Too heavy carries a small economy penalty; too lean carries a steep cliff of broken bones, illness, hormonal disruption and lost training. The downside is not symmetric, which is why the safe error is to err toward eating enough.
 

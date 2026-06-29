@@ -20,7 +20,7 @@ The threshold is widely misunderstood because lactate is. Lactate is not a waste
 
 ## Why it predicts performance
 
-The running velocity at threshold integrates all three classical determinants: it depends on [VO₂max](vo2max.md), on the fraction of VO₂max that can be sustained, and on [running economy](running-economy.md). In Farrell's foundational data, velocity at the onset of lactate accumulation correlated about 0.91 with performance across race distances, the strongest of any single variable measured ([Farrell et al. 1979](../sources/farrell-1979.md)). Within trained groups, where VO₂max values cluster, threshold velocity out-predicts VO₂max ([Coyle 1995](../sources/coyle-1995.md)). For the marathon in particular, the pace that can be held for the distance sits close to the second threshold, which is why threshold is the determinant marathoners train hardest.
+The running velocity at threshold integrates all three classical determinants: it depends on [VO₂max](vo2max.md), on the fraction of VO₂max that can be sustained, and on [running economy](running-economy.md). In Farrell's foundational data, velocity at the onset of lactate accumulation correlated about 0.91 with performance across race distances, stronger than VO₂max in that dataset ([Farrell et al. 1979](../sources/farrell-1979.md)). Within trained groups, where VO₂max values cluster, threshold velocity out-predicts VO₂max ([Coyle 1995](../sources/coyle-1995.md)). For the marathon in particular, the pace that can be held for the distance sits close to the second threshold, which is why threshold is the determinant marathoners train hardest.
 
 A caveat sharpens the point. The threshold expressed as a *percentage* of VO₂max does not cleanly separate elite from recreational runners; one analysis found it sat near 83% in all groups, while maximal aerobic speed dominated the correlation with performance ([Front Physiol 2020](../sources/front-physiol-2020-lt-elite.md)). The robust predictor is the *velocity* at threshold, not the fraction of VO₂max it represents. A runner raises threshold velocity by improving any of the three underlying determinants, not by chasing a percentage.
 
@@ -34,7 +34,7 @@ Training raises the threshold by improving lactate clearance and the fraction of
 
 ## Position relative to VO₂max
 
-Trained athletes hold threshold at roughly 80 to 90% of VO₂max; untrained people at around 50 to 60% ([Joyner & Coyle 2008](../sources/joyner-coyle-2008.md); [Coyle 1995](../sources/coyle-1995.md)). Raising the fraction of VO₂max that can be sustained is one of the main adaptations endurance training produces, and one of the clearest signs that a runner's aerobic base is developing even when VO₂max has plateaued. Blood lactate at a given pace is also sensitive to carbohydrate availability, so a depleted, low-carbohydrate state shifts the whole curve and can mislead a test; pre-test diet should be standardised.
+Trained athletes hold threshold at roughly 80 to 90% of VO₂max; untrained people considerably lower ([Coyle 1995](../sources/coyle-1995.md)). Raising the fraction of VO₂max that can be sustained is one of the main adaptations endurance training produces, and one of the clearest signs that a runner's aerobic base is developing even when VO₂max has plateaued. Blood lactate at a given pace is also sensitive to carbohydrate availability, so a depleted, low-carbohydrate state shifts the whole curve and can mislead a test; pre-test diet should be standardised.
 
 ## Related
 

@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Sauna as recovery systematic review (Sports Med Open 2025)
 
-No demonstrated superiority of sauna over other recovery modalities; sparse literature. Limited/weak.
+Mixed results across studies (4 showed no effect, 4 showed benefits, 1 showed adverse effects); definitive conclusions cannot be drawn. Some evidence of long-term benefit for performance in heat. Sparse literature; Limited/weak.

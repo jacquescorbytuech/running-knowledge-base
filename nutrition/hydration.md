@@ -27,7 +27,7 @@ For almost everyone, thirst is a good enough guide. It responds to the body's ac
 
 ## The 2% rule is contested
 
-The familiar claim that losing 2% of body mass in fluid impairs performance comes from fixed-intensity laboratory tests. In self-paced time-trials that mimic real racing, exercise-induced dehydration changed performance negligibly, because thirst-guided drinking suffices ([Goulet 2011](../sources/goulet-2011-hydration.md)). The 2% figure may still matter in fixed-pace efforts in the heat, but for self-paced racing it is not the hard limit it is often presented as.
+The familiar claim that losing 2% of body mass in fluid impairs performance comes from fixed-intensity laboratory tests. In self-paced time-trials that mimic real racing, exercise-induced dehydration changed performance negligibly ([Goulet 2011](../sources/goulet-2011-hydration.md)). The 2% figure may still matter in fixed-pace efforts in the heat, but for self-paced racing it is not the hard limit it is often presented as.
 
 ## How much to carry
 

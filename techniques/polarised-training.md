@@ -28,7 +28,7 @@ The claim that *most training should be easy* is well supported, and overlaps wi
 
 - A frequently cited trial found polarised training produced the largest gains in VO₂peak and time to exhaustion, but it is also the most criticised, with small groups and baseline imbalances ([Stöggl & Sperlich 2014](../sources/stoggl-2014-polarised.md)).
 - When high-intensity work is held equal, *more* easy volume improved 10.4 km time more than less — a polarised (≈80/12/8) distribution outperforming a less-polarised threshold split, one of the cleaner experimental results for polarised training ([Esteve-Lanao et al. 2007](../sources/esteve-lanao-2007.md)).
-- Highly trained runners in practice often follow a pyramidal distribution, with some genuine threshold work, especially away from competition ([Casado et al. 2022](../sources/casado-2022-pyramidal.md)).
+- Highly trained runners in practice often follow a pyramidal distribution, with some genuine threshold work ([Casado et al. 2022](../sources/casado-2022-pyramidal.md)).
 - A 2024 meta-analysis of 17 studies found POL superior to other distributions for VO₂peak with a small effect size (SMD 0.24; p = 0.040), driven by interventions shorter than 12 weeks and highly trained athletes; no superiority was found for time-trial, time to exhaustion, or speed at threshold ([Silva Oliveira et al. 2024](../sources/silva-oliveira-2024-meta.md)).
 
 The expert literature treats this as a live debate rather than a settled question ([Burnley, Bearden & Jones 2022](../sources/burnley-2022-polarised-debate.md)). The honest position: keep most running easy because that is well evidenced; treat the exact hard-easy ratio as something to tune to the [individual](../concepts/individual-variation.md), not a law.

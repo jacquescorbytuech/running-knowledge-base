@@ -29,7 +29,7 @@ Around peak height velocity, bones lengthen faster than muscles and tendons adap
 
 ## Broad development over early specialisation
 
-The strongest recommendation for young runners is to develop broadly rather than specialise early. Varied activity, exposure to many movement skills and general athletic development build a wider foundation than high running mileage does, and they leave more options open ([Bergeron et al. 2015](../sources/bergeron-2015-ioc-youth.md)). Early single-sport specialisation carries real costs: higher rates of overuse injury, greater risk of burnout and dropout, and exposure to chronic low energy availability and [RED-S](../nutrition/red-s.md) ([Bergeron et al. 2015](../sources/bergeron-2015-ioc-youth.md)). Early results are a weak predictor of senior success, and the runners who specialise soonest are not the ones who last.
+The strongest recommendation for young runners is to develop broadly rather than specialise early. Varied activity, exposure to many movement skills and general athletic development build a wider foundation than high running mileage does, and they leave more options open ([Bergeron et al. 2015](../sources/bergeron-2015-ioc-youth.md)). Early single-sport specialisation carries real costs: higher rates of overuse injury, greater risk of burnout and dropout, and exposure to chronic low energy availability and [RED-S](../nutrition/red-s.md) ([Bergeron et al. 2015](../sources/bergeron-2015-ioc-youth.md)). The IOC consensus cautions that chasing early results offers little reliable guide to long-term development, and that early specialisation is associated with higher rates of dropout and burnout.
 
 ## Resistance training is safe and useful
 

@@ -16,7 +16,7 @@ Training is a stress, and the [adaptation that makes a runner fitter happens dur
 
 ## The fast adapters: blood and heart
 
-The cardiovascular system responds first. Blood and plasma volume expand within days of starting or increasing training, raising stroke volume, and [VO₂max](vo2max.md) climbs over a few weeks ([Coyle et al. 1984](../sources/coyle-1984-detraining.md); [Lorenzo et al. 2010](../sources/lorenzo-2010-heat.md)). This is why a new or returning runner feels their breathing and heart-rate response improve quickly: the delivery side of the system is the quickest to adapt.
+The cardiovascular system responds first. Blood and plasma volume expand rapidly when training begins or increases, raising stroke volume — the same rapid kinetics observed in reverse when training stops, where VO₂max falls ~7% within twelve days driven by reduced blood and stroke volume ([Coyle et al. 1984](../sources/coyle-1984-detraining.md)). Plasma volume expansion has also been documented within days of a heat-acclimation block ([Lorenzo et al. 2010](../sources/lorenzo-2010-heat.md)). This is why a new or returning runner feels their breathing and heart-rate response improve quickly: the delivery side of the system is the quickest to adapt.
 
 ## The middle: muscle
 

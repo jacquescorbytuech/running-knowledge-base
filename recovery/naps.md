@@ -28,7 +28,7 @@ Nap in the early-to-mid afternoon, roughly between 13:00 and 16:00 ([Lastella et
 
 ## What the evidence shows
 
-The clearest gains are in alertness and mood. After a night cut to four hours, a 30-minute post-lunch nap improved alertness, short-term memory and reaction-time accuracy, and cut both 2-metre and 20-metre sprint times ([Waterhouse et al. 2007](../sources/waterhouse-2007-post-lunch-nap.md)). The systematic review found favourable effects on physical performance, cognitive performance, alertness and mood, again most marked in sleep-restricted athletes, and timed mid-afternoon naps did not degrade the following night's sleep ([Lastella et al. 2021](../sources/lastella-2021-napping.md)). The trials are mostly small, so treat the size of any single effect with caution while trusting the direction.
+The clearest gains are in alertness and mood. After a night cut to four hours, a 30-minute post-lunch nap improved alertness, short-term memory and reaction-time accuracy, and cut both 2-metre and 20-metre sprint times ([Waterhouse et al. 2007](../sources/waterhouse-2007-post-lunch-nap.md)). The systematic review found favourable effects on physical performance, cognitive performance, alertness and mood, again most marked in sleep-restricted athletes ([Lastella et al. 2021](../sources/lastella-2021-napping.md)). The trials are mostly small, so treat the size of any single effect with caution while trusting the direction.
 
 ## The limits
 

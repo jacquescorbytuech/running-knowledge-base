@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Hill et al. 2014, Compression garments and recovery meta-analysis
 
-Moderate benefits for perceived soreness and some markers; hard to blind, so largely perceptual. Moderate.
+Moderate effect sizes for perceived soreness (DOMS), muscle strength, muscle power, and biochemical markers (creatine kinase); blinding is difficult in compression research, but the objective marker effects cannot be attributed to perception alone. Moderate.

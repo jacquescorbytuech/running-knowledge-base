@@ -8,4 +8,4 @@ timestamp: 2026-06-25
 
 # Quirk et al. 2021, Perceived benefits of parkrun participation
 
-Cross-sectional survey of 45,662 parkrun participants. Most reported perceived improvements in fitness, physical health, mental health and happiness, with previously inactive participants reporting these benefits at least as often as the full sample. Perceived rather than measured outcomes, subject to recall and self-selection bias. Moderate.
+Cross-sectional survey of 45,662 parkrun participants. Most reported perceived improvements in fitness, physical health, mental health and happiness, with previously inactive participants reporting these benefits more often than the full sample. Perceived rather than measured outcomes, subject to recall and self-selection bias. Moderate.

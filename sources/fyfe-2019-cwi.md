@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Fyfe et al. 2019, Cold water immersion and training adaptation
 
-Cold water immersion blunted fibre growth but strength effect contested. Moderate.
+Cold water immersion blunted type II fibre hypertrophy; 1-RM strength gains were similar between CWI and passive-recovery groups. Moderate.

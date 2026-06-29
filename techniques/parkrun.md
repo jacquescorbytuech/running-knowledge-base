@@ -12,7 +12,7 @@ timestamp: 2026-06-25
 > [!info] Evidence: moderate
 > parkrun reaches an enormous number of people and pulls in some who did little exercise before, and participants report wide-ranging benefits. The reach is well documented. The health and wellbeing gains are not: almost all of the evidence comes from people who chose to take part and kept turning up, so read the headline numbers as encouraging rather than proven.
 
-parkrun is a free, weekly, timed 5 km event with no entry fee and no qualifying standard, run by volunteers at well over a thousand locations across more than 20 countries and reaching over four million registrants ([Grunseit et al. 2020](../sources/grunseit-2020-parkrun-scoping.md)). It is deliberately framed as a run, not a race, which is much of why it works as a mass-participation on-ramp. It is the largest organised example of the social running covered on the [run clubs](run-clubs.md) page, and earns its own page because it has a research literature the rest of group running does not.
+parkrun is a free, weekly, timed 5 km event with no entry fee and no qualifying standard, run by volunteers across more than 20 countries and reaching over four million registrants ([Grunseit et al. 2020](../sources/grunseit-2020-parkrun-scoping.md)). It is deliberately framed as a run, not a race, which is much of why it works as a mass-participation on-ramp. It is the largest organised example of the social running covered on the [run clubs](run-clubs.md) page, and earns its own page because it has a research literature the rest of group running does not.
 
 ## Reach
 
@@ -20,7 +20,7 @@ The low barrier is the point. A consistent minority of registrants, around a qua
 
 ## What participants report
 
-A six-month study of new parkrunners found self-reported life satisfaction rose, with the largest gain among those who were least active to begin with ([Haake et al. 2024](../sources/haake-2024-parkrun-life-satisfaction.md)). A survey of more than 45,000 participants found most perceived improvements in fitness, physical and mental health and happiness, and previously inactive people reported these at least as often as the rest ([Quirk et al. 2021](../sources/quirk-2021-parkrun-benefits.md)). Among participants with mental-health conditions, taking part, and volunteering especially, was linked to better mental health and a sense of social inclusion ([Quirk et al. 2023](../sources/quirk-2023-parkrun-mental-health.md)).
+A six-month study of new parkrunners found self-reported life satisfaction rose, with the largest gain among those who were least active to begin with ([Haake et al. 2024](../sources/haake-2024-parkrun-life-satisfaction.md)). A survey of more than 45,000 participants found most perceived improvements in fitness, physical and mental health and happiness, and previously inactive people reported these more often than the rest ([Quirk et al. 2021](../sources/quirk-2021-parkrun-benefits.md)). Among participants with mental-health conditions, taking part, and volunteering especially, was linked to better mental health and a sense of social inclusion ([Quirk et al. 2023](../sources/quirk-2023-parkrun-mental-health.md)).
 
 ## The honest caveats
 

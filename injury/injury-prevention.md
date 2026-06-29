@@ -23,7 +23,7 @@ The single biggest lever is also the least glamorous: progress gradually and avo
 
 ## Strength training: the best-evidenced active measure
 
-If load management is the foundation, strength training is the best-evidenced thing a runner can add. A meta-analysis of 25 trials found that strength training cut overall sports injuries to under a third and overuse injuries by nearly half, with a dose-dependent effect ([Lauersen et al. 2014](../sources/lauersen-2014-exercise-prevention.md)). A later review reached the same conclusion and found strength training superior to stretching, proprioception work and multi-component programmes ([Lauersen et al. 2018](../sources/lauersen-2018-injury.md)).
+If load management is the foundation, strength training is the best-evidenced thing a runner can add. A meta-analysis of 25 trials found that strength training cut overall sports injuries to under a third and overuse injuries by nearly half ([Lauersen et al. 2014](../sources/lauersen-2014-exercise-prevention.md)). A later review confirmed the dose-dependent advantage of strength training and found it superior to stretching ([Lauersen et al. 2018](../sources/lauersen-2018-injury.md)).
 
 The honest caveat: these trials pooled mostly general-sport and military cohorts, not runners, so the precise figures transfer to running by inference rather than by direct test. The mechanism is plausible, since stronger muscle, tendon and bone tolerate repeated loading better, and no other active measure has anything like this support. Two sessions a week is the usual prescription; see [strength training for runners](../techniques/strength-training-for-runners.md).
 

@@ -16,7 +16,7 @@ Glycogen is carbohydrate stored for quick use, held in the muscles and the liver
 
 ## The stores are small
 
-Total glycogen stores come to roughly 400 to 500 g, mostly in muscle with a smaller liver reserve, around 1,600 to 2,000 kcal of usable carbohydrate. That is enough for somewhere in the region of 90 to 120 minutes of hard running before stores run low, which is why fuelling becomes decisive in events beyond about that duration ([Burke et al. 2011](../sources/burke-2011-fuelling.md)). Each gram of glycogen is stored with around 3 g of water, which is why [carbohydrate loading](../nutrition/carbohydrate-loading.md) adds a kilogram or two of water weight.
+Total glycogen stores come to roughly 400 to 500 g, mostly in muscle with a smaller liver reserve, around 1,600 to 2,000 kcal of usable carbohydrate. That is enough for somewhere in the region of 90 to 120 minutes of hard running before stores run low; fuelling becomes decisive in events beyond about that duration ([Burke et al. 2011](../sources/burke-2011-fuelling.md)). Each gram of glycogen is stored with around 3 g of water, which is why [carbohydrate loading](../nutrition/carbohydrate-loading.md) adds a kilogram or two of water weight.
 
 ## Depletion: "the wall"
 

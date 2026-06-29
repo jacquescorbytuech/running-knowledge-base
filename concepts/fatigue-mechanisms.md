@@ -25,7 +25,7 @@ The peripheral picture is incomplete, because runners almost never recruit all t
 Tim Noakes pressed the strongest version, the central governor model. It holds that the brain regulates pace in anticipation, reading feedback on fuel, heat and effort, and holds motor recruitment in reserve so that exhaustion arrives before the muscle actually fails, protecting the body from harm ([Noakes 2012](../sources/noakes-2012-central-governor.md)). On this view fatigue is closer to an emotion than a mechanical failure, and the finishing kick is proof that reserve was held back all along.
 
 > [!question] Why it is contested
-> Critics argue the central governor routes all fatigue through one unproven mechanism and leans on surface EMG that is hard to interpret. They favour task dependency: central and peripheral factors both contribute, and their balance shifts with the type, intensity and duration of the effort, rather than one governor deciding everything ([Weir et al. 2006](../sources/weir-2006-central-governor-critique.md)).
+> Critics argue the central governor routes all fatigue through one unproven mechanism and favour task dependency instead: central and peripheral factors both contribute, and their balance shifts with the type, intensity and duration of the effort, rather than one governor deciding everything ([Weir et al. 2006](../sources/weir-2006-central-governor-critique.md)).
 
 ## A middle ground
 

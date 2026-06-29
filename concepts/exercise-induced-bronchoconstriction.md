@@ -25,7 +25,7 @@ Cold air is a particular trigger because it is both cold and dry, maximising the
 
 ## Symptoms diagnose it badly
 
-The trap is to diagnose EIB from symptoms alone, in either direction. Many runners who report exercise wheeze do not have measurable airway narrowing, while many who *do* have it report no symptoms; one survey found objectively confirmed EIB at almost the same rate in athletes with and without symptoms ([Aggarwal, Mulgirigama & Berend 2018](../sources/aggarwal-2018-eib.md)). Self-diagnosis, and self-medication with a borrowed inhaler, is therefore unreliable.
+The trap is to diagnose EIB from symptoms alone, in either direction. Many runners who report exercise wheeze do not have measurable airway narrowing, while many who *do* have it report no symptoms — self-reported symptoms both over- and under-diagnose the condition ([Aggarwal, Mulgirigama & Berend 2018](../sources/aggarwal-2018-eib.md)). Self-diagnosis, and self-medication with a borrowed inhaler, is therefore unreliable.
 
 Objective testing settles it. The standard is a measured fall in FEV₁, the volume of air forced out in the first second of a hard breath, of at least 10% from baseline after a standardised exercise or hyperpnoea (heavy-breathing) challenge ([Parsons et al. 2013](../sources/parsons-2013-ats-eib.md); [Aggarwal, Mulgirigama & Berend 2018](../sources/aggarwal-2018-eib.md)). This is a clinic test, not something a watch or a symptom diary can stand in for, which is the practical reason to see a doctor rather than guess.
 
@@ -35,7 +35,7 @@ EIB is manageable, and a runner does not have to choose between their breathing 
 
 - **A pre-exercise warm-up.** A thorough [warm-up](../techniques/warm-up-and-cool-down.md) induces a refractory period during which the airways are less reactive for the session that follows. This is a free, non-drug first step that helps many runners.
 - **A pre-exercise inhaler.** An inhaled short-acting β₂-agonist taken before running is the first-line drug treatment. Where symptoms persist or asthma is present, a daily inhaled corticosteroid controls the underlying airway inflammation, and leukotriene receptor antagonists are an alternative. These are prescription decisions for a doctor.
-- **Warming and humidifying the inhaled air.** Breathing through a [heat-and-moisture-exchange mask](../techniques/cold-weather-running.md) or even a scarf in cold conditions blunts the airway response by reducing the cooling and drying that trigger it ([Stenfors et al. 2022](../sources/eklund-2022-breathing-mask.md)).
+- **Warming and humidifying the inhaled air.** Breathing through a [heat-and-moisture-exchange mask](../techniques/cold-weather-running.md) ([Stenfors et al. 2022](../sources/eklund-2022-breathing-mask.md)) or even a scarf ([Aggarwal, Mulgirigama & Berend 2018](../sources/aggarwal-2018-eib.md)) in cold conditions blunts the airway response by reducing the cooling and drying that trigger it.
 - **Avoiding triggers.** Where practical, avoiding the coldest, driest air and the [most polluted](air-quality-and-pollution.md) routes reduces the provocation.
 
 None of this requires giving up endurance training. The respiratory system is rarely the [limiting factor](cardiovascular-and-respiratory-adaptations.md) for a healthy runner's performance, and a runner whose EIB is properly diagnosed and managed can train and race normally.

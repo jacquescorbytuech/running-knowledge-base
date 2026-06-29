@@ -26,7 +26,7 @@ A chest strap measures the heart's electrical signal, the same principle as a cl
 Optical sensors use photoplethysmography: green LEDs shine into the skin and a detector reads the pulsing of blood with each beat. This is the technology in wrist watches and in optical armbands. It is convenient and, at rest and at steady effort, reasonably accurate, typically within about 5% of an ECG ([Shcherbina et al. 2017](../sources/shcherbina-2017-wearables.md)). Its weaknesses are systematic and worth knowing:
 
 - **It lags and underreads during fast changes and hard efforts.** A meta-analysis of 44 studies found optical heart rate close to accurate at rest but systematically underestimating under high motion, worst during cycling and resistance work ([Zhang et al. 2020](../sources/zhang-2020-hr.md)). During a short surge the watch "catches up" only as the rep ends, so it is a poor guide to interval intensity.
-- **Motion artefact, cold and skin tone all degrade it.** Wrist movement, cold-induced reduced blood flow to the wrist, and darker skin tones at high intensity all widen the error ([Hung et al. 2025](../sources/hung-2025-hr-skin.md)).
+- **Motion artefact and skin tone degrade it.** Wrist movement widens error during fast changes and hard efforts ([Zhang et al. 2020](../sources/zhang-2020-hr.md)); darker skin tones at high intensity widen it further ([Hung et al. 2025](../sources/hung-2025-hr-skin.md)). Cold-induced vasoconstriction is also a known mechanism but is not covered by either cited source.
 - **Position matters.** An optical sensor on the upper arm or forearm, where there is less movement and better blood flow, is more accurate than one on the wrist, and approaches chest-strap quality in controlled conditions.
 
 ## Which to use

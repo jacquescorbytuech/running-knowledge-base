@@ -12,7 +12,7 @@ timestamp: 2026-06-24
 > [!success] Evidence: strong
 > One of the best-quantified practices in the sport: a ~2-3% gain from cutting volume ~40-60% over about two weeks while holding intensity. It costs nothing.
 
-A taper is the planned reduction in training before a race that allows accumulated fatigue to clear while fitness is retained, so that performance rises. It is one of the best-quantified practices in endurance training. A meta-analysis of 27 studies found an optimal taper produces a performance gain of roughly 2 to 3%, with an overall effect size of about 0.59 ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md)). That figure is the gain from a well-executed taper under study conditions, so it is a best case rather than a guaranteed return; a poorly judged taper yields less.
+A taper is the planned reduction in training before a race that allows accumulated fatigue to clear while fitness is retained, so that performance rises. It is one of the best-quantified practices in endurance training. A meta-analysis of 27 studies found an optimal taper produces a performance gain of roughly 2 to 3% ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md)). That figure is the gain from a well-executed taper under study conditions, so it is a best case rather than a guaranteed return; a poorly judged taper yields less.
 
 The parameters are unusually well defined for a training practice ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md); [Mujika 2010](../sources/mujika-2010-taper.md)):
 

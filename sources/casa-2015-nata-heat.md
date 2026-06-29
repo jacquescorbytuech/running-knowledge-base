@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Casa et al. 2015, NATA exertional heat illness position statement
-resource: https://www.nata.org/sites/default/files/exertional-heat-illnesses.pdf
+resource: https://www.nata.org/sites/default/files/2025-08/exertional_heat_illnesses.pdf
 tags: [physiology]
 timestamp: 2026-06-24
 ---

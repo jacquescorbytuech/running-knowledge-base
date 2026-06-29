@@ -26,7 +26,7 @@ The largest organised example is [parkrun](parkrun.md), the free weekly timed 5 
 
 ## The honest caveats
 
-The practical risk is pace. A group naturally pulls you toward its speed, and running above your current fitness is how easy days stop being easy and how weekly load creeps up too fast. Sharp increases in running volume raise injury risk, novices most of all ([Nielsen et al. 2014](../sources/nielsen-2014-10-percent.md)). Use a club for the easy and social miles, slot into a pace group that matches your training rather than your ego, and keep your own [training load](training-load-management.md) honest. How you respond to all of this is individual ([individual variation](../concepts/individual-variation.md)).
+The practical risk is pace. A group naturally pulls you toward its speed, and running above your current fitness is how easy days stop being easy and how weekly load creeps up too fast. Sharp increases in running volume raise injury risk ([Nielsen et al. 2014](../sources/nielsen-2014-10-percent.md)). Use a club for the easy and social miles, slot into a pace group that matches your training rather than your ego, and keep your own [training load](training-load-management.md) honest. How you respond to all of this is individual ([individual variation](../concepts/individual-variation.md)).
 
 ## Related
 

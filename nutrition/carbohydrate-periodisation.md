@@ -25,7 +25,7 @@ Several protocols all aim to put a session in a low-glycogen state ([Impey et al
 - **Twice-a-day train-low.** A first session depletes glycogen; carbohydrate is withheld between sessions so the second session is performed glycogen-depleted.
 - **Sleep-low.** A hard session in the evening with adequate carbohydrate beforehand, then a low-carbohydrate overnight period so glycogen stays low, then a fasted easy session the next morning. This concentrates the low-glycogen window over a long stretch ([Marquet et al. 2016](../sources/marquet-2016-sleep-low.md)).
 
-Across the literature, train-low typically covers only 30 to 50% of sessions, not all of them ([Impey et al. 2018](../sources/impey-2018-fuel-for-the-work-required.md)).
+Across the literature, train-low is intended to cover a minority of sessions, not all of them ([Impey et al. 2018](../sources/impey-2018-fuel-for-the-work-required.md)).
 
 ## The mechanism
 
@@ -35,7 +35,7 @@ Low muscle glycogen amplifies the molecular signalling that drives [mitochondria
 
 The molecular case is strong and the performance case is not. Reviewing the controlled trials, Impey and colleagues found train-low augmented cell signalling in 73% of studies and gene expression in 75%, yet only 37% showed a performance improvement while 63% showed no change ([Impey et al. 2018](../sources/impey-2018-fuel-for-the-work-required.md)). The adaptive signal reliably strengthens; the performance gain does not reliably follow. The one well-known positive trial, Marquet's sleep-low study, did show better cycling efficiency and 10-km running time over three weeks, but in a small sample of trained triathletes and without consistent replication ([Marquet et al. 2016](../sources/marquet-2016-sleep-low.md)).
 
-The downsides are concrete. Training with low glycogen reduces the quality of sessions performed at intensity, so it is ill-suited to the hard work where most fitness is built ([Impey et al. 2018](../sources/impey-2018-fuel-for-the-work-required.md)). Chronic under-fuelling around training also raises illness risk and is a slippery slope toward [low energy availability and RED-S](red-s.md), where the costs to bone, hormones and health dwarf any marginal adaptive gain ([Hawley et al. 2018](../sources/hawley-2018-train-low.md)).
+The downsides are concrete. Training with low glycogen reduces the quality of sessions performed at intensity, so it is ill-suited to the hard work where most fitness is built ([Impey et al. 2018](../sources/impey-2018-fuel-for-the-work-required.md)). Chronic under-fuelling around training also raises illness risk and is a slippery slope toward [low energy availability and RED-S](red-s.md), where the costs to bone, hormones and health dwarf any marginal adaptive gain.
 
 > [!tip] How to use it, if at all
 > Keep it for occasional easy aerobic sessions, never for quality work, and only against a backdrop of adequate weekly energy and carbohydrate. Fuel the [hard sessions and races](in-race-carbohydrate.md) properly. As ever, the [basics](../concepts/the-basics.md) of consistent volume, sleep and adequate fuelling matter far more than this manipulation.

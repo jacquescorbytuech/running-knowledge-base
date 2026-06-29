@@ -12,7 +12,7 @@ timestamp: 2026-06-24
 > [!info] Evidence: moderate
 > The super-shoe economy advantage fades with mileage, largely gone by around 450 km. Separate roles: train in durable shoes, race in the super-shoes.
 
-The performance advantage of super-shoe [foam](peba-foam.md) is not permanent: it decays with mileage. New PEBA improves economy by about 1.8% over new EVA, but after roughly 450 km of road wear that advantage disappears, with worn PEBA raising energy cost while worn EVA barely changes ([Rodrigo-Carranza et al. 2024](../sources/rodrigo-carranza-2024-durability.md)). The low-density foam that performs best when new wrinkles and loses resilience faster than denser foam, a durability-performance trade-off confirmed by bench testing in which the best-when-new foams degraded fastest ([Aimar et al. 2024](../sources/aimar-2024-durability.md)).
+The performance advantage of super-shoe [foam](peba-foam.md) is not permanent: it decays with mileage. New PEBA improves economy by about 1.8% over new EVA, but after roughly 450 km of road wear that advantage disappears ([Rodrigo-Carranza et al. 2024](../sources/rodrigo-carranza-2024-durability.md)). There is a durability-performance trade-off: bench testing found that the foams with the best initial performance degraded the fastest ([Aimar et al. 2024](../sources/aimar-2024-durability.md)).
 
 The evidence is not unanimous: one bench test of a worn PEBA shoe found only a small loss of energy return, so the exact rate is contested and depends on foam, runner and surface ([Burns & Joubert 2024](../sources/burns-joubert-2024-durability.md)). Manufacturer guidance, such as a stated "up to 250 miles" for one model, is marketing without a published method.
 

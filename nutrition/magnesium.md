@@ -24,7 +24,7 @@ In runners who are not deficient, supplementing magnesium does not improve endur
 
 ## Cramps: the marketing's weakest claim
 
-The cramp claim is the one magnesium is sold on hardest and supported on least. A Cochrane review concluded that magnesium is unlikely to be effective for ordinary muscle cramps at any dose, and found no trials at all in people who cramp while exercising ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)). This fits the wider picture that exercise-associated cramp is driven by [fatigue-related neuromuscular control, not electrolyte depletion](electrolytes.md) ([Schwellnus](../sources/schwellnus-cramps.md)). Taking magnesium to stop running cramps is treating the wrong mechanism.
+The cramp claim is the one magnesium is sold on hardest and supported on least. A Cochrane review concluded that magnesium is unlikely to be effective for ordinary muscle cramps at any dose, and found no trials at all in people who cramp while exercising ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)). This fits the wider picture that exercise-associated cramp is driven by [fatigue-related neuromuscular control, not electrolyte depletion](electrolytes.md) ([Miller et al. 2022](../sources/schwellnus-cramps.md)). Taking magnesium to stop running cramps is treating the wrong mechanism.
 
 ## Sleep: a thin signal
 
@@ -34,7 +34,7 @@ The sleep claim is the most defensible of the marketed uses, but only just. A sy
 
 - **Food first.** Adults need roughly 300 to 420 mg a day, well covered by leafy greens, nuts, seeds, wholegrains, legumes and dark chocolate. The higher food volume that training appetite drives makes a shortfall less likely, not more.
 - **Supplement only a likely deficiency**, ideally one flagged by a restricted diet, [low energy availability](red-s.md) or a blood test rather than guessed at, and bear in mind serum magnesium is an imperfect marker of body stores.
-- **Mind the form and the dose.** Magnesium oxide is poorly absorbed; glycinate and citrate are better tolerated. High doses, especially oxide and citrate, cause diarrhoea and nausea ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)), and routinely megadosing is pointless if you are already replete.
+- **Mind the form and the dose.** Magnesium oxide is poorly absorbed; glycinate and citrate are better tolerated. High doses cause diarrhoea and nausea ([Garrison et al. 2020](../sources/garrison-2020-magnesium-cramps.md)), and routinely megadosing is pointless if you are already replete.
 
 > [!tip] Keep it in proportion
 > Magnesium is cheap, generally safe at sensible doses, and worth correcting if your diet is genuinely short. But it is not a performance aid, a cramp cure or a substitute for [sleep](../recovery/sleep.md) and [adequate fuelling](daily-carbohydrate-and-energy.md), and the confident marketing to that effect is not backed by the evidence.

@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Aragon & Schoenfeld 2013, Nutrient timing revisited
 
-The narrow post-exercise anabolic window is overstated; ~0.3 g/kg protein per serving maximises acute synthesis; window spans hours. Moderate-strong.
+The narrow post-exercise anabolic window is overstated; ~0.4–0.5 g/kg of lean body mass per serving (roughly 20–40 g depending on body composition) is cited as a guideline for the acute anabolic response; window spans hours. Moderate-strong.

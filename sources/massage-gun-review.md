@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Effects of massage guns on performance and recovery (systematic review)
 
-Percussive (massage-gun) therapy produces short-term gains in range of motion and flexibility (acute hamstring range of motion up to ~11%) and may modestly ease perceived soreness, but effects on recovery of strength and endurance are mixed to null, and use immediately before strength, power or explosive activity is not recommended. Largely acute and perceptual. Limited.
+Percussive (massage-gun) therapy produces short-term gains in range of motion and flexibility (hamstring ROM improvements of roughly 3–5° on the 90-90 test across included trials) and may modestly ease perceived soreness, but effects on recovery of strength and endurance are mixed to null, and use immediately before strength, power or explosive activity is not recommended. Largely acute and perceptual. Limited.

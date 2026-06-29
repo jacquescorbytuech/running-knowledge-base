@@ -28,7 +28,7 @@ Muscle tone is easy to confuse with [durability](durability.md), but they are di
 
 - **Timescale.** Durability is a *within-effort* phenomenon: how [VO₂max](vo2max.md), [threshold](lactate-threshold.md), and [economy](running-economy.md) decay over the course of a single long run. Muscle tone is a *chronic, day-to-day* quality you carry between sessions and manage across a training week.
 - **What is tracked.** Durability indexes the classical aerobic determinants degrading under accumulated metabolic load. Tone is about neuromuscular state: resting stiffness and readiness. That places it closer to the muscular side of fatigue than the metabolic side.
-- **Evidential status.** Durability is an emerging but quantified research construct ([Maunder et al. 2021](../sources/maunder-2021-durability.md)); muscle tone is a practitioner heuristic monitored by feel. Different rigour entirely.
+- **Evidential status.** Durability is an emerging, theorised research construct ([Maunder et al. 2021](../sources/maunder-2021-durability.md)); muscle tone is a practitioner heuristic monitored by feel. Different rigour entirely.
 
 The two plausibly interact rather than compete: if managing tone preserves neuromuscular function across a block, that could help hold economy late in a long effort, which is a durability outcome. On that reading muscle tone is one possible upstream input to durability, not a rival account of it. But that link is a hypothesis, not a demonstrated mechanism.
 

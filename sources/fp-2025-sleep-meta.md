@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Sleep loss and performance meta-analysis (Front Physiol 2025)
 
-Sleep loss mainly impairs aerobic endurance and raises perceived effort; short maximal efforts relatively spared. Moderate.
+Sleep loss mainly impairs aerobic endurance and raises perceived effort; anaerobic endurance is the domain not significantly affected, while explosive power and maximal strength are impaired to a lesser degree. Moderate.

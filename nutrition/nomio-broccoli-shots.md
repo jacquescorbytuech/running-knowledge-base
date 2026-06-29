@@ -18,7 +18,7 @@ timestamp: 2026-06-24
 > [!note] Keep it in proportion
 > The [basics](../concepts/the-basics.md) are where the real gains are: consistent volume, sleep and adequate fuelling. Weigh anything below honestly, and do not let a marginal or over-marketed aid pull attention from the things that actually move the needle.
 
-Nomio is a concentrated broccoli-sprout shot, recently fashionable among elite endurance athletes, that delivers isothiocyanates such as sulforaphane. These activate the NRF2 pathway, which raises the body's own antioxidant defences. The marketed claims are a roughly 12% reduction in blood lactate, about 10% lower oxidative stress, enhanced training adaptation, and faster recovery ([Nomio claims and evidence](../sources/nomio-evidence.md)).
+Nomio is a concentrated broccoli-sprout shot, recently fashionable among elite endurance athletes, that delivers isothiocyanates such as sulforaphane. These activate the NRF2 pathway, which raises the body's own antioxidant defences. The marketed claims are a roughly 12% reduction in blood lactate, about 10% lower oxidative stress, and faster training adaptation ([Nomio claims and evidence](../sources/nomio-evidence.md)).
 
 ## What the evidence actually shows
 

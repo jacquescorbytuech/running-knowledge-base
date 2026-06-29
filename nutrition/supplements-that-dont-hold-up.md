@@ -18,7 +18,7 @@ timestamp: 2026-06-24
 > [!note] Keep it in proportion
 > The [basics](../concepts/the-basics.md) are where the real gains are: consistent volume, sleep and adequate fuelling. Weigh anything below honestly, and do not let a marginal or over-marketed aid pull attention from the things that actually move the needle.
 
-The products below are marketed to runners but do not survive scrutiny for endurance performance, and none belongs in a distance runner's kit on current evidence. They are judged against the IOC consensus and the Australian Institute of Sport classification, where Group C means no substantial evidence and Group D means banned or high-risk ([Maughan et al. 2018](../sources/maughan-2018-ioc-supplements.md)).
+The products below are marketed to runners but do not survive scrutiny for endurance performance, and none belongs in a distance runner's kit on current evidence. They are judged against the IOC consensus ([Maughan et al. 2018](../sources/maughan-2018-ioc-supplements.md)) and the Australian Institute of Sport (AIS) classification, where Group C means no substantial evidence and Group D means banned or high-risk.
 
 - **Glutamine.** A well-powered review of 47 studies found no meaningful effect on immunity, aerobic performance or body composition ([Ahmadi et al. 2019](../sources/ahmadi-2019-glutamine.md)). Effectively Group C.
 - **HMB.** A network meta-analysis found endurance improved with protein, not with HMB. Group C, weak.

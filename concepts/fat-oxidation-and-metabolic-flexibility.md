@@ -16,7 +16,7 @@ The aerobic system burns both fat and carbohydrate, and the two are always used 
 
 ## FATmax
 
-Plotted against intensity, the absolute rate of fat oxidation rises from low to moderate intensity, peaks, then falls away as carbohydrate takes over. The intensity at the peak is called FATmax. In trained men it sits at roughly 63% of VO₂max, and lower in untrained people; above about 65 to 70% of VO₂max, fat oxidation drops sharply ([Achten & Jeukendrup 2004](../sources/achten-jeukendrup-2004-fat-oxidation.md)). FATmax is therefore a low-to-moderate intensity, in the region of easy-to-steady running rather than threshold work, which is one reason most endurance volume is run easy ([the basics](the-basics.md)).
+Plotted against intensity, the absolute rate of fat oxidation rises from low to moderate intensity, peaks, then falls away as carbohydrate takes over. The intensity at the peak is called FATmax. In trained men it sits at roughly 63% of VO₂max, and lower in untrained people; above this intensity, fat oxidation declines as carbohydrate takes over ([Achten & Jeukendrup 2004](../sources/achten-jeukendrup-2004-fat-oxidation.md)). FATmax is therefore a low-to-moderate intensity, in the region of easy-to-steady running rather than threshold work, which is one reason most endurance volume is run easy ([the basics](the-basics.md)).
 
 ## Why carbohydrate is the higher-power fuel
 
@@ -24,7 +24,7 @@ Fat is the more energy-dense store: a gram of fat yields more than twice the ATP
 
 ## What raises fat oxidation, and what blunts it
 
-Endurance training is the main lever. It increases [mitochondrial content and the enzymes of fat metabolism](muscular-adaptations.md), which raises the rate of fat oxidation at any given pace and moves the crossover point to a higher intensity ([Brooks & Mercier 1994](../sources/brooks-mercier-1994-crossover.md); [Granata et al. 2018](../sources/granata-2018-mitochondria.md)). The practical payoff is glycogen-sparing: a trained runner burns proportionally more fat at marathon pace, leaving more carbohydrate in reserve.
+Endurance training is the main lever. It increases [mitochondrial content](muscular-adaptations.md) ([Granata et al. 2018](../sources/granata-2018-mitochondria.md)) and the enzymes of fat metabolism, raising the rate of fat oxidation at any given pace and moving the crossover point to a higher intensity ([Brooks & Mercier 1994](../sources/brooks-mercier-1994-crossover.md)). The practical payoff is glycogen-sparing: a trained runner burns proportionally more fat at marathon pace, leaving more carbohydrate in reserve.
 
 Two things blunt fat oxidation in the moment: high carbohydrate availability, which raises insulin and suppresses fat release and use, and high intensity, which shifts the mix to carbohydrate regardless of training ([Achten & Jeukendrup 2004](../sources/achten-jeukendrup-2004-fat-oxidation.md)). Both are expected and not problems to fix in a race, where [in-race carbohydrate](../nutrition/in-race-carbohydrate.md) is what extends pace; they matter mainly when interpreting fat-oxidation tests or planning low-fuel training.
 

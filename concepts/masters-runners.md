@@ -16,13 +16,13 @@ A masters runner is, by the usual convention, one aged 35 or older. Performance 
 
 ## The shape of the decline
 
-Endurance performance holds up to about 35, falls modestly to 50 or 60, then drops more steeply ([Tanaka & Seals 2008](../sources/tanaka-seals-2008-aging-endurance.md)). In the broad middle decades the loss runs at roughly 1% a year, accelerating to nearer 1.5 to 2% a year after 60 ([Tanaka & Seals 2008](../sources/tanaka-seals-2008-aging-endurance.md)). The decline is curvilinear, not a steady slide, so the steep part arrives later than a straight-line projection would suggest.
+Endurance performance holds up to about 35, falls modestly to 50 or 60, then drops more steeply, and the loss accelerates in the decades past 60 ([Tanaka & Seals 2008](../sources/tanaka-seals-2008-aging-endurance.md)). The decline is curvilinear, not a steady slide, so the steep part arrives later than a straight-line projection would suggest.
 
 ## What drives it
 
 Three physiological changes do most of the work.
 
-- Falling [VO2max](vo2max.md). The aerobic ceiling drops by roughly 5 to 10% per decade after 30, and it is the main driver of lost performance ([Tanaka & Seals 2008](../sources/tanaka-seals-2008-aging-endurance.md)).
+- Falling [VO2max](vo2max.md). The aerobic ceiling falls progressively after 30 and is the main driver of lost performance ([Tanaka & Seals 2008](../sources/tanaka-seals-2008-aging-endurance.md)).
 - A lower maximal heart rate. Maximum heart rate falls at about 0.7 beats per minute per year, regardless of sex or training, which lowers maximal cardiac output and feeds directly into the VO2max decline ([Tanaka, Monahan & Seals 2001](../sources/tanaka-2001-maximal-heart-rate.md)).
 - Loss of muscle mass. Sarcopenia strips muscle, preferentially the fast-twitch fibres, which erodes power and the ability to hold faster paces ([Fragala et al. 2019](../sources/fragala-2019-resistance-training-older.md)).
 

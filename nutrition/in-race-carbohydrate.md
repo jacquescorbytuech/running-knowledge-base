@@ -22,7 +22,7 @@ Taking carbohydrate during prolonged running improves performance, and the amoun
 - 1 to 2.5 hours: 30 to 60 g per hour.
 - Beyond about 2.5 to 3 hours: up to 90 g per hour, but only from multiple transportable carbohydrates.
 
-The guidelines are absolute amounts in grams per hour, not scaled to body mass, because exogenous carbohydrate oxidation does not track body size ([Burke et al. 2011](../sources/burke-2011-fuelling.md)).
+The guidelines are expressed as absolute amounts in grams per hour, not scaled to body mass ([Burke et al. 2011](../sources/burke-2011-fuelling.md)).
 
 ## The 60 to 90 g ceiling
 
@@ -30,11 +30,11 @@ A single carbohydrate such as glucose or maltodextrin saturates the intestinal S
 
 ## Gut training
 
-The gut adapts to carbohydrate intake. About two weeks of repeated high-intake feeding roughly halves malabsorption and gastrointestinal symptoms and improved running capacity in one trial, by upregulating the intestinal transporters and improving gastric emptying ([Miall et al. 2018](../sources/miall-2018-gut-training.md)). This matters more for runners than cyclists, who carry less gut jostling, so rehearsing race fuelling in training is part of the work, not an afterthought.
+The gut adapts to carbohydrate intake. About two weeks of repeated high-intake feeding roughly halved malabsorption and gastrointestinal symptoms and improved running capacity in one trial ([Miall et al. 2018](../sources/miall-2018-gut-training.md)). This matters more for runners than cyclists, who carry less gut jostling, so rehearsing race fuelling in training is part of the work, not an afterthought.
 
 ## The frontier
 
-Very high intakes of 100 to 120 g per hour are tolerable for some trained athletes and may reduce muscle damage ([Viribay et al. 2020](../sources/viribay-2020-carbs.md)), and elite cyclists now report similar figures in racing. But no trial shows that intakes above 90 g per hour improve *performance* over 60 to 90 g, and one study found 112.5 g per hour added no oxidation over 90 and slightly lowered power ([King et al. 2018](../sources/king-2018-carbs.md)). The absorption mechanism is solid; the performance payoff of the highest intakes is contested.
+Very high intakes of 120 g per hour are tolerable for some trained athletes and may reduce muscle damage ([Viribay et al. 2020](../sources/viribay-2020-carbs.md)), and elite cyclists now report similar figures in racing. But no trial shows that intakes above 90 g per hour improve *performance* over 60 to 90 g, and one study found 112.5 g per hour added no oxidation over 90 and slightly lowered power ([King et al. 2018](../sources/king-2018-carbs.md)). The absorption mechanism is solid; the performance payoff of the highest intakes is contested.
 
 ## A fuelling plan
 

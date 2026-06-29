@@ -27,7 +27,7 @@ Alcohol also slows the refilling of fuel and fluid. It impairs [glycogen](../con
 
 ## Sleep
 
-Alcohol degrades the quality of [sleep](../recovery/sleep.md), the single most important recovery process ([Walsh, Halson et al. 2021](../sources/walsh-2021-sleep-consensus.md)). It speeds sleep onset, which is why it feels relaxing, but then fragments the night and suppresses REM and overall sleep quality in the later hours as it is metabolised ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)). A runner who drinks to wind down trades faster sleep onset for a worse night, and so for poorer recovery.
+Alcohol degrades the quality of [sleep](../recovery/sleep.md), one of the most important recovery processes ([Walsh, Halson et al. 2021](../sources/walsh-2021-sleep-consensus.md)). It speeds sleep onset, which is why it feels relaxing, but then fragments the night and suppresses REM and overall sleep quality in the later hours as it is metabolised ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)). A runner who drinks to wind down trades faster sleep onset for a worse night, and so for poorer recovery.
 
 ## Next-day performance and judgement
 

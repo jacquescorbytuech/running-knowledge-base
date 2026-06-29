@@ -32,7 +32,7 @@ Above the lactate threshold the picture changes. In the heavy and severe intensi
 
 ## Training speeds the response
 
-Endurance training quickens the primary component, lowering its time constant, and also blunts the slow component ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)). A fitter runner reaches the oxygen uptake a pace demands sooner, covers a smaller oxygen deficit, and spends less of their anaerobic reserve for the same speed ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities, so a runner can improve one without the other.
+Endurance training quickens the primary component, lowering its time constant, and also blunts the slow component ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). A fitter runner reaches the oxygen uptake a pace demands sooner, covers a smaller oxygen deficit, and spends less of their anaerobic reserve for the same speed ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities, so a runner can improve one without the other.
 
 ## Practical implications
 

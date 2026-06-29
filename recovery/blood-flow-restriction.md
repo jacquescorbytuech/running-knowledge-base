@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Blood-flow-restriction training, also called occlusion training, applies an inflatable cuff or band around the top of a limb to partly restrict venous return while you exercise the muscle below it at a low load, typically around 20 to 30% of one-repetition maximum ([Lixandrão et al. 2018](../sources/lixandrao-2018-bfr.md)). Arterial inflow is reduced but not stopped; venous outflow is the main target, so blood pools in the working muscle. The effect is to make light exercise feel and behave like heavy exercise: the muscle fatigues quickly, recruits its larger fast-twitch fibres earlier, and triggers the metabolic and hormonal signals that normally require lifting near maximal loads.
+Blood-flow-restriction training, also called occlusion training, applies an inflatable cuff or band around the top of a limb to partly restrict venous return while you exercise the muscle below it at a low load — well below the loads used in conventional resistance training ([Lixandrão et al. 2018](../sources/lixandrao-2018-bfr.md)). Arterial inflow is reduced but not stopped; venous outflow is the main target, so blood pools in the working muscle. The effect is to make light exercise feel and behave like heavy exercise: the muscle fatigues quickly, recruits its larger fast-twitch fibres earlier, and triggers the metabolic and hormonal signals that normally require lifting near maximal loads.
 
 ## Why it matters for runners
 
@@ -26,11 +26,9 @@ That combination, real muscle gains without heavy load, is most useful exactly w
 > [!note] A rehab tool, not a performance upgrade
 > The running-relevant niche is maintaining and rebuilding muscle during rehab, not adding speed in healthy runners. A runner who can lift heavy and run freely has little reason to reach for a cuff: ordinary [strength training](../techniques/strength-training-for-runners.md) does the same job and more, with better strength carry-over. Restricted training earns its place when heavy load or running volume is the thing that cannot happen yet.
 
-There is also some evidence that low-load aerobic work with blood-flow restriction, such as restricted walking or cycling, can improve aerobic and muscular measures more than the same low-load work unrestricted ([Hughes et al. 2017](../sources/hughes-2017-bfr-rehab.md)). For a runner unable to run, this offers a possible way to apply a training stimulus at very low mechanical load, though the evidence here is thinner than for the strength application.
-
 ## Safety and practice
 
-The method depends on cuff pressure, which should be set relative to the pressure that fully occludes the limb rather than to a fixed number, and on cuff width, since wider cuffs occlude at lower pressures. Getting these wrong undermines the effect or applies more restriction than intended ([Lixandrão et al. 2018](../sources/lixandrao-2018-bfr.md)). For this reason, and because the technique is used in people who are already injured or in surgical recovery, initial supervision by a physiotherapist or qualified clinician is advisable rather than improvising with a strap from a video.
+The method depends on cuff pressure, which should be set relative to the pressure that fully occludes the limb rather than to a fixed number, and on cuff width, since wider cuffs occlude at lower pressures. Getting these wrong undermines the effect or applies more restriction than intended. For this reason, and because the technique is used in people who are already injured or in surgical recovery, initial supervision by a physiotherapist or qualified clinician is advisable rather than improvising with a strap from a video.
 
 > [!warning] Not for everyone
 > Blood-flow restriction is generally contraindicated for anyone with a history of blood clots, vascular disease, uncontrolled high blood pressure or similar circulatory conditions. Set-up and supervision matter; this is a clinical tool, not a casual one. Clear it with a clinician who knows your history before starting ([Hughes et al. 2017](../sources/hughes-2017-bfr-rehab.md)).

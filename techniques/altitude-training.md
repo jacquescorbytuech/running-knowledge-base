@@ -51,7 +51,7 @@ The average hides large individual variation. Splitting runners by their result,
 ## In practice
 
 > [!tip] If you camp at altitude
-> - **Fix iron first.** Iron availability gates the whole response, and altitude worsens iron balance. Athletes who are iron-replete and supplemented gain red cell mass; the iron-deficient gain little ([Govus et al. 2015](../sources/govus-2015-altitude-iron.md)). Screen [ferritin](../nutrition/iron.md) before going and supplement on advice.
+> - **Fix iron first.** Iron availability gates the whole response, and altitude worsens iron balance. Athletes who are iron-deficient without supplementation gain little haemoglobin mass; adequate iron supplementation rescues and can amplify the response, with iron-deficient athletes on a full dose potentially gaining the most ([Govus et al. 2015](../sources/govus-2015-altitude-iron.md)). Screen [ferritin](../nutrition/iron.md) before going and supplement on advice.
 > - **Live high, train low if you can.** Do the quality sessions lower, or at least by effort rather than sea-level pace, because you cannot hold your normal speeds in the thin air at first.
 > - **Allow three to four weeks.** Shorter blocks rarely accumulate enough hypoxic dose to move haemoglobin mass.
 > - **Expect disrupted sleep** in the first days, and a higher risk of illness and overreaching from the combined hypoxic and training load. Altitude is a stress on top of training, not a free addition.

@@ -19,11 +19,11 @@ Training load is the dose of stress a runner takes on, and managing it is the ce
 
 ## External versus internal load
 
-Load comes in two forms. **External load** is the work done, measured objectively: distance, pace, time, elevation. **Internal load** is the physiological cost of that work to the individual, which depends on fitness, fatigue, heat and life stress, so the same external load lands differently on different runners and on the same runner on different days ([Impellizzeri et al. 2020](../sources/impellizzeri-2020-acwr-pitfalls.md)). Two runners doing the identical 10 km are not under the identical load. Managing load means tracking both, but internal load is what the body actually responds to.
+Load comes in two forms. **External load** is the work done, measured objectively: distance, pace, time, elevation. **Internal load** is the physiological cost of that work to the individual, which depends on fitness, fatigue, heat and life stress, so the same external load lands differently on different runners and on the same runner on different days. Two runners doing the identical 10 km are not under the identical load. Managing load means tracking both, but internal load is what the body actually responds to.
 
 ## Quantifying load
 
-The most practical internal-load measure is **session-RPE (sRPE)**: rate the overall perceived exertion of a session on a 0-10 scale, then multiply by its duration in minutes. A 60-minute run rated 7 scores 420 arbitrary units. This is a validated, near-free measure that tracks well with heart-rate-based methods ([Foster 2001](../sources/foster-2001-srpe.md)). Summed across a week it gives a weekly load; weekly running volume (mileage or time) is a cruder external proxy. The advantage of sRPE is that it captures intensity and the day's internal cost, not just the kilometres.
+The most practical internal-load measure is **session-RPE (sRPE)**: rate the overall perceived exertion of a session on a 0-10 scale, then multiply by its duration in minutes. A 60-minute run rated 7 scores 420 arbitrary units. This is a validated, near-free internal-load measure ([Foster 2001](../sources/foster-2001-srpe.md)). Summed across a week it gives a weekly load; weekly running volume (mileage or time) is a cruder external proxy. The advantage of sRPE is that it captures intensity and the day's internal cost, not just the kilometres.
 
 ## Ramp rate and the '10% rule'
 

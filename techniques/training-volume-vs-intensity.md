@@ -3,14 +3,14 @@ type: Technique
 title: Training volume versus intensity
 description: What actually drives improvement in distance runners: a large base of easy volume, finished with a small dose of targeted intensity.
 tags: [training]
-evidence: strong
+evidence: moderate
 timestamp: 2026-06-24
 ---
 
 # Training volume versus intensity
 
-> [!success] Evidence: strong
-> Total volume, mostly easy, is the strongest single driver of distance performance. Intensity is the finishing stimulus, not the foundation. What is less certain is the precise distribution of the hard part.
+> [!info] Evidence: moderate
+> Total volume, mostly easy, is the variable most consistently associated with distance-running performance across observational and mechanistic evidence. Intensity is the finishing stimulus, not the foundation. Causal trial evidence is thin and the precise distribution of the hard part is more contested.
 
 Across the available evidence, total training volume, most of it easy, is the variable most consistently associated with distance-running performance. In one study of 85 runners, total weekly distance was strongly correlated with performance, and easy running and tempo running together explained much of the variance in a regression model ([Casado et al. 2021](../sources/casado-2021-volume.md)). That is a single cross-sectional study, so the exact coefficient should not be read as a fixed quantity; it is the direction that recurs. Elite distance runners typically cover 120 to 180 km per week, the great majority of it at low intensity ([Tjelta 2016](../sources/tjelta-2016-volume.md)).
 

@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Prolonged running lowers lactate-threshold speed (Eur J Appl Physiol 2025)
 
-After 90 min easy running, LT1 speed fell ~5-6% in trained runners. Moderate.
+After 90 min easy running, LT1 speed fell ~5-6% in recreational runners. Moderate.

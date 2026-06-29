@@ -29,7 +29,7 @@ For repair and adaptation, aim for roughly 0.3 g of protein per kg in the post-s
 
 ## Rehydration: replace more than you lost, with sodium
 
-To restore fluid balance you must drink more than you sweated out, because some is lost as urine; replacing about 125 to 150% of the fluid deficit over the hours after exercise is the practical target. Volume alone is not enough: unless the drink carries enough sodium, the surplus is simply passed as urine and you stay in deficit ([Shirreffs et al. 1996](../sources/shirreffs-1996-rehydration.md)). After a short or easy run the deficit is trivial and the next meal handles it; the deliberate replace-with-sodium approach is for large losses after long or hot efforts. See [electrolytes](electrolytes.md) for why salt is the lever here and [hydration](hydration.md) for why overdrinking is the real danger.
+To restore fluid balance you must drink more than you sweated out, because some is lost as urine; replacing about 150% of the fluid deficit over the hours after exercise is the practical target. Volume alone is not enough: unless the drink carries enough sodium, the surplus is simply passed as urine and you stay in deficit ([Shirreffs et al. 1996](../sources/shirreffs-1996-rehydration.md)). After a short or easy run the deficit is trivial and the next meal handles it; the deliberate replace-with-sodium approach is for large losses after long or hot efforts. See [electrolytes](electrolytes.md) for why salt is the lever here and [hydration](hydration.md) for why overdrinking is the real danger.
 
 ## Co-ingesting carbohydrate and protein
 

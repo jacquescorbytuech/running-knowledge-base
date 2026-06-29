@@ -20,7 +20,7 @@ For decades runners were sorted by how much their feet roll inward (pronation) o
 
 ## Comfort and rotation are better guides
 
-The better-supported framework is Nigg's "preferred movement path" and comfort filter: people self-select the shoe that lets their legs move the way they naturally want to, and choosing for comfort tends to reduce injury and the metabolic cost of running ([shoe-selection evidence](../sources/shoe-selection-evidence.md)). Rotating between a few different pairs is associated with a markedly lower injury rate, plausibly because it varies the loading on tissues, and it matters more than the stability-versus-neutral choice.
+The better-supported framework is Nigg's "preferred movement path" and comfort filter: people self-select the shoe that lets their legs move the way they naturally want to, and choosing for comfort tends to reduce injury ([shoe-selection evidence](../sources/shoe-selection-evidence.md)). Rotating between a few different pairs is associated with a markedly lower injury rate, plausibly because it varies the loading on tissues, and it matters more than the stability-versus-neutral choice.
 
 ## A simple shoe wardrobe
 

@@ -20,7 +20,7 @@ The clock does not snap to the new zone. It shifts at roughly one time zone per 
 
 ## East is worse than west
 
-Travelling east is harder than travelling west ([Janse van Rensburg et al. 2021](../sources/janse-van-rensburg-2021-jetlag.md)). Going east forces the body clock to advance, to fall asleep and wake earlier, and the human clock resists shortening its day far more than lengthening it. Going west the clock has to delay, which is closer to its natural drift and easier to do. A practical rule is that westward zones adjust faster, often nearer half a day each, while eastward zones take the full day or more ([Janse van Rensburg et al. 2021](../sources/janse-van-rensburg-2021-jetlag.md)). Plan extra adjustment time for eastward trips.
+Travelling east is harder than travelling west ([Janse van Rensburg et al. 2021](../sources/janse-van-rensburg-2021-jetlag.md)). Going east forces the body clock to advance, to fall asleep and wake earlier, and the human clock resists shortening its day far more than lengthening it. Going west the clock has to delay, which is closer to its natural drift and easier to do. Westward travel is generally easier and adjustment is faster, while eastward travel often requires close to a full day per zone or more ([Janse van Rensburg et al. 2021](../sources/janse-van-rensburg-2021-jetlag.md)). Plan extra adjustment time for eastward trips.
 
 ## What actually helps
 

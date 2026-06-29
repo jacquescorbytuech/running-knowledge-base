@@ -26,7 +26,7 @@ Uphill and downhill are different tools. Uphill is concentric-dominant, builds p
 
 ## Short hill sprints for neuromuscular gain
 
-Short maximal hill sprints, roughly 6 to 10 seconds, are a low-injury way to recruit high-threshold muscle fibres and develop power. The forced recruitment under load is the point. Sprinting teaches the body to call on fibres it otherwise spares ([Barnes et al. 2013](../sources/barnes-2013-uphill-intervals.md)). The incline limits top speed and lands softer than flat sprinting, lowering hamstring strain risk, which is why many coaches use hill sprints as an early-season introduction to fast running. This is a strong rationale with modest direct trial evidence, so treat it as a sensible, low-cost addition rather than a proven necessity.
+Short maximal hill sprints, roughly 6 to 10 seconds, are a low-injury way to recruit high-threshold muscle fibres and develop power. The forced recruitment under load is the point. Sprinting teaches the body to call on fibres it otherwise spares. The incline limits top speed and lands softer than flat sprinting, lowering hamstring strain risk, which is why many coaches use hill sprints as an early-season introduction to fast running. This is a strong rationale with modest direct trial evidence, so treat it as a sensible, low-cost addition rather than a proven necessity.
 
 ## How to do it
 

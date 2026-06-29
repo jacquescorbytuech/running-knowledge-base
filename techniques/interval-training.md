@@ -22,7 +22,7 @@ Interval training is repeated hard efforts with recovery between them, used to a
 
 ## How much elite runners actually do
 
-Observationally, elite distance runners spend roughly 75 to 80% of training easy and 15 to 25% at or above threshold, typically across two to four threshold sessions and one to two higher-intensity sessions per week ([Kelemen et al. 2024](../sources/kelemen-2024-double-threshold.md)). Reduced-volume, higher-intensity formats can still improve trained runners: the 10-20-30 protocol cut volume by over half yet improved 5 km time and raised VO₂max ([Gunnarsson & Bangsbo 2012](../sources/gunnarsson-2012-10-20-30.md)).
+Observationally, elite distance runners spend roughly 75 to 80% of training easy and 15 to 25% at or above threshold ([Kelemen et al. 2024](../sources/kelemen-2024-double-threshold.md)), with intensity delivered across a small number of quality sessions per week. Reduced-volume, higher-intensity formats can still improve trained runners: the 10-20-30 protocol cut volume by over half yet improved 5 km time and raised VO₂max ([Gunnarsson & Bangsbo 2012](../sources/gunnarsson-2012-10-20-30.md)).
 
 Intensity is the finishing stimulus, not the foundation. It sits on top of the easy [volume](training-volume-vs-intensity.md) that does the bulk of the work, and its dose has to be matched to the [individual](../concepts/individual-variation.md), because hard sessions carry most of the injury and overtraining risk.
 

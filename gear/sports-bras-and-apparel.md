@@ -12,7 +12,7 @@ timestamp: 2026-06-25
 > [!info] Evidence: moderate
 > A high-support, well-fitted sports bra is essential kit, not an accessory: it sharply reduces breast movement and exercise-induced breast pain, and may give a small running-economy benefit for larger-breasted runners. Fit, not bra ownership, is the dominant problem. For the rest of the kit, synthetic socks and fabrics earn their place for comfort, sweat handling and fewer blisters, not for speed.
 
-Running moves the breasts by several centimetres in every direction, and because no muscle or bone holds them in place, a sports bra is the only thing that controls it ([University of Portsmouth](../sources/portsmouth-breast-health.md)). A well-fitted high-support sports bra cuts that movement substantially, and across studies sports bras reduce discomfort compared with everyday bras, with encapsulation and high-support designs outperforming light compression styles ([Gilmer et al. 2024](../sources/gilmer-2024-breasts-bras-review.md)).
+Running moves the breasts by several centimetres in every direction, and because no muscle or bone holds them in place, a sports bra is the only thing that controls it ([University of Portsmouth](../sources/portsmouth-breast-health.md)). A well-fitted high-support sports bra cuts that movement substantially, and across studies sports bras reduce discomfort compared with everyday bras ([Gilmer et al. 2024](../sources/gilmer-2024-breasts-bras-review.md)).
 
 ## Why it matters for performance and participation
 

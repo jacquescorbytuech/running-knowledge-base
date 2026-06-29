@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Energy cost of running and Achilles tendon stiffness
 
-A stiffer Achilles tendon is associated with better running economy, storing and returning more elastic energy per stride and reducing ground contact time. Part of the mechanistic basis for why plyometric and heavy strength training improve economy. Moderate.
+A stiffer Achilles tendon is associated with better running economy, with a significant relationship between tendon stiffness and energy cost found in women and in the combined dataset, though not in men alone. Provides part of the mechanistic basis for why plyometric and heavy strength training improve economy. Moderate.
