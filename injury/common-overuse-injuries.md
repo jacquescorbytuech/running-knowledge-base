@@ -30,7 +30,7 @@ That correction matters because the friction model justified stretching and foam
 
 See [patellofemoral pain](patellofemoral-pain.md) for the dedicated page. It is diffuse pain around or behind the kneecap, often worse on hills, stairs and after sitting. It is multifactorial; hip weakness is commonly associated, though prospective evidence that it causes the pain is mixed, and the load on the kneecap joint depends heavily on how the hip controls the leg during running.
 
-The best-supported treatment is exercise therapy: combined hip and knee strengthening beats knee strengthening alone for both pain and function ([Nascimento et al. 2018](../sources/ferber-2015-pfp-hip.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
+The best-supported treatment is exercise therapy: combined hip and knee strengthening beats knee strengthening alone for both pain and function ([Nascimento et al. 2018](../sources/nascimento-2018-pfp-hip.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
 
 ## Plantar fasciopathy
 
@@ -43,9 +43,9 @@ Because the problem is load-related tissue change, progressive loading helps. An
 
 ## Medial tibial stress syndrome (shin splints)
 
-This is diffuse pain along the inner edge of the shin, brought on by running and eased by rest. It sits on the same spectrum as bone stress injury, so a sudden rise in training load is a central trigger ([MTSS reviews](../sources/winters-2018-mtss.md)). Other risk factors include female sex, higher body mass, a previous episode and greater navicular drop ([MTSS reviews](../sources/winters-2018-mtss.md)).
+This is diffuse pain along the inner edge of the shin, brought on by running and eased by rest. It sits on the same spectrum as bone stress injury, so a sudden rise in training load is a central trigger ([MTSS reviews](../sources/saad-2025-mtss.md)). Other risk factors include female sex, higher body mass, a previous episode and greater navicular drop ([MTSS reviews](../sources/saad-2025-mtss.md)).
 
-Management rests on relative rest and graded load progression, the same load-first logic as the other overuse injuries ([MTSS reviews](../sources/winters-2018-mtss.md)). Various passive add-ons such as [shockwave therapy](shockwave-therapy.md), compression and shock-absorbing insoles are used, but their supporting evidence here is thin, so they are adjuncts rather than the core treatment.
+Management rests on relative rest and graded load progression, the same load-first logic as the other overuse injuries ([MTSS reviews](../sources/saad-2025-mtss.md)). Various passive add-ons such as [shockwave therapy](shockwave-therapy.md), compression and shock-absorbing insoles are used, but their supporting evidence here is thin, so they are adjuncts rather than the core treatment.
 
 > [!warning] Shin pain that localises is a red flag
 > Diffuse shin pain along the inner border is typical of medial tibial stress syndrome, but pain that narrows to a single tender spot, especially on the front edge of the shin, can mark a tibial bone stress injury and needs assessment. See [bone stress injuries](bone-stress-injuries.md).

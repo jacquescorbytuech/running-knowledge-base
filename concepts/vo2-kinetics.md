@@ -16,15 +16,15 @@ When you step from rest or an easy jog to a harder pace, oxygen demand jumps at 
 
 ## The phases of the response
 
-At the onset of constant exercise, pulmonary VO2 rises in three distinct phases ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)).
+At the onset of constant exercise, pulmonary VO2 rises in three distinct phases ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)).
 
 - **The cardiodynamic phase.** In the first 15 to 25 seconds, VO2 measured at the mouth rises quickly but reflects a faster heart output pushing more blood through the lungs, not yet the extra oxygen being extracted by the working muscles ([Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)).
-- **The primary fast component.** VO2 then climbs along an exponential curve as muscle oxygen uptake itself increases. The speed of this phase is captured by a time constant: a smaller constant means a faster rise. In trained people the primary component reaches its target in roughly two to three minutes; in untrained or older people it is slower ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)).
+- **The primary fast component.** VO2 then climbs along an exponential curve as muscle oxygen uptake itself increases. The speed of this phase is captured by a time constant: a smaller constant means a faster rise. In trained people the primary component reaches its target in roughly two to three minutes; in untrained or older people it is slower ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md)).
 - **The steady state.** Below the [lactate threshold](lactate-threshold.md), VO2 levels off at a value matched to the work rate and holds there ([Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)).
 
 ## The oxygen deficit
 
-Because aerobic supply lags demand, energy at the start of exercise comes from anaerobic sources: stored phosphates, oxygen bound to myoglobin, and glycolysis. The shortfall over that period is the oxygen deficit ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)). Its size depends directly on the speed of the kinetics: a faster primary component means VO2 reaches the required value sooner, so a smaller deficit must be covered anaerobically. A runner with faster kinetics therefore draws down less of their finite [anaerobic capacity](anaerobic-capacity-and-speed-reserve.md), accumulates less lactate and fewer fatigue-related metabolites, and reaches a stable state with a smaller internal disturbance ([Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). This is why kinetics matter for performance: the same pace costs one runner more of their reserve than another.
+Because aerobic supply lags demand, energy at the start of exercise comes from anaerobic sources: stored phosphates, oxygen bound to myoglobin, and glycolysis. The shortfall over that period is the oxygen deficit ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md)). Its size depends directly on the speed of the kinetics: a faster primary component means VO2 reaches the required value sooner, so a smaller deficit must be covered anaerobically. A runner with faster kinetics therefore draws down less of their finite [anaerobic capacity](anaerobic-capacity-and-speed-reserve.md), accumulates less lactate and fewer fatigue-related metabolites, and reaches a stable state with a smaller internal disturbance ([Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). This is why kinetics matter for performance: the same pace costs one runner more of their reserve than another.
 
 ## The slow component
 
@@ -32,7 +32,7 @@ Above the lactate threshold the picture changes. In the heavy and severe intensi
 
 ## Training speeds the response
 
-Endurance training quickens the primary component, lowering its time constant, and also blunts the slow component ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). A fitter runner reaches the oxygen uptake a pace demands sooner, covers a smaller oxygen deficit, and spends less of their anaerobic reserve for the same speed ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities, so a runner can improve one without the other.
+Endurance training quickens the primary component, lowering its time constant, and also blunts the slow component ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). A fitter runner reaches the oxygen uptake a pace demands sooner, covers a smaller oxygen deficit, and spends less of their anaerobic reserve for the same speed ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md)). Faster kinetics and a larger anaerobic capacity are partly independent qualities, so a runner can improve one without the other.
 
 ## Practical implications
 
@@ -45,7 +45,7 @@ Kinetics also inform [interval](../techniques/interval-training.md) design. Beca
 
 ## A lab-heavy evidence base
 
-Most of what is known about VO2 kinetics comes from breath-by-breath gas analysis in laboratories, often on cycle ergometers and with repeated transitions to resolve the curve ([Poole & Jones 2012](../sources/jones-2005-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). The phase model and the mechanisms are well established, but the direct, individual link from a runner's measured time constant to race outcomes is harder to pin down outside the lab. Treat the principles as sound and the precise numbers as setting-dependent. For where kinetics sit among the determinants of distance performance, see [the basics](the-basics.md).
+Most of what is known about VO2 kinetics comes from breath-by-breath gas analysis in laboratories, often on cycle ergometers and with repeated transitions to resolve the curve ([Poole & Jones 2012](../sources/poole-jones-2012-vo2-kinetics.md); [Burnley & Jones 2007](../sources/burnley-jones-2007-vo2-kinetics-performance.md)). The phase model and the mechanisms are well established, but the direct, individual link from a runner's measured time constant to race outcomes is harder to pin down outside the lab. Treat the principles as sound and the precise numbers as setting-dependent. For where kinetics sit among the determinants of distance performance, see [the basics](the-basics.md).
 
 ## Related
 

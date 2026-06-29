@@ -19,7 +19,7 @@ Most running injuries are overuse injuries: tissue loaded faster than it could a
 
 ## Manage training load: the foundation
 
-The single biggest lever is also the least glamorous: progress gradually and avoid one outsized session. In a cohort of 5,205 runners, a run more than 10% longer than the longest run of the previous 30 days raised the overuse-injury rate, and the risk climbed with the size of the spike, up to a hazard rate ratio of 2.28 for a run more than double the recent long run ([Frandsen et al. 2025](../sources/johansen-2025-high-risk-sessions.md)). Avoiding one wild session is better supported than any weekly-percentage rule: the familiar '10% rule' has weak direct support, though very steep weekly jumps above 30% did raise injuries in novices ([Nielsen et al. 2014](../sources/nielsen-2014-10-percent.md)). This is the foundation; the details and the caveats live in [training load management](../techniques/training-load-management.md).
+The single biggest lever is also the least glamorous: progress gradually and avoid one outsized session. In a cohort of 5,205 runners, a run more than 10% longer than the longest run of the previous 30 days raised the overuse-injury rate, and the risk climbed with the size of the spike, up to a hazard rate ratio of 2.28 for a run more than double the recent long run ([Frandsen et al. 2025](../sources/frandsen-2025-high-risk-sessions.md)). Avoiding one wild session is better supported than any weekly-percentage rule: the familiar '10% rule' has weak direct support, though very steep weekly jumps above 30% did raise injuries in novices ([Nielsen et al. 2014](../sources/nielsen-2014-10-percent.md)). This is the foundation; the details and the caveats live in [training load management](../techniques/training-load-management.md).
 
 ## Strength training: the best-evidenced active measure
 
@@ -31,7 +31,7 @@ The honest caveat: these trials pooled mostly general-sport and military cohorts
 
 Prevention is not only what you do in the gym. Running under-fuelled raises injury risk directly: low energy availability suppresses the hormones that maintain bone and is a leading driver of [bone stress injuries](bone-stress-injuries.md) ([Gallant et al. 2024](../sources/gallant-2024-lea-reds.md)). Eating enough to support training is a preventive measure in its own right; see [RED-S](../nutrition/red-s.md).
 
-Sleep belongs in the same bracket. A systematic review found short sleep associated with roughly 1.7 times higher injury risk in athletes ([Sports Med Open 2023](../sources/sports-med-open-2023-sleep-injury.md)). Sleep is the recovery window in which adaptation happens, so protecting it protects against the load errors that injure runners; see [sleep](../recovery/sleep.md).
+Sleep belongs in the same bracket. A study of adolescent athletes found short sleep associated with roughly 1.7 times higher injury risk ([Milewski et al. 2014](../sources/milewski-2014-sleep-injury.md)). Sleep is the recovery window in which adaptation happens, so protecting it protects against the load errors that injure runners; see [sleep](../recovery/sleep.md).
 
 ## What is not shown to prevent injury
 

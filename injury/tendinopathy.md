@@ -19,7 +19,7 @@ Tendinopathy is the modern name for a painful, load-related tendon problem, most
 
 ## Loading is the treatment
 
-The strongest evidence in tendon rehab is that loading the tendon beats passive treatment. Systematic reviews and meta-analyses of RCTs find loading-based exercise superior to passive modalities such as ultrasound or rest for midportion Achilles tendinopathy ([Maetz et al. 2023](../sources/pas-2015-eccentric-meta.md)).
+The strongest evidence in tendon rehab is that loading the tendon beats passive treatment. Systematic reviews and meta-analyses of RCTs find loading-based exercise superior to passive modalities such as ultrasound or rest for midportion Achilles tendinopathy ([Maetz et al. 2023](../sources/maetz-2023-achilles-loading.md)).
 
 Two loading styles dominate, and they work about equally well. The eccentric (Alfredson) protocol uses slow heel-drop lowering, traditionally a high daily volume. Heavy-slow resistance uses fewer, heavier, slow repetitions every second or third day. A head-to-head RCT in midportion Achilles tendinopathy found both produced large, lasting gains, with mean VISA-A scores rising from 74 at 12 weeks to 87 at one year and no difference between groups, though heavy-slow resistance won on patient satisfaction ([Beyer et al. 2015](../sources/beyer-2015-hsr-eccentric.md)), and its lower session frequency makes it the more convenient programme in practice.
 

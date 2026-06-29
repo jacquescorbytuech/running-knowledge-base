@@ -21,7 +21,7 @@ The idea that women should plan training around menstrual cycle phases has becom
 
 The most thorough synthesis pooled 78 studies. Performance was, on average, trivially lower in the early follicular phase, around the period itself, than in other phases. The effect was small, heterogeneity between studies was high, and study quality was poor: only 8% of studies were rated high quality and most were low or very low ([McNulty et al. 2020](../sources/mcnulty-2020-menstrual-cycle-meta.md)). A trivial average effect drawn from weak studies is not a basis for confident scheduling.
 
-A major reason the literature is so noisy is method. Most studies did not confirm which cycle phase a participant was actually in using hormone measurement, so 'phases' are frequently mislabelled, which both inflates and confuses the reported effects ([Elliott-Sale et al. 2021](../sources/mcnulty-2020-considerations-research.md)).
+A major reason the literature is so noisy is method. Most studies did not confirm which cycle phase a participant was actually in using hormone measurement, so 'phases' are frequently mislabelled, which both inflates and confuses the reported effects ([Elliott-Sale et al. 2021](../sources/elliott-sale-2021-considerations.md)).
 
 ## Hormonal contraception
 
