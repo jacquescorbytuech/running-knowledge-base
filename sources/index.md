@@ -3,6 +3,16 @@
 Every work cited in the knowledge base, with its location and headline finding. Each claim on a content page links back to one of these. Grouped by domain.
 
 ## Physiology
+- [Périard et al. 2021, Exercise under heat stress: thermoregulation, hydration and performance](periard-2021-heat-thermoregulation.md)
+- [Hunter et al. 2023, Biological basis of sex differences in athletic performance: ACSM consensus statement](hunter-2023-sex-differences-acsm.md)
+- [Van Hooren et al. 2024, Running biomechanics and running economy: systematic review and meta-analysis](van-hooren-2024-biomechanics-economy.md)
+- [Guarnieri et al. 2025, Extreme endurance training and coronary artery disease: systematic review and meta-analysis](guarnieri-2025-endurance-cad.md)
+- [Martínez-Vizcaíno et al. 2023, Exercise during pregnancy for preventing gestational diabetes and hypertensive disorders umbrella review](martinez-vizcaino-2023-exercise-pregnancy.md)
+- [Mølmen et al. 2025, Exercise training and mitochondrial and capillary growth meta-regression](molmen-2025-mitochondrial-capillary.md)
+- [Bruno et al. 2026, Validity and reliability of portable blood lactate analysers systematic review](bruno-2026-lactate-analyzers.md)
+- [Rodriguez Bauza & Silveyra 2020, Sex differences in exercise-induced bronchoconstriction in athletes](rodriguez-bauza-2020-eib-sex-differences.md)
+- [Doyle et al. 2022, Gait retraining effectiveness in distance runners](doyle-2022-gait-retraining-meta.md)
+- [Martin et al. 2025, Physical activity, air pollution and all-cause mortality](martin-2025-activity-air-pollution-mortality.md)
 
 - [ACOG Committee Opinion 804, exercise during pregnancy and postpartum](acog-2020-exercise-pregnancy.md)
 - [Aengevaeren et al. 2017, Lifelong exercise and coronary calcium](aengevaeren-2017-cac.md)
@@ -95,6 +105,8 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Weir et al. 2006, critique of the central governor model](weir-2006-central-governor-critique.md)
 
 ## Training
+- [Sha et al. 2024, systematic review of marathon pacing strategies](sha-2024-marathon-pacing-review.md)
+- [Renwick et al. 2024, Individual VO2max response to exercise: systematic review and meta-analysis](renwick-2024-vo2max-trainability.md)
 
 - [Abbiss & Laursen 2008, describing and understanding pacing strategies](abbiss-laursen-2008-pacing.md)
 - [Afonso et al. 2020, the effects of agility ladders on performance](afonso-2020-agility-ladders.md)
@@ -225,6 +237,9 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Zanini, Folland & Blagrove 2025, Duration of prolonged running and acute fatigue](zanini-2025-long-run.md)
 
 ## Nutrition
+- [Hemilä & Chalker 2013, vitamin C for preventing and treating the common cold](hemila-chalker-2013-vitamin-c-cold.md)
+- [Chen et al. 2026, probiotic immune markers in athletes umbrella review](chen-2026-probiotics-athletes-umbrella.md)
+- [Gejl & Nybo 2021, periodized carbohydrate restriction meta-analysis](gejl-nybo-2021-cho-restriction-meta.md)
 
 - [2024 meta-analysis, self-reported disordered eating in athletes](flatt-2024-disordered-eating-meta.md)
 - [Academy of Nutrition and Dietetics 2016, Position on vegetarian diets](and-2016-vegetarian-position.md)
@@ -432,6 +447,9 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Wilber et al. 1996, Influence of water run training on the maintenance of aerobic performance](wilber-1996-water-running.md)
 
 ## Injury
+- [Correia et al. 2024, umbrella review of risk factors for running-related injuries](correia-2024-rrmi-umbrella.md)
+- [George et al. 2024, criteria for returning to running after tibial bone stress injury](george-2024-tibial-bsi-return.md)
+- [Bell et al. 2018, Sport specialisation and risk of overuse injuries: systematic review and meta-analysis](bell-2018-specialisation-overuse-injury.md)
 
 - [Active Release Technique and hamstring extensibility (critically appraised topic)](art-hamstring-evidence.md)
 - [Alfredson et al. 1998, Heavy-load eccentric calf muscle training for chronic Achilles tendinosis](alfredson-1998-eccentric.md)

@@ -33,7 +33,7 @@ It is managed on several fronts, each with its own page:
 
 ## Training low, deliberately
 
-Some training is done with low glycogen on purpose, "train low", because the low-fuel state amplifies the molecular signals for adaptation. The signalling is real, but periodised carbohydrate restriction has not translated into clear performance gains, so it is a tool to use sparingly rather than a default ([Hawley et al. 2018](../sources/hawley-2018-train-low.md)). For refuelling between sessions, rapid carbohydrate intake matters mainly when the next hard effort is within about eight hours ([Kerksick et al. 2017](../sources/kerksick-2017-nutrient-timing.md)).
+Some training is done with low glycogen on purpose, "train low", because the low-fuel state amplifies the molecular signals for adaptation. The signalling is real, but periodised carbohydrate restriction has not translated into clear performance gains, so it is a tool to use sparingly rather than a default ([Hawley et al. 2018](../sources/hawley-2018-train-low.md); [Gejl & Nybo 2021](../sources/gejl-nybo-2021-cho-restriction-meta.md)). For refuelling between sessions, rapid carbohydrate intake matters mainly when the next hard effort is within about eight hours ([Kerksick et al. 2017](../sources/kerksick-2017-nutrient-timing.md)).
 
 ## Related
 

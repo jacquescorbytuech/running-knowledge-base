@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-About 40 to 50% of runners sustain a running-related injury in a given year, and more than 70% of those injuries are overuse injuries rather than sudden traumatic ones ([Kakouris et al. 2021](../sources/kakouris-2021-rrmi-review.md)). Roughly four in five injuries occur at or below the knee, with the knee, lower leg and ankle the most common sites ([Kakouris et al. 2021](../sources/kakouris-2021-rrmi-review.md)). The injuries that stop most runners are not freak accidents. They are tissues that were loaded faster than they could adapt.
+About 40 to 50% of runners sustain a running-related injury in a given year, and more than 70% of those injuries are overuse injuries rather than sudden traumatic ones ([Kakouris et al. 2021](../sources/kakouris-2021-rrmi-review.md)). Roughly four in five injuries occur at or below the knee, with the knee, lower leg and ankle the most common sites ([Kakouris et al. 2021](../sources/kakouris-2021-rrmi-review.md)). An umbrella review pooling 13 systematic reviews found that training characteristics, health and lifestyle factors, and biomechanical variables carry the largest effect sizes for injury risk, confirming the multifactorial picture — though the methodological quality of the reviewed literature was low ([Correia et al. 2024](../sources/correia-2024-rrmi-umbrella.md)). The injuries that stop most runners are not freak accidents. They are tissues that were loaded faster than they could adapt.
 
 ## It is load, not running
 

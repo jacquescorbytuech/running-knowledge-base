@@ -16,11 +16,11 @@ Male and female distance runners differ in ways that matter for training and rac
 
 ## The performance gap
 
-Across distance events from 800 m to the marathon, the best women run about 10 to 12% slower than the best men, and that gap has been stable for decades ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md)). It is driven mainly by physiology rather than participation or training: men have higher haemoglobin concentration, a larger heart and lower body fat ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md)).
+Across distance events from 800 m to the marathon, the best women run about 10 to 12% slower than the best men, and that gap has been stable for decades ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md); [Hunter et al. 2023](../sources/hunter-2023-sex-differences-acsm.md)). It is driven mainly by physiology rather than participation or training: men have higher haemoglobin concentration, a larger heart and lower body fat ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md); [Hunter et al. 2023](../sources/hunter-2023-sex-differences-acsm.md)).
 
 ## VO2max and substrate use
 
-Most of the male advantage runs through [VO₂max](vo2max.md). Higher haemoglobin carries more oxygen, and a larger heart pumps more blood, so men have a higher VO₂max even when it is expressed per kilogram of body mass ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md)). Lower body fat in men also lifts the per-kilogram figure.
+Most of the male advantage runs through [VO₂max](vo2max.md). Higher haemoglobin carries more oxygen, and a larger heart pumps more blood, so men have a higher VO₂max even when it is expressed per kilogram of body mass ([Santisteban et al. 2022](../sources/santisteban-2022-sex-differences-vo2max.md); [Hunter et al. 2023](../sources/hunter-2023-sex-differences-acsm.md)). Lower body fat in men also lifts the per-kilogram figure.
 
 Women oxidise relatively more fat and less carbohydrate at the same intensity ([Besson et al. 2022](../sources/besson-2022-sex-differences-running.md)). In theory this spares [glycogen](glycogen.md), which could help in very long events, though it has not been shown to close the performance gap. Women also tend to resist fatigue better in some sustained and repeated tasks.
 
