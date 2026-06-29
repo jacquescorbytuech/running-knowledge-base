@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Ronnestad & Mujika 2014, Strength training for endurance
-resource: https://pubmed.ncbi.nlm.nih.gov/24382021/
+resource: https://doi.org/10.1111/sms.12104
 tags: [training]
 timestamp: 2026-06-24
 ---

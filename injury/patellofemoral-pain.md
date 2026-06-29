@@ -38,7 +38,7 @@ The implication is narrow. It is safe to say hip weakness is frequently present 
 
 The best-supported treatment is exercise therapy, and the most useful finding is about *what* to strengthen. Combined hip and knee strengthening beats knee strengthening alone for both pain and function. The Manchester and Gold Coast international consensus statements place this combination at the top of the evidence ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). Whatever the causal direction of the weakness, adding hip-focused work, abduction and external-rotation strengthening, to the usual knee exercises produces better outcomes. See [strength training for runners](../techniques/strength-training-for-runners.md) for how to build this into a programme.
 
-Alongside strengthening comes load management. Complete rest is rarely needed or helpful; the better route is to cut running volume to a level the knee tolerates, then rebuild gradually rather than returning to full mileage at once ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). This is the same load-first logic that governs the other [common overuse injuries](common-overuse-injuries.md) and is set out in [return to running](../techniques/return-to-running.md).
+Alongside strengthening comes load management. Complete rest is rarely needed or helpful; the better route is to cut running volume to a level the knee tolerates, then rebuild gradually rather than returning to full mileage at once. This is the same load-first logic that governs the other [common overuse injuries](common-overuse-injuries.md) and is set out in [return to running](../techniques/return-to-running.md).
 
 ## Gait retraining: a modest, real role
 
@@ -46,7 +46,7 @@ Changing how the foot strikes the ground can lower the load the kneecap absorbs.
 
 ## What does not help much
 
-Several popular measures are weaker than their reputation. Passive modalities, the ultrasound, electrotherapy and manual-only treatments used as the main intervention, do not match exercise therapy, which the consensus statements rank first ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). Patellar taping can give short-term symptom relief that may help a runner get going with rehab, but it is not a standalone cure and the case for long-term taping is thin ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). As with the other overuse injuries, the core remains the same: reduce load, build capacity with strengthening, then rebuild running gradually. For the general principles, see [the basics](../concepts/the-basics.md) and [running injuries](running-injuries.md).
+Several popular measures are weaker than their reputation. Passive modalities, the ultrasound, electrotherapy and manual-only treatments used as the main intervention, do not match exercise therapy, which the consensus statements rank first ([Crossley et al. 2016](../sources/ferber-2015-pfp-hip.md)). Patellar taping can give short-term symptom relief that may help a runner get going with rehab, but it is not a standalone cure and the case for long-term taping is thin. As with the other overuse injuries, the core remains the same: reduce load, build capacity with strengthening, then rebuild running gradually. For the general principles, see [the basics](../concepts/the-basics.md) and [running injuries](running-injuries.md).
 
 ## Related
 

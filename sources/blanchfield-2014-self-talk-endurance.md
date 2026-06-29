@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Blanchfield et al. 2014, Self-talk and endurance performance
-resource: https://pubmed.ncbi.nlm.nih.gov/24681526/
+resource: https://pubmed.ncbi.nlm.nih.gov/24121242/
 tags: [training]
 timestamp: 2026-06-25
 ---

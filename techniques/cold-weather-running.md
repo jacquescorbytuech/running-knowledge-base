@@ -21,7 +21,7 @@ Air temperature is the environmental factor with the biggest effect on marathon 
 
 ## The lungs do not freeze
 
-The common worry that cold air freezes or damages the lungs does not hold for healthy people. The upper and central airways warm and humidify inspired air before it reaches the lower airways, which stay close to body temperature even in deeply sub-zero air ([Sjöström, Kennedy et al. 2020](../sources/sjostrom-2020-cold-airway.md)). The genuine respiratory issue is different: high ventilation of cold, dry air dries and cools the airway surface, which can trigger exercise-induced bronchoconstriction, and this is markedly more common in winter-endurance athletes than in the general population. Covering the mouth and nose with a buff or a heat-and-moisture-exchanging mask blunts that airway response in very cold air ([Eklund et al. 2022](../sources/eklund-2022-breathing-mask.md)).
+The common worry that cold air freezes or damages the lungs does not hold for healthy people. The upper and central airways warm and humidify inspired air before it reaches the lower airways, which stay close to body temperature even in deeply sub-zero air ([Hanstock et al. 2020](../sources/sjostrom-2020-cold-airway.md)). The genuine respiratory issue is different: high ventilation of cold, dry air dries and cools the airway surface, which can trigger exercise-induced bronchoconstriction, and this is markedly more common in winter-endurance athletes than in the general population. Covering the mouth and nose with a buff or a heat-and-moisture-exchanging mask blunts that airway response in very cold air ([Stenfors et al. 2022](../sources/eklund-2022-breathing-mask.md)).
 
 ## The real risks: frostbite and hypothermia
 

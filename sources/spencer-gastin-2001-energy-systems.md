@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Spencer & Gastin 2001, energy system contribution in 200-1500 m running
-resource: https://link.springer.com/article/10.2165/00007256-200131100-00003
+resource: https://doi.org/10.1097/00005768-200101000-00024
 tags: [physiology, training]
 timestamp: 2026-06-24
 ---

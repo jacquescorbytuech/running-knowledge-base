@@ -28,9 +28,9 @@ That correction matters because the friction model justified stretching and foam
 
 ## Patellofemoral pain (runner's knee)
 
-See [patellofemoral pain](patellofemoral-pain.md) for the dedicated page. It is diffuse pain around or behind the kneecap, often worse on hills, stairs and after sitting. It is multifactorial; hip weakness is commonly associated, though prospective evidence that it causes the pain is mixed, and the load on the kneecap joint depends heavily on how the hip controls the leg during running ([PFP reviews 2016-2018](../sources/ferber-2015-pfp-hip.md)).
+See [patellofemoral pain](patellofemoral-pain.md) for the dedicated page. It is diffuse pain around or behind the kneecap, often worse on hills, stairs and after sitting. It is multifactorial; hip weakness is commonly associated, though prospective evidence that it causes the pain is mixed, and the load on the kneecap joint depends heavily on how the hip controls the leg during running ([Nascimento et al. 2018](../sources/ferber-2015-pfp-hip.md)).
 
-The best-supported treatment is exercise therapy, and combined hip and knee strengthening beats knee strengthening alone for both pain and function. The Manchester and Gold Coast consensus statements place this combination at the top of the evidence ([PFP reviews 2016-2018](../sources/ferber-2015-pfp-hip.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
+The best-supported treatment is exercise therapy: combined hip and knee strengthening beats knee strengthening alone for both pain and function ([Nascimento et al. 2018](../sources/ferber-2015-pfp-hip.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
 
 ## Plantar fasciopathy
 

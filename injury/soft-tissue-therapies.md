@@ -26,7 +26,7 @@ ART is a trademarked system of manual soft-tissue treatment, in which a therapis
 
 ## Instrument-assisted soft-tissue mobilisation (Graston, IASTM)
 
-IASTM uses metal or plastic tools to scrape and rub the skin and underlying tissue; Graston is the best-known branded version. A systematic review and effect-size analysis found the studies few, heterogeneous and spread across many different instruments and protocols, with no consistent advantage over comparison treatments and no firm basis for any particular dosage or technique ([IASTM review 2019](../sources/iastm-2019-review.md)). The evidence is too thin and inconsistent to validate the method itself, as opposed to the exercise it is usually delivered alongside.
+IASTM uses metal or plastic tools to scrape and rub the skin and underlying tissue; Graston is the best-known branded version. A systematic review and effect-size analysis found large effect sizes for pain and patient-reported function in injured participants and for range of motion in uninjured participants, concluding that moderate evidence supports IASTM for those outcomes ([IASTM review 2019](../sources/iastm-2019-review.md)). The studies were heterogeneous, no firm recommendation on dosage or instrument could be drawn, and IASTM showed no consistent benefit for strength.
 
 ## Cupping
 

@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Ivarsson et al. 2017, Psychosocial factors and sport injury
-resource: https://www.sciencedirect.com/science/article/abs/pii/S1466853X17304911
+resource: https://pubmed.ncbi.nlm.nih.gov/27406221/
 tags: [recovery]
 timestamp: 2026-06-24
 ---

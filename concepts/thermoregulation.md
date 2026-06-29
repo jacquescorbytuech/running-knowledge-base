@@ -41,7 +41,7 @@ Performance in the heat is limited by rising core temperature itself, not only b
 
 ## Individual and sex differences in sweating
 
-Sweating capacity varies widely between people, which is one reason heat tolerance does. Sweat rate, the sodium concentration of sweat, and the temperature at which sweating begins all differ substantially across individuals ([Racinais et al. 2015](../sources/racinais-2015-heat-consensus.md)). On average women sweat somewhat less for a given heat load and rely a little more on skin blood flow for cooling, though body size, fitness and acclimation status explain much of the apparent [sex difference](the-female-runner.md) ([Besson et al. 2022](../sources/besson-2022-sex-differences-running.md)). Acclimation shifts every runner in the same direction: earlier, heavier and more dilute sweating ([Tyler et al. 2016](../sources/tyler-2016-heat-meta.md)).
+Sweating capacity varies widely between people, which is one reason heat tolerance does. Sweat rate, the sodium concentration of sweat, and the temperature at which sweating begins all differ substantially across individuals ([Racinais et al. 2015](../sources/racinais-2015-heat-consensus.md)). On average women sweat somewhat less for a given heat load and rely a little more on skin blood flow for cooling, though body size, fitness and acclimation status explain much of the apparent [sex difference](the-female-runner.md) [citation needed]. Acclimation shifts every runner in the same direction: earlier, heavier and more dilute sweating ([Tyler et al. 2016](../sources/tyler-2016-heat-meta.md)).
 
 ## Dehydration degrades cooling
 

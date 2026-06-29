@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Dupuy et al. 2018, Active recovery in recovery meta-analysis
 
-Meta-analysis of recovery techniques. Active recovery produced a small reduction in perceived fatigue and soreness but, unlike massage or cold water immersion, did not reliably reduce markers of muscle damage or inflammation. The benefit is modest and largely symptomatic. Moderate.
+Meta-analysis of post-exercise recovery techniques. Active recovery produced a small reduction in muscle soreness (DOMS) but did not significantly reduce perceived fatigue, and unlike massage or cold water immersion it did not reliably lower markers of muscle damage or inflammation. The benefit is modest and largely symptomatic. Moderate.

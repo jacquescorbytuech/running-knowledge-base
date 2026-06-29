@@ -30,10 +30,10 @@ Recovery also slows. Older runners need longer between hard sessions, which cons
 
 ## Training matters more than age
 
-How much capacity is lost depends heavily on training. Around half the variance in the rate of VO2max decline among ageing athletes is explained by changes in training volume, and athletes who keep training lose capacity at roughly half the rate of sedentary peers ([Valenzuela et al. 2022](../sources/valenzuela-2022-masters-training.md)). Much of what looks like ageing is detraining in disguise, the same process described under [detraining](../recovery/detraining.md).
+How much capacity is lost depends heavily on training. Around half the variance in the rate of VO2max decline among ageing athletes is explained by changes in training volume, and athletes who keep training lose capacity at roughly half the rate of sedentary peers ([Burtscher et al. 2022](../sources/valenzuela-2022-masters-training.md)). Much of what looks like ageing is detraining in disguise, the same process described under [detraining](../recovery/detraining.md).
 
 > [!tip] Intensity preserves more than easy volume
-> Older track athletes who kept training at intensity held their VO2max roughly steady despite a falling maximal heart rate, while those who dropped intensity and coasted on easy mileage lost capacity ([Pollock et al. 1997](../sources/pollock-1997-masters-vo2max.md)). Hard sessions, not just accumulated easy miles, defend the aerobic ceiling. This mirrors the wider case for [intensity over sheer volume](../techniques/training-volume-vs-intensity.md).
+> All groups of older track athletes declined in VO2max over 20 years, but those who kept training at high intensity declined least — roughly 8–15% per decade versus 18–34% for those who dropped intensity ([Pollock et al. 1997](../sources/pollock-1997-masters-vo2max.md)). Hard sessions slow the slide more than easy volume alone. This mirrors the wider case for [intensity over sheer volume](../techniques/training-volume-vs-intensity.md).
 
 ## Strength training and trainability
 

@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Hanley 2016, pacing in Olympic and World Championship marathons
-resource: https://eprints.leedsbeckett.ac.uk/id/eprint/5530/1/SuccessfulPacingProfilesAM-HANLEY.pdf
+resource: https://pubmed.ncbi.nlm.nih.gov/26736042/
 tags: [training]
 timestamp: 2026-06-24
 ---

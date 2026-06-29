@@ -38,7 +38,7 @@ The acute:chronic workload ratio (ACWR) divides recent load (typically the last 
 
 ## One outsized session beats the weekly total
 
-The clearest empirical signal points away from weekly ratios and towards single sessions. In a cohort of 5,205 runners across 588,071 sessions, a run more than 10% longer than the longest run of the previous 30 days raised the overuse-injury rate, climbing with the size of the spike to a hazard rate ratio of 2.28 for a session more than double the recent long run ([Johansen et al. 2025](../sources/johansen-2025-high-risk-sessions.md)). In the same data, week-to-week mileage change and the ACWR showed no positive association with injury, and large ACWR spikes were if anything protective ([Johansen et al. 2025](../sources/johansen-2025-high-risk-sessions.md)). The actionable lesson: do not let one run run away from your recent training.
+The clearest empirical signal points away from weekly ratios and towards single sessions. In a cohort of 5,205 runners across 588,071 sessions, a run more than 10% longer than the longest run of the previous 30 days raised the overuse-injury rate, climbing with the size of the spike to a hazard rate ratio of 2.28 for a session more than double the recent long run ([Frandsen et al. 2025](../sources/johansen-2025-high-risk-sessions.md)). In the same data, week-to-week mileage change and the ACWR showed no positive association with injury, and large ACWR spikes were if anything protective ([Frandsen et al. 2025](../sources/johansen-2025-high-risk-sessions.md)). The actionable lesson: do not let one run run away from your recent training.
 
 ## Connecting load to monitoring
 

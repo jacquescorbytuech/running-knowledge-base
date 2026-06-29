@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Niklewicz et al. 2023, Vitamin B12 and plant-based diets
-resource: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11124153/
+resource: https://link.springer.com/article/10.1007/s00394-022-03025-4
 tags: [nutrition]
 timestamp: 2026-06-25
 ---

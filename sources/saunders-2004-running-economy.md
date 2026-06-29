@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Saunders et al. 2004, Factors affecting running economy in trained distance runners
-resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC4555089/
+resource: https://pubmed.ncbi.nlm.nih.gov/15233599/
 tags: [physiology]
 timestamp: 2026-06-24
 ---

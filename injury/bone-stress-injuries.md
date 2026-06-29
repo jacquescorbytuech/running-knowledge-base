@@ -23,7 +23,7 @@ Not all bone stress injuries are equal. Clinicians split them into high-risk and
 
 High-risk sites have a poor blood supply or sit under tension, so they are slow to heal and can become serious. They include the tension-side femoral neck, the anterior cortex of the tibia, the tarsal navicular, the proximal shaft of the fifth metatarsal (the Jones-fracture zone, not the readily-healing tuberosity at the very base), the medial malleolus and the talus ([bone stress injury reviews](../sources/bone-stress-risk-sites.md)). These need firm offloading, often a period non-weight-bearing, and medical supervision.
 
-Low-risk sites heal more reliably with activity modification. They include the posteromedial tibia, the fibula, the calcaneus, the metatarsal shafts, the sacrum and the femoral shaft ([bone stress injury reviews](../sources/bone-stress-risk-sites.md)). These usually allow a graded return without surgery.
+Low-risk sites heal more reliably with activity modification. They include the posteromedial tibia, the fibula, the metatarsal shafts, the sacrum and the femoral shaft ([bone stress injury reviews](../sources/bone-stress-risk-sites.md)). These usually allow a graded return without surgery.
 
 > [!warning] Front-of-shin and midfoot pain deserve respect
 > Deep, localised pain over the front edge of the shin or the top of the midfoot can signal a high-risk bone stress injury (anterior tibia or navicular). Both are slow to heal and prone to complications, so they need imaging and a clinician rather than a wait-and-see approach ([bone stress injury reviews](../sources/bone-stress-risk-sites.md)).

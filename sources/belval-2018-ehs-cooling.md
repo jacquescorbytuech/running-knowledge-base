@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Belval et al. 2018, Exertional heat stroke care consensus
-resource: https://www.mdpi.com/2072-6643/10/6/653
+resource: https://doi.org/10.1080/10903127.2017.1392666
 tags: [physiology]
 timestamp: 2026-06-24
 ---

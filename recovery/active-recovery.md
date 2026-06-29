@@ -18,7 +18,7 @@ The textbook case for active recovery is lactate. Light exercise after a hard ef
 
 ## The modest real benefits
 
-When you look past lactate at whether active recovery actually speeds recovery, the effect shrinks. A meta-analysis found active recovery produced only a small reduction in perceived fatigue and soreness, and unlike some other modalities it did not reliably lower markers of muscle damage or inflammation ([Dupuy et al. 2018](../sources/dupuy-2018-active-recovery.md)). The honest reading is that active recovery mainly helps you feel a bit fresher. That perceptual benefit has value, but it is not the physiological acceleration the lactate story implies. It sits among the modest-effect tools in [recovery modalities](recovery-modalities.md).
+When you look past lactate at whether active recovery actually speeds recovery, the effect shrinks. A meta-analysis found active recovery produced only a small reduction in muscle soreness, did not significantly reduce perceived fatigue, and unlike some other modalities it did not reliably lower markers of muscle damage or inflammation ([Dupuy et al. 2018](../sources/dupuy-2018-active-recovery.md)). The honest reading is that active recovery offers a little soreness relief at best. That perceptual benefit has value, but it is not the physiological acceleration the lactate story implies. It sits among the modest-effect tools in [recovery modalities](recovery-modalities.md).
 
 ## Do recovery runs help, or are they junk miles?
 

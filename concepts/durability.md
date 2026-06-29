@@ -23,7 +23,7 @@ Two approaches, one rigorous and one practical.
 **Pre- and post-fatigue laboratory testing.** Measure threshold, economy or critical speed when fresh, impose a prolonged bout of exercise, then remeasure. The shift is the durability deficit. This is the rigorous method, and it shows clear deterioration:
 
 - Speed at the first lactate threshold (LT1, the aerobic threshold) fell by around 5 to 6% after 90 minutes of easy running ([Eur J Appl Physiol 2025](../sources/ejap-2025-durability-lt.md)). This is the lower of the two [thresholds](lactate-threshold.md), so the figure should not be read as the drop in the higher threshold that sets race pace.
-- Critical power can decay by roughly 10% after fatiguing exercise, enough to push a pace that was sustainable early into the unsustainable domain late on ([Maunder et al. 2021](../sources/maunder-2021-durability.md)).
+- Critical power can decline measurably after fatiguing exercise, enough to push a pace that was sustainable early into the unsustainable domain late on ([Maunder et al. 2021](../sources/maunder-2021-durability.md)).
 
 The catch is that the result depends heavily on the dose of prior exercise used to fatigue the athlete, so protocols are not yet standardised and reproducibility is a live concern.
 

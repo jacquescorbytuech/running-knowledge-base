@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Herring & Richie 1990, Sock fibre and friction blisters
-resource: https://pubmed.ncbi.nlm.nih.gov/2313647/
+resource: https://pubmed.ncbi.nlm.nih.gov/2304016/
 tags: [gear]
 timestamp: 2026-06-25
 ---

@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Joyner & Coyle 2008, Endurance exercise performance
-resource: https://pubmed.ncbi.nlm.nih.gov/18006574/
+resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC2375555/
 tags: [physiology]
 timestamp: 2026-06-24
 ---

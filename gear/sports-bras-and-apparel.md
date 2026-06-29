@@ -22,7 +22,7 @@ There may also be a direct performance cost to poor support. In a small treadmil
 
 ## Fit is the real problem
 
-The dominant issue is not whether women own a sports bra but whether it fits. Poor fit is common even among elite athletes, many of whom have never been professionally fitted ([Brown et al. 2022](../sources/brown-2022-elite-bra-fit.md)). The practical advice that follows from the evidence is specific: choose high-support, and for larger cup sizes encapsulation designs, get fitted rather than guessing the size, and replace bras as they lose support.
+The dominant issue is not whether women own a sports bra but whether it fits. Poor fit is common even among elite athletes, many of whom have never been professionally fitted ([Wakefield-Scurr et al. 2022](../sources/brown-2022-elite-bra-fit.md)). The practical advice that follows from the evidence is specific: choose high-support, and for larger cup sizes encapsulation designs, get fitted rather than guessing the size, and replace bras as they lose support.
 
 ## The rest of the kit
 

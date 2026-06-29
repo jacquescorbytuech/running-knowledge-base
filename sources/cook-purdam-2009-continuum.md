@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Cook & Purdam 2009, Continuum model of tendon pathology
-resource: https://pmc.ncbi.nlm.nih.gov/articles/PMC5118437/
+resource: https://pubmed.ncbi.nlm.nih.gov/18812414/
 tags: [injury]
 timestamp: 2026-06-24
 ---

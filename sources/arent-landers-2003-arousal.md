@@ -8,4 +8,4 @@ timestamp: 2026-06-25
 
 # Arent & Landers 2003, Arousal, anxiety and performance
 
-Re-examination of the inverted-U hypothesis linking arousal to performance. Supports a curvilinear relationship but argues the simple single-peak inverted-U is over-generalised, since the same physiological state is interpreted differently by different athletes; individualised models such as the zone of optimal functioning fit better. Contested (the generic inverted-U is too simple for individuals).
+Re-examination of the inverted-U hypothesis. On a simple reaction-time task under graded arousal (cycling at 20–90% of heart-rate reserve), reaction time showed a significant quadratic relationship with arousal, with best performance at 60–70% of maximum — supporting the classic inverted-U for simple tasks. Moderate (single laboratory study).

@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Atkinson & Batterham 2015, True and false interindividual differences in training response
-resource: https://journals.physiology.org/doi/full/10.1152/japplphysiol.00714.2014
+resource: https://doi.org/10.1113/EP085070
 tags: [training]
 timestamp: 2026-06-24
 ---

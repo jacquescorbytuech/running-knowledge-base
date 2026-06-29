@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Tissue adaptation timelines to mechanical loading
-resource: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10749698/
+resource: https://pubmed.ncbi.nlm.nih.gov/19706001/
 tags: [physiology]
 timestamp: 2026-06-24
 ---

@@ -11,7 +11,7 @@ timestamp: 2026-06-26
 > [!note]
 > This page is a synthesis; the individual claims are graded on the pages they link to. The energy demand of the 10k is well measured and its training is well described in elite practice, but the exact balance of threshold and VO₂max work is coaching judgement rather than trial-tested.
 
-The 10k marks the shift from the VO₂max events to the threshold events. It is almost wholly aerobic, in the region of 97 to 99% ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md); [Baker et al. 2010](../sources/baker-2010-energy-systems.md)), and for the fastest runners, at around 27 to 35 minutes, it is the longest race still run close to the [VO₂max](../concepts/vo2max.md) ceiling. A 55-minute 10k is raced well below that, nearer a steady endurance effort, so the ceiling framing is an elite one ([distance-specific training](../techniques/distance-specific-training.md)). From here on, the [lactate threshold](../concepts/lactate-threshold.md) takes over as the quality that matters most.
+The 10k marks the shift from the VO₂max events to the threshold events. It is almost wholly aerobic — the aerobic contribution at 10k duration is well above 90% — and for the fastest runners, at around 27 to 35 minutes, it is the longest race still run close to the [VO₂max](../concepts/vo2max.md) ceiling. A 55-minute 10k is raced well below that, nearer a steady endurance effort, so the ceiling framing is an elite one ([distance-specific training](../techniques/distance-specific-training.md)). From here on, the [lactate threshold](../concepts/lactate-threshold.md) takes over as the quality that matters most.
 
 ## What decides it
 

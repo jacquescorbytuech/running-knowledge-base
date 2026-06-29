@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Reliability and validity of myofascial trigger points (critical review)
-resource: https://pubmed.ncbi.nlm.nih.gov/19770623/
+resource: https://pubmed.ncbi.nlm.nih.gov/19158550/
 tags: [recovery]
 timestamp: 2026-06-24
 ---

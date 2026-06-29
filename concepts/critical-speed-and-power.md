@@ -32,7 +32,7 @@ CS and W' can be estimated from a handful of maximal time-trials. A validated fi
 
 ## Limitations
 
-The model assumes CS and W' are fixed, which they are not over a long effort. Critical power can decay by around 10% after prolonged exercise, which is the mechanism behind [durability](durability.md): a pace that sat safely below CS early can cross a fallen CS late on and tip into the unsustainable domain ([Maunder et al. 2021](../sources/maunder-2021-durability.md)). The two-parameter fit is also sensitive to test protocol: the choice of trial distances, whether efforts are truly maximal, and how complete recovery between them is all shift the estimate, so a CS figure is only as good as the trials behind it ([Galbraith et al. 2014](../sources/galbraith-2014-critical-speed-field-test.md)).
+The model assumes CS and W' are fixed, which they are not over a long effort. Critical power declines measurably after prolonged exercise — enough to push a pace that was sustainable early into the unsustainable domain late on — which is the mechanism behind [durability](durability.md) ([Maunder et al. 2021](../sources/maunder-2021-durability.md)). The two-parameter fit is also sensitive to test protocol: the choice of trial distances, whether efforts are truly maximal, and how complete recovery between them is all shift the estimate, so a CS figure is only as good as the trials behind it ([Galbraith et al. 2014](../sources/galbraith-2014-critical-speed-field-test.md)).
 
 ## Related
 

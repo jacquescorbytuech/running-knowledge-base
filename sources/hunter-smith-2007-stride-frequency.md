@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Hunter & Smith 2007, self-optimised stride frequency
-resource: https://pubmed.ncbi.nlm.nih.gov/17219174/
+resource: https://pubmed.ncbi.nlm.nih.gov/17602239/
 tags: [physiology, biomechanics]
 timestamp: 2026-06-24
 ---
