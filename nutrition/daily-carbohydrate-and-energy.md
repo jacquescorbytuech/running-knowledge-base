@@ -32,7 +32,7 @@ For a 65 kg runner, an ordinary moderate-training day lands around 325–455 g o
 
 Endurance runners need more protein than the general population, both to repair training damage and to maintain muscle. The consensus range is 1.2–2.0 g/kg/day, with endurance athletes typically toward the middle and the upper end justified during heavy training or while dieting to lose weight ([Thomas, Erdman & Burke 2016](../sources/thomas-2016-acsm-nutrition.md)). For most runners 1.4–2.0 g/kg/day is a sensible working range.
 
-How it is spread matters more than chasing a post-run window. The muscle-protein-synthesis response is maximised by servings of about 0.3 g/kg, roughly 15–25 g for most runners, so the practical advice is to spread intake across about four meals of that size rather than loading it into one ([Thomas, Erdman & Burke 2016](../sources/thomas-2016-acsm-nutrition.md)). The detail is covered under [protein and recovery](protein-and-recovery.md).
+How it is spread matters more than chasing a post-run window. The muscle-protein-synthesis response is maximised by servings of about 0.25 g/kg (20–40 g in absolute terms), distributed every three to four hours across the day, so the practical advice is to spread intake across about four meals of that size rather than loading it into one ([Jäger et al. 2017](../sources/jager-2017-issn-protein.md); [Thomas, Erdman & Burke 2016](../sources/thomas-2016-acsm-nutrition.md)). The detail is covered under [protein and recovery](protein-and-recovery.md).
 
 ## Total energy is the floor
 

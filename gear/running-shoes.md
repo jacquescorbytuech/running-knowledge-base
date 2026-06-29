@@ -16,7 +16,7 @@ A runner needs shoes that fit and feel comfortable, and little of the elaborate 
 
 ## The pronation and arch model has largely failed
 
-For decades runners were sorted by how much their feet roll inward (pronation) or by arch height, then prescribed motion-control, stability or neutral shoes to match. The evidence does not support this as a way to prevent injury: matching shoe category to foot type does not reduce injury overall ([shoe-selection evidence](../sources/shoe-selection-evidence.md)). One analysis did find that motion-control shoes reduced *pronation-related* injuries specifically in already-pronated runners, so the idea is not entirely empty, but it does not generalise, and prescribing from a static foot assessment is not supported for most runners.
+For decades runners were sorted by how much their feet roll inward (pronation) or by arch height, then prescribed motion-control, stability or neutral shoes to match. The evidence does not support this as a way to prevent injury: a Cochrane review of 12 RCTs (11,240 runners) concluded that prescribing shoes by foot posture probably makes little or no difference to lower-limb injury rates ([Relph et al. 2022](../sources/relph-2022-running-shoes-cochrane.md); [shoe-selection evidence](../sources/shoe-selection-evidence.md)). One analysis did find that motion-control shoes reduced *pronation-related* injuries specifically in already-pronated runners, so the idea is not entirely empty, but it does not generalise, and prescribing from a static foot assessment is not supported for most runners.
 
 ## Comfort and rotation are better guides
 

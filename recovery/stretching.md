@@ -23,7 +23,7 @@ The large [strength-training injury meta-analysis](../techniques/strength-traini
 
 ## Long static stretching before running can hurt performance
 
-Holding a static stretch for more than about 60 seconds per muscle before exercise can reduce strength and power by roughly 4 to 7.5%; shorter holds cause only a trivial 1 to 2% decrement ([stretching reviews](../sources/stretching-evidence.md)). For a warm-up, a dynamic routine, leg swings, drills and easy running building toward pace, is generally preferred, because it raises muscle temperature and primes the nervous system without the brief strength loss that long static holds can cause.
+Holding a static stretch for more than about 60 seconds per muscle before exercise can reduce isolated strength by a meaningful margin; shorter holds produce only a small decrement. A multilevel meta-analysis of 83 studies found an overall force deficit of ES −0.21, rising to ES −0.84 for holds over 60 seconds tested in isolation, but neither jumping nor sprinting performance was impaired — adults showed a slight jump improvement ([Warneke & Lohmann 2024](../sources/warneke-2024-stretch-force-deficit.md)). For a warm-up, a dynamic routine, leg swings, drills and easy running building toward pace, is generally preferred, because it raises muscle temperature and primes the nervous system without the brief strength loss that long static holds can cause in isolated-muscle tests.
 
 ## More flexibility is not better
 

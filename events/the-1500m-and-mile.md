@@ -11,7 +11,7 @@ timestamp: 2026-06-26
 > [!note]
 > This page is a synthesis; the individual claims are graded on the pages they link to. The energy split of the 1500 m is well measured and the training of elite milers is well described, but the precise event-specific prescription rests on coaching practice rather than controlled trials.
 
-The 1500 m and its slightly longer cousin the mile (1609 m) take competitive runners between about three and a half and five minutes, and longer for the rest. By this duration the aerobic system supplies approximately 84% of the energy at 1500 m ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md)), with the mile slightly higher given its additional length; the event is aerobically dominated, yet it is still run above the speed that elicits VO₂max and is regularly decided in the final 200 m.
+The 1500 m and its slightly longer cousin the mile (1609 m) take competitive runners between about three and a half and five minutes, and longer for the rest. By this duration the aerobic system supplies approximately 84% of the energy at 1500 m ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md); [Gastin & Suppiah 2026](../sources/gastin-suppiah-2026-energy-systems-review.md)), with the mile slightly higher given its additional length; the event is aerobically dominated, yet it is still run above the speed that elicits VO₂max and is regularly decided in the final 200 m.
 
 ## What decides it
 

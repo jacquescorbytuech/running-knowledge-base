@@ -17,7 +17,7 @@ Interval training is repeated hard efforts with recovery between them, used to a
 ## Typical prescriptions
 
 - **VO₂max intervals.** Reps of roughly three to five minutes near the velocity at VO₂max, with work-to-rest near 1:1, to maximise time spent above about 90% of VO₂max ([Billat 2001](../sources/billat-2001-intervals.md)). Longer reps tend to accumulate more time in that zone than very short, intensified ones ([Front Sports Act Living 2024](../sources/fsal-2024-intervals.md)).
-- **The 4×4.** Four bouts of four minutes at 90 to 95% of maximum heart rate reliably raise VO₂max in moderately trained people ([Helgerud et al. 2007](../sources/helgerud-2007-intervals.md)). Transfer to already-elite runners is less clear.
+- **The 4×4.** Four bouts of four minutes at 90 to 95% of maximum heart rate reliably raise VO₂max in moderately trained people ([Helgerud et al. 2007](../sources/helgerud-2007-intervals.md)). The broader principle — that HIIT significantly raises VO₂max versus both non-exercise control and MICT across diverse adult populations — is supported by an umbrella review of 24 systematic reviews and meta-analyses ([Poon et al. 2024](../sources/poon-2024-hiit-vo2max-umbrella.md)). Transfer to already-elite runners is less clear.
 - **Threshold work.** Sustained or broken efforts at [lactate threshold](../concepts/lactate-threshold.md), the basis of [double-threshold training](double-threshold.md).
 
 ## How much elite runners actually do

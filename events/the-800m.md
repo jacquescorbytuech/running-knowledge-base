@@ -11,7 +11,7 @@ timestamp: 2026-06-26
 > [!note]
 > This page is a synthesis; the individual claims are graded on the pages they link to. The energy-system split of the 800 m is well measured and the qualities that separate good 800 m runners are reasonably well profiled, but how best to train for it rests more on coaching practice than on head-to-head trials, so the prescription below is descriptive rather than proven.
 
-The 800 m sits at the edge of distance running. Two laps take competitive runners between roughly two and two and a half minutes, long enough that the aerobic system already does most of the work: treadmill simulations put the aerobic share at about 66% ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md)). That still leaves a third of the energy coming from anaerobic sources, by far the largest anaerobic fraction of any event in this wiki, which is why the 800 m trains and races more like a long sprint than a short distance race.
+The 800 m sits at the edge of distance running. Two laps take competitive runners between roughly two and two and a half minutes, long enough that the aerobic system already does most of the work: treadmill simulations put the aerobic share at about 66% ([Spencer & Gastin 2001](../sources/spencer-gastin-2001-energy-systems.md); [Gastin & Suppiah 2026](../sources/gastin-suppiah-2026-energy-systems-review.md)), consistent with a 2026 systematic review that placed the 50:50 aerobic-anaerobic crossover at 78.6 s of maximal effort. That still leaves a third of the energy coming from anaerobic sources, by far the largest anaerobic fraction of any event in this wiki, which is why the 800 m trains and races more like a long sprint than a short distance race.
 
 ## What decides it
 
