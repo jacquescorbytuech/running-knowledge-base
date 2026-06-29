@@ -28,7 +28,7 @@ The practical levers are about where and when, not whether:
 - Train away from busy roads; traffic pollution falls off steeply with distance from the kerb, so a park or back-street route cuts the dose sharply.
 - Avoid rush hour and the worst of the traffic on main roads.
 - On high-ozone days (hot, sunny, still afternoons) or high-particulate days, shift the session earlier, indoors, or to a cleaner location, and check the local air-quality index.
-- Treat anti-pollution running masks with scepticism: real-world evidence that they reduce exposure and improve outcomes during exercise is limited, and a mask breathable enough to run in tends to seal poorly ([Hopke et al. 2022](../sources/hopke-2022-pollution-masks.md)).
+- Anti-pollution masks genuinely reduce inhaled particulate and improve cardiovascular and lung markers for pedestrians and cyclists, with well-fitting N95 respirators clearly outperforming cloth masks ([Hopke et al. 2022](../sources/hopke-2022-pollution-masks.md)). The evidence is dominated by walking and commuting rather than running, though, and a mask breathable enough to run hard in tends to seal poorly, so the benefit during fast running is less certain.
 
 The honest framing is non-alarmist: pollution is a real but usually modest tax on the large benefit of running, best managed by route and timing rather than by fear or by stopping.
 

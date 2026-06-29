@@ -23,8 +23,8 @@ The honest difficulty is that the threshold is a region, not a line, and the way
 ## The main formats
 
 > [!example] Ways to dose the threshold
-> - **Continuous tempo run.** A sustained effort of roughly 20 to 40 minutes at threshold. In Daniels' framework a classic tempo run is about 20 minutes of steady running at threshold pace, set from race performance via the VDOT tables ([Daniels 2022](../sources/daniels-2022-running-formula.md)).
-> - **Cruise intervals.** The same threshold dose broken into reps of 5 to 15 minutes with short recoveries of 30 to 90 seconds, which lets a runner accumulate more total time at threshold than a single continuous run, e.g. 5 × 6 min or 4 × 10 min ([Daniels 2022](../sources/daniels-2022-running-formula.md)).
+> - **Continuous tempo run.** A sustained effort of roughly 20 to 40 minutes at threshold. In Daniels' framework a classic tempo run is about 20 minutes of steady running at threshold pace, set from race performance via the VDOT tables ([Daniels 2021](../sources/daniels-2021-running-formula.md)).
+> - **Cruise intervals.** The same threshold dose broken into reps of 5 to 15 minutes with short recoveries of 30 to 90 seconds, which lets a runner accumulate more total time at threshold than a single continuous run, e.g. 5 × 6 min or 4 × 10 min ([Daniels 2021](../sources/daniels-2021-running-formula.md)).
 > - **Controlled-lactate / double-threshold.** The Norwegian approach holds intensity precisely in the 2.0 to 4.0 mmol/L band using regular lactate measurement, often across two sub-threshold sessions in a day, so a large volume of quality work accumulates without a single crushing effort ([Kelemen et al. 2024](../sources/kelemen-2024-double-threshold.md)). See [double-threshold training](double-threshold.md).
 
 The continuous and broken formats are close cousins: cruise intervals are simply a way of holding threshold pace honestly for longer, since the brief recoveries keep the pace from collapsing late in the session. The controlled-lactate variant adds measurement to enforce the cap, but the underlying stimulus is the same.

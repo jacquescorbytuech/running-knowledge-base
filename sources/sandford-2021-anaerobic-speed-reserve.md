@@ -1,11 +1,11 @@
 ---
 type: Source
-title: Sandford & Laursen 2021, anaerobic speed reserve framework
-resource: https://hiitscience.com/anaerobic-speed-power-application/
+title: Sandford, Laursen & Buchheit 2021, anaerobic speed/power reserve and sport performance
+resource: https://doi.org/10.1007/s40279-021-01523-9
 tags: [training, physiology]
-timestamp: 2026-06-24
+timestamp: 2026-06-29
 ---
 
-# Sandford & Laursen 2021, anaerobic speed reserve framework
+# Sandford, Laursen & Buchheit 2021, anaerobic speed/power reserve and sport performance
 
-Practitioner framework for using anaerobic speed reserve to individualise interval prescription: expressing supramaximal interval intensity as a fraction of ASR equalises the physiological demand across athletes with different sprint speeds. A coaching synthesis built on the ASR literature, with running-specific prescription evidence still thin.
+Sports Medicine review of the anaerobic speed reserve (ASR): the gap between an athlete's maximal aerobic speed (MAS) and maximal sprinting speed (MSS). For efforts above MAS, the fraction of the ASR being used predicts tolerable duration better than the commonly used %MAS, so expressing supramaximal interval intensity as a fraction of ASR individualises the physiological demand across athletes with different sprint speeds. A conceptual and applied synthesis of the ASR literature; running-specific prescription evidence is still developing. Moderate (review).
