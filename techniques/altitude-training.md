@@ -46,7 +46,7 @@ The honest summary: a real but modest sea-level benefit, commonly put near 1 to 
 
 ## Responders and non-responders
 
-The average hides large individual variation. Splitting runners by their result, "responders" show a bigger EPO and red-cell response while "non-responders" gain little and tend to train worse in the thin air ([Chapman, Stray-Gundersen & Levine 1998](../sources/chapman-1998-altitude-responders.md)). Tempting as it is to label athletes this way, the label does not hold up: the same individual's haemoglobin response barely correlates from one camp to the next, so the group mean repeats but the personal response does not, which is what regression to the mean and measurement error would predict. Treat "I'm a responder" with caution. This is one more case of [individual variation](../concepts/individual-variation.md) that no measured trait reliably predicts.
+The average hides large individual variation. Splitting runners by their result, "responders" show a bigger EPO and red-cell response while "non-responders" gain little and tend to train worse in the thin air ([Chapman, Stray-Gundersen & Levine 1998](../sources/chapman-1998-altitude-responders.md)). Tempting as it is to label athletes this way, the label does not hold up: the same individual's haemoglobin response barely correlates from one camp to the next (r ≈ 0.21 across two camps a year apart), so the group mean repeats but the personal response does not ([McLean et al. 2013](../sources/mclean-2013-hbmass-variability.md)), which is what regression to the mean and measurement error would predict. Treat "I'm a responder" with caution. This is one more case of [individual variation](../concepts/individual-variation.md) that no measured trait reliably predicts.
 
 ## In practice
 

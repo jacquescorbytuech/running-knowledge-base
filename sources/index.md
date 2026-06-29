@@ -61,6 +61,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Martín-Rincón & Calbet 2020, Progress update and challenges on VO2max testing and interpretation](frontiers-2020-vo2max-testing.md)
 - [Maunder et al. 2018, Contextualising maximal fat oxidation: determinants and normative values](maunder-2018-fat-oxidation-normative.md)
 - [Maunder et al. 2021, The importance of 'durability' in endurance performance](maunder-2021-durability.md)
+- [McLean et al. 2013, Year-to-year variability in haemoglobin-mass response to altitude camps](mclean-2013-hbmass-variability.md)
 - [McMahon & Greene 1979, the influence of track compliance on running](mcmahon-greene-1979-track-compliance.md)
 - [McNulty et al. 2020, menstrual cycle and exercise performance meta-analysis](mcnulty-2020-menstrual-cycle-meta.md)
 - [Medbo et al. 1988, accumulated oxygen deficit](medbo-1988-oxygen-deficit.md)
