@@ -36,7 +36,7 @@ There is a trade-off worth stating. By taking work away from the foot, curved so
 
 ## How the three combine
 
-Geometry is not a separate gadget bolted onto the foam and plate; it is what makes them work. The thick compliant [foam](peba-foam.md) supplies the energy return, the [plate](carbon-plate.md) stiffens the toe joint and spreads the load so the foam compresses evenly, and the rocker supplies the shape to roll over without fighting the stiff forefoot. The current consensus on [super-shoes](super-shoes.md) is that the benefit is synergistic: no one element, geometry included, can be cleanly credited with the saving ([Kobayashi et al. 2025](../sources/kobayashi-2025-meta.md); [Healey & Hoogkamer 2021](../sources/healey-hoogkamer-2021-plate.md)).
+Geometry is not a separate gadget bolted onto the foam and plate; it is what makes them work. The thick compliant [foam](peba-foam.md) supplies the energy return, the [plate](carbon-plate.md) stiffens the toe joint and spreads the load so the foam compresses evenly, and the rocker supplies the shape to roll over without fighting the stiff forefoot. The current consensus on [super-shoes](super-shoes.md) is that the benefit is synergistic: no one element, geometry included, can be cleanly credited with the saving ([Kobayashi et al. 2025](../sources/kobayashi-2025-meta.md); [Healey & Hoogkamer 2022](../sources/healey-hoogkamer-2022-plate.md)).
 
 For a buyer, this means reading the whole package by feel rather than chasing one number. Stack height, drop and rocker shape the ride more than the marketing spec sheet suggests, the [right shoe is still the one that feels right](running-shoes.md), and a big change in any of these dimensions, drop especially, should be introduced gradually.
 

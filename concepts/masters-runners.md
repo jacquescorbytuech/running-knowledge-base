@@ -39,6 +39,10 @@ How much capacity is lost depends heavily on training. Around half the variance 
 
 The muscle loss of ageing is partly modifiable. [Strength training](../techniques/strength-training-for-runners.md) counters sarcopenia, preserving the fast-twitch fibres and the power that easy running neglects ([Fragala et al. 2019](../sources/fragala-2019-resistance-training-older.md)). The encouraging finding is that trainability persists: older adults still gain strength, power and muscle mass in response to resistance training, so the adaptive machinery does not switch off with age ([Fragala et al. 2019](../sources/fragala-2019-resistance-training-older.md)). [Individual variation](individual-variation.md) is wide, so masters runners differ more from each other than younger runners do, and training history explains much of the spread.
 
+## Cardiac considerations
+
+Lifelong endurance athletes show a higher prevalence of coronary atherosclerosis than non-athlete controls, but not a greater prevalence of high-risk or obstructive plaques. A systematic review and meta-analysis found the burden in athletes reflects stable, densely calcified plaque rather than the vulnerable soft plaques that precipitate acute cardiac events, and that coronary artery calcium scores did not significantly differ between athletes and controls ([Guarnieri et al. 2025](../sources/guarnieri-2025-endurance-cad.md)). The picture is not fully understood, and masters runners concerned about cardiac health should discuss screening with their doctor.
+
 ## Related
 
 - [VO₂max](vo2max.md)

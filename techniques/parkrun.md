@@ -20,7 +20,7 @@ The low barrier is the point. A consistent minority of registrants, around a qua
 
 ## What participants report
 
-A six-month study of new parkrunners found self-reported life satisfaction rose, with the largest gain among those who were least active to begin with ([Haake et al. 2024](../sources/haake-2024-parkrun-life-satisfaction.md)). A survey of more than 45,000 participants found most perceived improvements in fitness, physical and mental health and happiness, and previously inactive people reported these more often than the rest ([Quirk et al. 2021](../sources/quirk-2021-parkrun-benefits.md)). Among participants with mental-health conditions, taking part, and volunteering especially, was linked to better mental health and a sense of social inclusion ([Quirk et al. 2023](../sources/quirk-2023-parkrun-mental-health.md)).
+A six-month study of new parkrunners found self-reported life satisfaction rose, with the largest gain among those who were least active to begin with ([Haake et al. 2024](../sources/haake-2024-parkrun-life-satisfaction.md)). A survey of more than 45,000 participants found most perceived improvements in fitness, physical and mental health and happiness, and previously inactive people reported these more often than the rest ([Quirk et al. 2021](../sources/quirk-2021-parkrun-benefits.md)). Among participants with mental-health conditions, taking part, and volunteering especially, was linked to better mental health and a sense of social inclusion ([Ashdown-Franks et al. 2023](../sources/ashdown-franks-2023-parkrun-mental-health.md)).
 
 ## The honest caveats
 

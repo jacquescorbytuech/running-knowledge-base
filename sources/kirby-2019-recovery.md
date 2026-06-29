@@ -1,7 +1,7 @@
 ---
 type: Source
 title: Kirby et al. 2019, Recovery markers after marathon in Vaporfly (conference abstract)
-resource: https://www.tandfonline.com/journals/tfws20
+resource: https://doi.org/10.1080/19424280.2019.1606325
 tags: [gear]
 timestamp: 2026-06-24
 ---

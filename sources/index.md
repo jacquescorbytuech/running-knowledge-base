@@ -114,6 +114,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Afonso et al. 2020, the effects of agility ladders on performance](afonso-2020-agility-ladders.md)
 - [Alemu et al. 2025, uphill training and middle-distance performance](alemu-2025-uphill-rct.md)
 - [Arent & Landers 2003, Arousal, anxiety and performance](arent-landers-2003-arousal.md)
+- [Ashdown-Franks et al. 2023, parkrun, mental health and social inclusion](ashdown-franks-2023-parkrun-mental-health.md)
 - [Atkinson & Batterham 2015, True and false interindividual differences in training response](atkinson-batterham-2015.md)
 - [Azevedo et al. 2015, Running drills in an interval training program](azevedo-2015-running-drills.md)
 - [Bakken, the Norwegian double-threshold method (interview and writing)](bakken-norwegian-method.md)
@@ -218,14 +219,13 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Qin et al. 2025, ACWR and sports injury risk: systematic review and meta-analysis](qin-2025-acwr-meta.md)
 - [Quinn & Coons 2011, The talk test and thresholds](quinn-coons-2011-talk-test.md)
 - [Quirk et al. 2021, Perceived benefits of parkrun participation](quirk-2021-parkrun-benefits.md)
-- [Quirk et al. 2023, parkrun, mental health and social inclusion](quirk-2023-parkrun-mental-health.md)
 - [Racinais et al. 2015, Consensus recommendations on training and competing in the heat](racinais-2015-heat-consensus.md)
 - [Ramos-Campo et al. 2026, pacing strategies and endurance performance: network meta-analysis](ramos-campo-2026-pacing-nma.md)
 - [Renwick et al. 2024, Individual VO2max response to exercise: systematic review and meta-analysis](renwick-2024-vo2max-trainability.md)
 - [Ronnestad & Mujika 2014, Strength training for endurance](ronnestad-2014-concurrent.md)
 - [Rosenblat et al. 2025, Polarised vs pyramidal individual-participant meta-analysis](rosenblat-2024-ipd.md)
 - [San Millan & Brooks 2018, Metabolic flexibility and lactate clearance](san-millan-2018.md)
-- [Sandford & Laursen 2021, anaerobic speed reserve framework](blagrove-2021-anaerobic-speed-reserve.md)
+- [Sandford & Laursen 2021, anaerobic speed reserve framework](sandford-2021-anaerobic-speed-reserve.md)
 - [Scheer et al. 2021, Optimal ambient conditions at the Berlin Marathon](scheer-2021-marathon-temperature.md)
 - [Science of Running, on the Iglói interval method](igloi-science-of-running.md)
 - [Seiler & Kjerland 2006, Intensity distribution in elite endurance athletes](seiler-2006-polarised.md)
@@ -258,7 +258,6 @@ Every work cited in the knowledge base, with its location and headline finding. 
 
 ## Nutrition
 
-- [2024 meta-analysis, self-reported disordered eating in athletes](flatt-2024-disordered-eating-meta.md)
 - [Academy of Nutrition and Dietetics 2016, Position on vegetarian diets](and-2016-vegetarian-position.md)
 - [Achten & Jeukendrup 2004, Optimizing fat oxidation through exercise and diet](achten-jeukendrup-2004-fat-oxidation.md)
 - [Ahmadi et al. 2019, Glutamine supplementation review](ahmadi-2019-glutamine.md)
@@ -278,6 +277,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Christ et al. 2024, carbohydrate and immunoregulatory stress hormones (systematic review)](christ-2024-cho-stress-hormones.md)
 - [Ciuris et al. 2019, Protein digestibility in vegetarian and omnivorous athletes](ciuris-2019-diaas-athletes.md)
 - [Clifford et al. 2020, Vitamin C and E and exercise-induced physiological adaptations](clifford-2020-vitamin-ce-adaptations.md)
+- [Cosgrove & Black 2013, sodium supplementation and cycling time-trial performance in cool conditions](cosgrove-2013-sodium-cycling.md)
 - [Cox et al. 2016, Nutritional ketosis alters fuel preference and endurance](cox-2016-ketones.md)
 - [Craddock et al. 2016, Vegetarian versus omnivorous physical performance](craddock-2016-vegetarian-performance.md)
 - [Damasceno et al. 2024, Plant-based diets benefit aerobic performance: systematic review and meta-analysis](damasceno-2024-plant-based-aerobic.md)
@@ -292,6 +292,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Gawelczyk et al. 2026, Low-carbohydrate and ketogenic diets and aerobic performance: systematic review and meta-analysis](gawelczyk-2026-lchf-aerobic-meta.md)
 - [Gejl & Nybo 2021, periodized carbohydrate restriction meta-analysis](gejl-nybo-2021-cho-restriction-meta.md)
 - [Gerlach et al. 2008, fat intake and injury in female runners](gerlach-2008-fat-intake-injury-runners.md)
+- [Ghazzawi et al. 2024, self-reported disordered eating in athletes](ghazzawi-2024-disordered-eating-meta.md)
 - [Goulet 2011, Dehydration and endurance performance in self-paced exercise](goulet-2011-hydration.md)
 - [Grgic et al. 2021, ISSN position stand: sodium bicarbonate](grgic-2021-bicarb.md)
 - [Guest et al. 2021, ISSN position stand: caffeine and exercise performance](guest-2021-caffeine.md)
@@ -361,6 +362,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Wang et al. 2024, CYP1A2 genotype and caffeine ergogenic effect — systematic review & meta-analysis](wang-2024-caffeine-cyp1a2.md)
 - [WHO, sodium reduction (population intake)](who-sodium-reduction.md)
 - [Wirnitzer et al. 2022, NURMI study of vegan and omnivorous runners](wirnitzer-2022-nurmi.md)
+- [Wolfe 2017, BCAAs and muscle protein synthesis — myth or reality?](wolfe-2017-bcaa.md)
 
 ## Gear
 
@@ -390,7 +392,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Gilgen-Ammann et al. 2020, GPS watch accuracy](gilgen-2020-gps.md)
 - [Gilmer et al. 2024, Breasts and bras in physical activity, a meta-analysis](gilmer-2024-breasts-bras-review.md)
 - [Guinness et al. 2020, Vaporfly effect on race times](guinness-2020-shoes.md)
-- [Healey & Hoogkamer 2021, Longitudinal bending stiffness of the plate](healey-hoogkamer-2021-plate.md)
+- [Healey & Hoogkamer 2022, Longitudinal bending stiffness of the plate](healey-hoogkamer-2022-plate.md)
 - [Healey et al. 2022, Measuring spike benefit in middle distance](healey-2022-spikes.md)
 - [Herring & Richie 1990, Sock fibre and friction blisters](herring-richie-1990-sock-blisters.md)
 - [Hoogkamer et al. 2016, Altered running economy directly translates to altered distance-running performance](hoogkamer-2016-shoe-mass.md)
@@ -439,6 +441,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 
 ## Recovery
 
+- [Albillos-Almaraz et al. 2025, Intermittent pneumatic compression for muscle recovery (meta-analysis)](albillos-almaraz-2025-ipc-recovery.md)
 - [Bellenger et al. 2016, Monitoring training with HRV meta-analysis](bellenger-2016-hrv.md)
 - [Bezuglov et al. 2021, Prevalence of recovery methods among elite endurance athletes (survey)](bezuglov-2021-recovery-prevalence.md)
 - [Boukhris et al. 2023, Daytime napping following normal sleep and physical performance, meta-analysis](boukhris-2023-napping-performance.md)
@@ -546,6 +549,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Lixandrão et al. 2018, High-load versus low-load BFR resistance training](lixandrao-2018-bfr.md)
 - [Lloyd et al. 2014, position statement on youth resistance training](lloyd-2014-youth-resistance.md)
 - [Maetz et al. 2023, Loading versus passive treatment for midportion Achilles tendinopathy](maetz-2023-achilles-loading.md)
+- [Mechanisms of acupuncture-electroacupuncture on persistent pain (review)](acupuncture-mechanism.md)
 - [Morton & Callister 2015, Exercise-related transient abdominal pain (ETAP)](morton-2015-etap.md)
 - [MTSS reviews 2018-2025, Risk factors and management of medial tibial stress syndrome](saad-2025-mtss.md)
 - [Nascimento et al. 2018, Hip and knee strengthening for patellofemoral pain](nascimento-2018-pfp-hip.md)

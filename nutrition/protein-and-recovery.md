@@ -23,7 +23,7 @@ The IOC consensus on supplements is blunt: most provide little or no benefit bey
 
 ## Protein: total intake beats timing
 
-For recovery and adaptation, total daily protein matters more than when it is eaten. Apparent timing effects largely vanish once daily intake is equated ([Schoenfeld, Aragon & Krieger 2013](../sources/schoenfeld-2013-protein-timing.md)). The acute muscle-protein-synthesis response is maximised by roughly 0.3 g per kg per serving, about 20 to 40 g ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md)).
+For recovery and adaptation, total daily protein matters more than when it is eaten. Apparent timing effects largely vanish once daily intake is equated ([Schoenfeld, Aragon & Krieger 2013](../sources/schoenfeld-2013-protein-timing.md)). The acute muscle-protein-synthesis response is maximised by roughly 0.3 g per kg per serving, about 20 to 40 g ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md); [Jäger et al. 2017](../sources/jager-2017-issn-protein.md)).
 
 ## The anabolic window is overstated
 

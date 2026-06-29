@@ -37,7 +37,7 @@ Most core training principles, progressive overload, [polarised intensity distri
 
 ## What follows for the female runner
 
-The female-specific topics worth real attention are energy availability and bone, not exotic training tweaks. Low energy availability and [RED-S](../nutrition/red-s.md) carry particular consequences for women through menstrual and bone health, and [iron](../nutrition/iron.md) deficiency is far more common in women than men. Those move the needle. Phase-based training prescriptions, by contrast, rest on thin evidence.
+The female-specific topics worth real attention are energy availability and bone, not exotic training tweaks. Low energy availability and [RED-S](../nutrition/red-s.md) carry particular consequences for women through menstrual and bone health, and [iron](../nutrition/iron.md) deficiency is far more common in women than men, affecting up to 60% of female athletes ([Pengelly et al. 2024](../sources/pengelly-2024-iron-female-athletes.md)). Those move the needle. Phase-based training prescriptions, by contrast, rest on thin evidence: a hormone-verified systematic review of 19 studies found heterogeneous and often contradictory results, with no consensus on which cycle phase is best for performance ([Schlie et al. 2025](../sources/romero-parra-2025-menstrual-cycle-performance.md)).
 
 ## Related
 

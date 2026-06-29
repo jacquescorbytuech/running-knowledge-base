@@ -22,7 +22,7 @@ Branched-chain amino acids are sold to endurance athletes on a plausible-soundin
 
 The central-fatigue hypothesis holds that BCAAs compete with tryptophan for entry to the brain, lowering the serotonin thought to contribute to fatigue. The biology is plausible, but the performance prediction is largely unsupported: BCAAs given during cycling failed to affect endurance performance, even though they can lower brain tryptophan ([van Hall et al. 1995](../sources/van-hall-1995-bcaa.md)). Carbohydrate achieves the same anti-fatigue effect more effectively, making isolated BCAAs redundant for the purpose.
 
-For recovery and adaptation, protein *quality* beats isolated BCAAs. BCAAs alone produce only a partial, plateauing muscle-protein-synthesis response, because the other essential amino acids become rate-limiting; a maximal response needs complete protein ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md)). A runner meeting their total daily protein from food gains nothing from a separate BCAA product. The AIS classes them Group C, no substantial evidence of benefit.
+For recovery and adaptation, protein *quality* beats isolated BCAAs. BCAAs alone produce only a partial, plateauing muscle-protein-synthesis response, because the other essential amino acids become rate-limiting; a maximal response needs complete protein ([Wolfe 2017](../sources/wolfe-2017-bcaa.md)). A runner meeting their total daily protein from food gains nothing from a separate BCAA product. The AIS classes them Group C, no substantial evidence of benefit.
 
 ## Related
 

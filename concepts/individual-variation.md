@@ -19,8 +19,8 @@ It is the most important caveat in all of endurance training. Group means descri
 ## Where it shows up
 
 - **Super-shoes.** Across studies, individual responses to carbon-plated shoes range from roughly 11% hindrance to 11% benefit, and no measured trait reliably predicts who responds ([Knopp et al. 2023](../sources/knopp-2023-responders.md); [Van Hooren 2025](../sources/van-hooren-2025-shoes.md)). The best shoe for one runner is often not the best for another.
-- **Dietary nitrate.** The effect is blunted or absent in highly trained athletes and largest in recreational ones ([McMahon et al. 2017](../sources/mcmahon-2017-nitrate.md)).
-- **Caffeine.** Response may vary with CYP1A2 genotype, though the evidence is contested ([Guest et al. 2021](../sources/guest-2021-caffeine.md)).
+- **Dietary nitrate.** The pooled effect across protocols is small and non-significant, though time-to-exhaustion tests show a small-to-moderate benefit; response varies by protocol and individual ([McMahon et al. 2017](../sources/mcmahon-2017-nitrate.md)).
+- **Caffeine.** Response varies with CYP1A2 genotype: in endurance cycling, A-allele (fast-metaboliser) carriers gain roughly 5.8% from caffeine while C-allele carriers gain only about 0.6%, the strongest pooled estimate to date ([Wang et al. 2024](../sources/wang-2024-caffeine-cyp1a2.md)); the picture is less clear across anaerobic and strength tasks ([Guest et al. 2021](../sources/guest-2021-caffeine.md)).
 - **Training philosophies.** No single [training system](../techniques/training-philosophies.md) is best for everyone; the right one depends on the event, training age, time available and injury history.
 
 ## What to do about it

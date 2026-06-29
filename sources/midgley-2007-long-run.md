@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Midgley, McNaughton & Jones 2007, Training to enhance VO2max and economy
 
-Sports Med review noting few training studies use trained runners, so firm prescriptions for the long run are hard to justify. Strong (the gap).
+Sports Med review of VO₂max, lactate threshold, and running economy as determinants of long-distance running performance. Notes that few training studies use trained runners, making firm prescriptions difficult to justify. Strong.

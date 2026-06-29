@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Mujika & Padilla 2000, Detraining review
 
-Short-term detraining drops VO2max ~4-14% in highly trained athletes; early losses central, later losses peripheral. Strong.
+Detraining review: early fitness losses are driven by central cardiovascular changes, with longer-term losses becoming increasingly peripheral and muscular. Strong.

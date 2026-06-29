@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Kelemen et al. 2024, The Norwegian double-threshold method
 
-Describes two daily controlled sub-threshold sessions (~2.0-4.0 mmol/L); elites spend ~75-80% easy and 15-25% at or above threshold. Description strong, causal superiority limited.
+Describes two daily controlled sub-threshold sessions (82–92% HRmax); elites spend ~75–80% of training easy and 15–25% at or above threshold. The paper monitors intensity by heart-rate or lactate meter but does not specify mmol/L cut-offs in the accessible text. Description strong, causal superiority limited.

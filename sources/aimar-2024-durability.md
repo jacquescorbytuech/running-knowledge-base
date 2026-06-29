@@ -8,4 +8,4 @@ timestamp: 2026-06-24
 
 # Aimar et al. 2024, Midsole foam mechanical fatigue
 
-Simulated fatigue softened midsole foams ~42%; best-when-new foams degrade fastest. Strong (material).
+Simulated mechanical fatigue substantially softened midsole foams; the foams with the best initial performance degraded the fastest. Strong (material).

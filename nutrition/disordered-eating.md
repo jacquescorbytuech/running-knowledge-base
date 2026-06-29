@@ -19,7 +19,7 @@ Distance running selects for and rewards the traits that also predispose to diso
 
 ## Higher prevalence in running
 
-Disordered eating is most common in sports that emphasise leanness, aesthetics, weight class or endurance, and distance running sits in that group ([Mancine et al. 2020](../sources/mancine-2020-disordered-eating-prevalence.md)). Across a large meta-analysis of 177 studies and almost 71,000 athletes, the mean prevalence of self-reported disordered eating was about 19%, with female sex and lean-sport participation among the risk factors ([2024 meta-analysis](../sources/flatt-2024-disordered-eating-meta.md)). The true figure is uncertain because most studies rely on self-report screening, which can both under- and over-count.
+Disordered eating is most common in sports that emphasise leanness, aesthetics, weight class or endurance, and distance running sits in that group ([Mancine et al. 2020](../sources/mancine-2020-disordered-eating-prevalence.md)). Across a large meta-analysis of 177 studies and almost 71,000 athletes, the mean prevalence of self-reported disordered eating was about 19%; meta-regression identified female sex, older age and higher BMI as statistically significant risk factors, though effect sizes were very small ([Ghazzawi et al. 2024](../sources/ghazzawi-2024-disordered-eating-meta.md)). The true figure is uncertain because most studies rely on self-report screening, which can both under- and over-count.
 
 ## A spectrum, not a category
 

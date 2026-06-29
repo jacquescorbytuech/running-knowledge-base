@@ -17,7 +17,7 @@ timestamp: 2026-06-24
 
 Creatine is one of the best-evidenced supplements in sport overall, classed Group A, but its case for *distance running* specifically is mixed rather than strong ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). The evidence is robust for sprint and power performance and mixed for steady-state endurance, with no consistent benefit shown in trained individuals ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)).
 
-The complication for runners is body mass. Creatine draws water into muscle, adding roughly 0.9 to 2 kg, which penalises weight-bearing endurance; one early study found impaired 6 km running after loading ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). For this reason runners are advised to skip the rapid loading phase and take 3 to 5 g per day over about four weeks, avoiding the acute water-weight spike.
+The complication for runners is body mass. Creatine draws water into muscle, adding to body mass, which penalises weight-bearing endurance; one trial found that loading added 0.9 kg and impaired 6 km running performance versus placebo ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). For this reason runners are advised to skip the rapid loading phase and take 3 to 5 g per day over about four weeks, avoiding the acute water-weight spike.
 
 There are plausible upsides for distance runners at the margins: end-spurts and repeated high-intensity intervals, enhanced glycogen storage when taken with carbohydrate, and reduced post-race inflammatory and muscle-damage markers, suggesting a recovery role ([Forbes et al. 2023](../sources/forbes-2023-creatine.md)). These are moderate-to-limited in strength, and the data specific to female and masters runners are sparse.
 
