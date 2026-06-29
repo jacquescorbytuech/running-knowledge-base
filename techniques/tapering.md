@@ -14,7 +14,7 @@ timestamp: 2026-06-24
 
 A taper is the planned reduction in training before a race that allows accumulated fatigue to clear while fitness is retained, so that performance rises. It is one of the best-quantified practices in endurance training. A meta-analysis of 27 studies found an optimal taper produces a performance gain of roughly 2 to 3% ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md)). That figure is the gain from a well-executed taper under study conditions, so it is a best case rather than a guaranteed return; a poorly judged taper yields less.
 
-The parameters are unusually well defined for a training practice ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md); [Mujika 2010](../sources/mujika-2010-taper.md)):
+The parameters are unusually well defined for a training practice ([Bosquet et al. 2007](../sources/bosquet-2007-taper.md); [Mujika 2010](../sources/mujika-2010-taper.md); [Wang et al. 2023](../sources/wang-2023-taper-meta.md)). A more recent meta-analysis adds that combining the taper with a deliberate pre-taper overload block appears to amplify the gains further ([Wang et al. 2023](../sources/wang-2023-taper-meta.md)):
 
 - **Duration around two weeks.** This carries the largest effect among the variables studied.
 - **Reduce volume by roughly 40 to 60%, progressively.** Cutting volume is what drives the benefit.

@@ -30,7 +30,7 @@ That correction matters because the friction model justified stretching and foam
 
 See [patellofemoral pain](patellofemoral-pain.md) for the dedicated page. It is diffuse pain around or behind the kneecap, often worse on hills, stairs and after sitting. It is multifactorial; hip weakness is commonly associated, though prospective evidence that it causes the pain is mixed, and the load on the kneecap joint depends heavily on how the hip controls the leg during running.
 
-The best-supported treatment is exercise therapy: combined hip and knee strengthening beats knee strengthening alone for both pain and function ([Nascimento et al. 2018](../sources/nascimento-2018-pfp-hip.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
+The best-supported treatment is exercise therapy: combined hip and knee strengthening beats knee strengthening alone for both pain and function ([Nascimento et al. 2018](../sources/nascimento-2018-pfp-hip.md); [Neal et al. 2022](../sources/neal-2022-pfp-six-treatments.md)). A 65-RCT meta-analysis identified six treatments with positive effects at three months — including both knee-only and combined hip-and-knee exercise — but noted no intervention has been well evaluated beyond three months ([Neal et al. 2022](../sources/neal-2022-pfp-six-treatments.md)). Alongside strengthening, the usual load-management principles apply: cut volume to a tolerable level, then rebuild gradually rather than resting completely.
 
 ## Plantar fasciopathy
 

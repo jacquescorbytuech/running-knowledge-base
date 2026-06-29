@@ -3,6 +3,9 @@
 Every work cited in the knowledge base, with its location and headline finding. Each claim on a content page links back to one of these. Grouped by domain.
 
 ## Physiology
+- [Romero-Parra et al. 2025, Menstrual cycle phases and athletic performance — hormone-verified systematic review](romero-parra-2025-menstrual-cycle-performance.md)
+- [Maunder et al. 2018, Contextualising maximal fat oxidation: determinants and normative values](maunder-2018-fat-oxidation-normative.md)
+- [Thron et al. 2024, Assessing anaerobic speed reserve: validity & reliability of MAS and MSS methods](thron-2024-anaerobic-speed-reserve-assessment.md)
 - [Gastin & Suppiah 2026, Anaerobic and aerobic energy system contribution during maximal exercise: systematic review](gastin-suppiah-2026-energy-systems-review.md)
 - [Périard et al. 2021, Exercise under heat stress: thermoregulation, hydration and performance](periard-2021-heat-thermoregulation.md)
 - [Hunter et al. 2023, Biological basis of sex differences in athletic performance: ACSM consensus statement](hunter-2023-sex-differences-acsm.md)
@@ -106,6 +109,12 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Weir et al. 2006, critique of the central governor model](weir-2006-central-governor-critique.md)
 
 ## Training
+- [Wang et al. 2023, Tapering and endurance performance — systematic review & meta-analysis](wang-2023-taper-meta.md)
+- [Mitchell et al. 2025, surface compliance and running biomechanics meta-analysis](mitchell-2025-surface-compliance.md)
+- [Kritz et al. 2026, group versus individual physical activity interventions meta-analysis](kritz-2026-group-vs-individual.md)
+- [Dudagoitia Barrio et al. 2023, plyometric jump training and running economy meta-analysis](dudagoitia-2023-plyometrics-economy.md)
+- [Zhang et al. 2026, Brain endurance training effects on physical and cognitive performance — systematic review](zhang-2026-brain-endurance-training.md)
+- [Cobley et al. 2009, Annual age-grouping and athlete development: meta-analytical review of relative age effects](cobley-2009-relative-age-effect-meta.md)
 - [García-Valiente et al. 2026, Muscle, neuromuscular and cardiac damage in trail running](garcia-valiente-2026-trail-damage.md)
 - [Miller et al. 2019, Physiological, perceptual and performance differences between treadmill and overground running](miller-2019-treadmill-overground.md)
 - [Fredette et al. 2022, Running injuries and training parameters: systematic review](fredette-2022-running-training-parameters.md)
@@ -248,6 +257,13 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Zanini, Folland & Blagrove 2025, Duration of prolonged running and acute fatigue](zanini-2025-long-run.md)
 
 ## Nutrition
+- [Harnden et al. 2023, citrulline and endurance performance meta-analysis](harnden-2023-citrulline-endurance.md)
+- [Gao & Eshaghi 2021, omega-3 and exercise-induced muscle damage markers](gao-2021-omega3-eimd.md)
+- [Pengelly et al. 2024, iron deficiency & performance in female athletes](pengelly-2024-iron-female-athletes.md)
+- [Ramos-Campo et al. 2023, carbohydrate feeding & endurance performance meta-analysis](ramos-campo-2023-carbohydrate-meta.md)
+- [Veniamakis et al. 2022, sodium intake in endurance sport](veniamakis-2022-sodium-endurance.md)
+- [Wang et al. 2024, CYP1A2 genotype and caffeine ergogenic effect — systematic review & meta-analysis](wang-2024-caffeine-cyp1a2.md)
+- [Lakićević 2019, Alcohol consumption and post-resistance-exercise recovery — systematic review](lakicevic-2019-alcohol-recovery.md)
 - [Bolland et al. 2018, vitamin D supplementation and musculoskeletal health meta-analysis](bolland-2018-vitamin-d-musculoskeletal.md)
 - [Fernández-Landa et al. 2024, HMB and endurance performance meta-analysis](fernandez-landa-2024-hmb-endurance.md)
 - [Morton et al. 2018, Protein supplementation and resistance training gains: systematic review, meta-analysis and meta-regression](morton-2018-protein-meta.md)
@@ -347,6 +363,8 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Wirnitzer et al. 2022, NURMI study of vegan and omnivorous runners](wirnitzer-2022-nurmi.md)
 
 ## Gear
+- [Nishi et al. 2024, Digital health apps with gamification and physical activity, meta-analysis](nishi-2024-gamification-apps.md)
+- [Xu et al. 2025, footwear characteristics and running economy meta-analysis](xu-2025-footwear-running-economy.md)
 - [Relph et al. 2022, Running shoes for preventing lower limb running injuries in adults (Cochrane)](relph-2022-running-shoes-cochrane.md)
 - [Lee et al. 2025, Consumer wrist-worn sleep tracker accuracy vs polysomnography meta-analysis](lee-2025-sleep-tracker-meta.md)
 - [Neves et al. 2022, foot orthoses and injury prevention in runners meta-analysis](neves-2022-orthoses-runners.md)
@@ -420,6 +438,9 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Zhang et al. 2020, Optical heart-rate accuracy meta-analysis](zhang-2020-hr.md)
 
 ## Recovery
+- [Price et al. 2025, heat thermotherapy & cardiovascular outcomes](price-2025-heat-thermotherapy-cvd.md)
+- [Boukhris et al. 2023, Daytime napping following normal sleep and physical performance, meta-analysis](boukhris-2023-napping-performance.md)
+- [Konrad et al. 2022, Foam rolling training effects on range of motion, meta-analysis](konrad-2022-foam-rolling-rom.md)
 - [Warneke & Lohmann 2024, Revisiting the stretch-induced force deficit: systematic review with multilevel meta-analysis of acute effects](warneke-2024-stretch-force-deficit.md)
 - [Gwyther et al. 2022, Sleep interventions for performance, mood and sleep in athletes: systematic review and meta-analysis](gwyther-2022-sleep-interventions.md)
 - [Carrard et al. 2022, Diagnosing overtraining syndrome: a scoping review](carrard-2022-overtraining-diagnosis.md)
@@ -477,6 +498,11 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Wilber et al. 1996, Influence of water run training on the maintenance of aerobic performance](wilber-1996-water-running.md)
 
 ## Injury
+- [Barnes & Rivera 2022, Active Release Technique on clinician and patient-reported outcomes: systematic review](barnes-rivera-2022-art-review.md)
+- [Rudisill et al. 2023, Hamstring injury prevention & risk factor management: systematic review and meta-analysis](rudisill-2023-hamstring-prevention-meta.md)
+- [Neal et al. 2022, six treatments for patellofemoral pain](neal-2022-pfp-six-treatments.md)
+- [Chyi et al. 2024, stressor history & sport injury](chyi-2024-stressors-sport-injury.md)
+- [Knierim Correia et al. 2024, Risk factors for running-related injuries — umbrella systematic review](knierim-correia-2024-running-injury-risk.md)
 - [Challoumas et al. 2021, Management of patellar tendinopathy: systematic review and network meta-analysis of randomised studies](challoumas-2021-patellar-tendinopathy-nma.md)
 - [Hamstra-Wright et al. 2021, Risk factors for plantar fasciitis in physically active individuals: systematic review and meta-analysis](hamstra-wright-2021-plantar-risk-meta.md)
 - [Rizzo et al. 2025, Non-pharmacological treatments for low back pain (Cochrane overview of reviews)](rizzo-2025-lbp-cochrane-overview.md)

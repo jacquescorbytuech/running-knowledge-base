@@ -16,7 +16,7 @@ The aerobic system burns both fat and carbohydrate, and the two are always used 
 
 ## FATmax
 
-Plotted against intensity, the absolute rate of fat oxidation rises from low to moderate intensity, peaks, then falls away as carbohydrate takes over. The intensity at the peak is called FATmax. In trained men it sits at roughly 63% of VO₂max, and lower in untrained people; above this intensity, fat oxidation declines as carbohydrate takes over ([Achten & Jeukendrup 2004](../sources/achten-jeukendrup-2004-fat-oxidation.md)). FATmax is therefore a low-to-moderate intensity, in the region of easy-to-steady running rather than threshold work, which is one reason most endurance volume is run easy ([the basics](the-basics.md)).
+Plotted against intensity, the absolute rate of fat oxidation rises from low to moderate intensity, peaks, then falls away as carbohydrate takes over. The intensity at the peak is called FATmax. In trained men it sits at roughly 63% of VO₂max in the original research, and lower in untrained people; a systematic review pooling 53 studies places FATmax at 56 ± 8% of VO₂max in endurance-trained males and around 50–51% in recreationally active adults ([Achten & Jeukendrup 2004](../sources/achten-jeukendrup-2004-fat-oxidation.md); [Maunder et al. 2018](../sources/maunder-2018-fat-oxidation-normative.md)). Above this intensity, fat oxidation declines as carbohydrate takes over. FATmax is therefore a low-to-moderate intensity, in the region of easy-to-steady running rather than threshold work, which is one reason most endurance volume is run easy ([the basics](the-basics.md)).
 
 ## Why carbohydrate is the higher-power fuel
 

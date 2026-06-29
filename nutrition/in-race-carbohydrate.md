@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Taking carbohydrate during prolonged running improves performance, and the amount that helps scales with how long the effort lasts. The consensus dosing, from the IOC and the underlying fuelling literature, is graded by duration ([Burke et al. 2011](../sources/burke-2011-fuelling.md); [Jeukendrup 2014](../sources/jeukendrup-2014-carbs.md)):
+Taking carbohydrate during prolonged running improves performance, and the amount that helps scales with how long the effort lasts. A 136-study meta-analysis confirms the benefit and the dose-response relationship across durations ([Ramos-Campo et al. 2023](../sources/ramos-campo-2023-carbohydrate-meta.md)). The consensus dosing, from the IOC and the underlying fuelling literature, is graded by duration ([Burke et al. 2011](../sources/burke-2011-fuelling.md); [Jeukendrup 2014](../sources/jeukendrup-2014-carbs.md)):
 
 - Under 45 minutes: none needed.
 - 45 to 75 minutes: a small amount, or even a carbohydrate mouth rinse, is enough. The benefit here is central, sensed by receptors in the mouth, not metabolic, because muscle glycogen is not limiting over about an hour.

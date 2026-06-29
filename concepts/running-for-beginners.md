@@ -32,7 +32,7 @@ Three easy runs a week, every week, for months will transform a beginner's fitne
 ## The main danger is doing too much too soon
 
 > [!warning] Build gradually
-> The commonest beginner injuries (shin pain, knee pain, Achilles trouble) come from increasing running faster than the body's tissues can adapt, not from running itself. Add time or distance in small steps, take rest days, and back off at the first sign of a niggle that worsens during or after a run rather than easing. Tendons and bones adapt more slowly than the heart and lungs, so the legs lag behind the fitness.
+> The commonest beginner injuries (shin pain, knee pain, Achilles trouble) come from increasing running faster than the body's tissues can adapt, not from running itself ([Knierim Correia et al. 2024](../sources/knierim-correia-2024-running-injury-risk.md)). Add time or distance in small steps, take rest days, and back off at the first sign of a niggle that worsens during or after a run rather than easing. Tendons and bones adapt more slowly than the heart and lungs, so the legs lag behind the fitness.
 
 ## What you do and do not need
 

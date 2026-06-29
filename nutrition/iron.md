@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Iron deficiency is one of the few nutritional problems that genuinely and commonly limits distance runners, and one of the few where supplementation has a clear, evidence-based role, but only when there is a real deficiency. Around 15 to 35% of female athletes are iron-deficient, with endurance athletes particularly affected ([Sim et al. 2019](../sources/sim-2019-iron.md)).
+Iron deficiency is one of the few nutritional problems that genuinely and commonly limits distance runners, and one of the few where supplementation has a clear, evidence-based role, but only when there is a real deficiency. Around 15 to 35% of female athletes are iron-deficient, with endurance athletes particularly affected ([Sim et al. 2019](../sources/sim-2019-iron.md)); a 2024 systematic review of 23 studies found the figure may reach as high as 60% ([Pengelly et al. 2024](../sources/pengelly-2024-iron-female-athletes.md)).
 
 Running drives iron losses by several routes. Exercise raises the hormone hepcidin, which suppresses intestinal iron absorption ([Sim et al. 2019](../sources/sim-2019-iron.md)), and foot-strike haemolysis, sweat and gastrointestinal losses, and menstruation add to the drain.
 

@@ -15,7 +15,7 @@ timestamp: 2026-06-24
 > [!warning] Not medical advice
 > This is a general knowledge base, not medical or dietary advice. If you are injured, unwell or weighing up a supplement or a change to your diet, speak to a doctor, physiotherapist or registered dietitian who knows your situation.
 
-Alcohol is not an ergogenic aid and is best thought of as a recovery tax. Its costs are real but strongly dose- and timing-dependent: a large dose soon after a hard session is a meaningful setback, while a modest amount well away from training is a minor issue ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)).
+Alcohol is not an ergogenic aid and is best thought of as a recovery tax. Its costs are real but strongly dose- and timing-dependent: a large dose soon after a hard session is a meaningful setback, while a modest amount well away from training is a minor issue ([Barnes 2014](../sources/barnes-2014-alcohol-athletes.md)). A systematic review of 12 studies confirms that cortisol rises and testosterone and muscle protein synthesis fall after post-exercise drinking, though acute force and power in the 48-hour window are largely unaffected — suggesting the main cost is to long-term adaptation rather than next-day performance ([Lakićević 2019](../sources/lakicevic-2019-alcohol-recovery.md)).
 
 ## Muscle protein synthesis
 

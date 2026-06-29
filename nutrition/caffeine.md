@@ -21,7 +21,7 @@ The effective dose is 3 to 6 mg per kg of body mass, roughly 200 to 400 mg, take
 
 The effect size depends on how performance is measured. Caffeine reliably extends open-ended time to exhaustion, by around 17% in one meta-analysis of running ([Wang et al. 2022](../sources/wang-2022-caffeine.md)), and improves time-trial performance by roughly 2 to 3% across endurance modes ([Southward et al. 2018](../sources/southward-2018-caffeine.md)). Its effect on fixed-distance running time-trials specifically is smaller and less certain.
 
-Some questions remain unsettled. Whether habitual users lose the benefit is genuinely mixed in the literature, and whether CYP1A2 genotype determines who responds, with fast metabolisers gaining more, has support in some trials and none in others, so it is contested rather than established.
+Some questions remain unsettled. Whether habitual users lose the benefit is genuinely mixed in the literature. Whether CYP1A2 genotype determines who responds is better characterised: a meta-analysis of 12 studies found A-allele carriers (fast metabolisers) improved cycling time-trial performance by roughly 5.8% after caffeine, while C-allele carriers gained only about 0.6% ([Wang et al. 2024](../sources/wang-2024-caffeine-cyp1a2.md)). The picture is clearer for endurance cycling than for other event types, so the practical relevance to runners specifically remains an open question.
 
 ## Practical use
 
