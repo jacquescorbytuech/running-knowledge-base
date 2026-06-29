@@ -10,7 +10,7 @@ timestamp: 2026-06-24
 # Cross-training
 
 > [!info] Evidence: moderate
-> Deep-water running can hold VO₂max and even 5 km performance steady for four to six weeks when the effort is kept high ([Kwok et al. 2022](../sources/kwok-2022-deep-water-running.md)). The evidence is for maintenance during a break, not for improvement in healthy runners. Cross-training maintains better than it builds, because it is less running-specific than running.
+> Deep-water running produces cardiorespiratory effects comparable to land-based training when the effort is kept high ([Kwok et al. 2022](../sources/kwok-2022-deep-water-running.md)). The evidence covers diverse populations and supports maintenance during a break, not improvement in healthy runners. Cross-training maintains better than it builds, because it is less running-specific than running.
 
 Cross-training is aerobic exercise other than running: deep-water (aqua) running, cycling, the elliptical, rowing, and similar low- or non-impact work. For runners it has a few main uses.
 
@@ -24,7 +24,7 @@ Cross-training is aerobic exercise other than running: deep-water (aqua) running
 
 The clearest results are from deep-water running as a running substitute. A systematic review of 11 clinical trials (287 participants) found that deep water running produces cardiorespiratory effects comparable to land-based training, including maintenance of VO₂max and running performance across diverse populations ([Kwok et al. 2022](../sources/kwok-2022-deep-water-running.md)). This pooled evidence replaces the two small 1990s trials the original case rested on.
 
-One important caveat: the evidence shows fitness can be held over a break of four to six weeks, not that cross-training builds new fitness in a healthy runner. In the trials where maintenance held, intensity was kept deliberately high. That is the central condition, and it follows from the specificity principle.
+One important caveat: the evidence supports fitness maintenance during a break, not that cross-training builds new fitness in a healthy runner. In the trials where maintenance held, intensity was kept deliberately high. That is the central condition, and it follows from the specificity principle.
 
 ## Specificity: why effort has to be high
 
