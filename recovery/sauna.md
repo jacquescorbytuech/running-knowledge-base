@@ -26,7 +26,7 @@ The idea is that post-run heat relaxes muscles, raises blood flow and speeds rec
 
 ## As heat acclimation: a separate performance method
 
-Repeated sauna sessions raise core temperature enough to drive some of the same adaptations as training in the heat, including plasma volume expansion. This is a performance method, not recovery, and it is covered on its own page. If your goal is to prepare for a hot race or gain the plasma-volume effect, read [heat acclimation](../techniques/heat-acclimation.md). The sauna is one delivery method for that protocol; the adaptation comes from the repeated heat strain, not from any recovery property.
+Repeated sauna sessions raise core temperature enough to drive some of the same adaptations as training in the heat, including plasma volume expansion. In trained distance runners, three weeks of post-run sauna bathing expanded plasma volume by about 7% and improved endurance running by close to 2% ([Scoon et al. 2007](../sources/scoon-2007-sauna-runners.md)). This is a performance method, not recovery, and it is covered on its own page. If your goal is to prepare for a hot race or gain the plasma-volume effect, read [heat acclimation](../techniques/heat-acclimation.md). The sauna is one delivery method for that protocol; the adaptation comes from the repeated heat strain, not from any recovery property.
 
 ## As cardiovascular health: an observational signal
 
