@@ -56,4 +56,5 @@ There is a genuine consolation. Detraining is real and quick at first, with VOâ‚
 - [Cross-training](cross-training.md)
 - [Training load management](training-load-management.md)
 - [Physiological adaptations](../concepts/physiological-adaptations.md)
+- [Blood flow restriction training](../recovery/blood-flow-restriction.md)
 - [The basics](../concepts/the-basics.md)

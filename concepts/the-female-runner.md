@@ -47,3 +47,4 @@ The female-specific topics worth real attention are energy availability and bone
 - [Iron](../nutrition/iron.md)
 - [VO₂max](vo2max.md)
 - [Individual variation and trainability](individual-variation.md)
+- [Pregnancy and postpartum running](pregnancy-and-postpartum-running.md)

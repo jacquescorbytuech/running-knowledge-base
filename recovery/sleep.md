@@ -29,3 +29,4 @@ What is solid: athletes commonly under-sleep, with around 39% reporting under se
 - [Overtraining](overtraining.md)
 - [Recovery modalities](recovery-modalities.md)
 - [GPS watches and metrics](../gear/gps-watches-and-metrics.md)
+- [Naps](naps.md)

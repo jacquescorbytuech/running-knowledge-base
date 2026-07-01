@@ -43,3 +43,5 @@ Applied honestly, this lens clears some products and condemns others. [Caffeine]
 - [The marketing playbook](the-marketing-playbook.md)
 - [Supplement contamination and anti-doping](supplement-contamination.md)
 - [Individual variation](../concepts/individual-variation.md)
+- [Ashwagandha](ashwagandha.md)
+- [Sports-science journals](../concepts/sports-science-journals.md)

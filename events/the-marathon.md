@@ -38,3 +38,4 @@ Start at or just below goal pace and aim for even or slightly negative splits. T
 - [Carbohydrate loading](../nutrition/carbohydrate-loading.md)
 - [Ultramarathon and trail training](../techniques/ultra-and-trail-training.md)
 - [Race pacing](../techniques/race-pacing.md)
+- [Run-walk method](../techniques/run-walk-method.md)

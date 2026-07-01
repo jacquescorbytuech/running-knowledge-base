@@ -29,3 +29,4 @@ The one use with a plausible signal is recovery rather than racing: a single sma
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
 - [Protein and recovery nutrition](protein-and-recovery.md)
 - [Individual variation](../concepts/individual-variation.md)
+- [Exogenous lactate](exogenous-lactate.md)

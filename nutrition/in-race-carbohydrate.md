@@ -52,3 +52,4 @@ Very high intakes of 120 g per hour are tolerable for some trained athletes and 
 - [Durability](../concepts/durability.md)
 - [Hydration](hydration.md)
 - [Electrolytes](electrolytes.md)
+- [Continuous glucose monitors](../gear/continuous-glucose-monitors.md)

@@ -48,4 +48,5 @@ Carbohydrate taken during a session aids recovery as well as within-session perf
 - [Hydration](hydration.md)
 - [Glycogen and glycogen depletion](../concepts/glycogen.md)
 - [Recovery modalities](../recovery/recovery-modalities.md)
+- [Alcohol](alcohol.md)
 - [The basics](../concepts/the-basics.md)

@@ -33,3 +33,4 @@ The firm rule from the IOC consensus is not to supplement iron-replete athletes:
 - [Individual variation](../concepts/individual-variation.md)
 - [Protein and recovery nutrition](protein-and-recovery.md)
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
+- [Plant-based running](plant-based-running.md)

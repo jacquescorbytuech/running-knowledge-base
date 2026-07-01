@@ -34,6 +34,7 @@ The practical caution: this is an elite method built on a large aerobic [base](b
 
 - [Lactate threshold](../concepts/lactate-threshold.md)
 - [Muscle tone (Bakken)](../concepts/muscle-tone.md)
+- [Marius Bakken](../entities/marius-bakken.md)
 - [Interval training](interval-training.md)
 - [Training volume versus intensity](training-volume-vs-intensity.md)
 - [Training philosophies](training-philosophies.md)

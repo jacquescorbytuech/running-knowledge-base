@@ -46,4 +46,5 @@ Long races run into the night, through weather, and far from help, so kit and co
 - [Gut training](../nutrition/gut-training.md)
 - [In-race carbohydrate](../nutrition/in-race-carbohydrate.md)
 - [Durability](../concepts/durability.md)
+- [Trail running shoes](../gear/trail-running-shoes.md)
 - [The basics](../concepts/the-basics.md)
