@@ -40,7 +40,7 @@ The early weeks back are the highest-risk period. The injured tissue is healed e
 
 ## Cross-training as a bridge
 
-While running load is deliberately low, cross-training keeps aerobic fitness ticking over. Low-impact work such as cycling, pool running or the elliptical loads the cardiovascular system without the impact that the injured tissue cannot yet take, which both limits fitness loss and supports mood and routine through the layoff. See [cross-training](cross-training.md). It is a bridge, not a substitute: it maintains the engine while the tissue rebuilds its tolerance to impact.
+While running load is deliberately low, cross-training keeps aerobic fitness ticking over. Low-impact work such as cycling, pool running or the elliptical loads the cardiovascular system without the impact that the injured tissue cannot yet take, which both limits fitness loss and supports mood and routine through the layoff. Injured runners tend not to make this swap unprompted, drifting into sedentary time instead, so it is worth planning deliberately rather than leaving to inclination ([Davis & Gruber 2020](../sources/davis-gruber-2020-injured-runners-activity.md)). See [cross-training](cross-training.md). It is a bridge, not a substitute: it maintains the engine while the tissue rebuilds its tolerance to impact.
 
 ## Fitness returns faster than it was built
 

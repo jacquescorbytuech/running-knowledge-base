@@ -19,7 +19,7 @@ Training load is the dose of stress a runner takes on, and managing it is the ce
 
 ## External versus internal load
 
-Load comes in two forms. **External load** is the work done, measured objectively: distance, pace, time, elevation. **Internal load** is the physiological cost of that work to the individual, which depends on fitness, fatigue, heat and life stress, so the same external load lands differently on different runners and on the same runner on different days. Two runners doing the identical 10 km are not under the identical load. Managing load means tracking both, but internal load is what the body actually responds to.
+Load comes in two forms. **External load** is the work done, measured objectively: distance, pace, time, elevation. **Internal load** is the physiological cost of that work to the individual, which depends on fitness, fatigue, heat and life stress, so the same external load lands differently on different runners and on the same runner on different days. Two runners doing the identical 10 km are not under the identical load. Managing load means tracking both, but internal load is what the body actually responds to. For injury in particular, weekly mileage alone is a crude exposure measure — the same distance stresses two runners differently by pace and fitness — and self-reported distances are unreliable, deviating from roughly −28% to +40% against objective measurement, which is why objective wearables and step count give a truer exposure signal than a training diary ([Davis & Gruber 2019](../sources/davis-gruber-2019-quantifying-exposure.md)).
 
 ## Quantifying load
 
