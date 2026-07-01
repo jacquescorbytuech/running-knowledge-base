@@ -22,7 +22,7 @@ Cross-training is aerobic exercise other than running: deep-water (aqua) running
 
 ## The evidence for maintenance
 
-The clearest results are from deep-water running as a running substitute. A systematic review of 11 clinical trials (287 participants) found that deep water running produces cardiorespiratory effects comparable to land-based training, including maintenance of VO₂max and running performance across diverse populations ([Kwok et al. 2022](../sources/kwok-2022-deep-water-running.md)). This pooled evidence replaces the two small 1990s trials the original case rested on.
+The clearest results are from deep-water running as a running substitute. A systematic review of 11 clinical trials (287 participants) found that deep water running produces cardiorespiratory effects comparable to land-based training, including maintenance of VO₂max and running performance across diverse populations ([Kwok et al. 2022](../sources/kwok-2022-deep-water-running.md)). This pooled evidence replaces the two small 1990s trials the original case rested on, in which deep-water running maintained 5 km time, running economy, lactate-threshold velocity and VO₂max over four to six weeks ([Wilber et al. 1996](../sources/wilber-1996-water-running.md); [Bushman et al. 1997](../sources/bushman-1997-water-running.md)).
 
 One important caveat: the evidence supports fitness maintenance during a break, not that cross-training builds new fitness in a healthy runner. In the trials where maintenance held, intensity was kept deliberately high. That is the central condition, and it follows from the specificity principle.
 

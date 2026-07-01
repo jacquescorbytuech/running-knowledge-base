@@ -25,7 +25,7 @@ When you have a day or more before the next demanding session, this urgency disa
 
 ## Protein for repair, and the overstated window
 
-For repair and adaptation, aim for roughly 0.3 g of protein per kg in the post-session meal, about 20 to 40 g, which is near the dose that maximises the muscle-protein-synthesis response per serving ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md)). The narrow 30-to-60-minute "anabolic window" is largely a myth: a meal eaten before training leaves amino acids circulating well into recovery, so immediate post-workout protein is often redundant, and the practical window spans several hours ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md)). Across the day, total protein matters more than its timing; apparent timing effects mostly vanish once daily intake is equated ([Schoenfeld, Aragon & Krieger 2013](../sources/schoenfeld-2013-protein-timing.md)). Spread roughly 1.6 g/kg/day across several meals and the window takes care of itself; see [protein and recovery](protein-and-recovery.md).
+For repair and adaptation, aim for roughly 0.3 g of protein per kg in the post-session meal, about 20 to 40 g, which is near the dose that maximises the muscle-protein-synthesis response per serving ([Aragon & Schoenfeld 2013](../sources/aragon-2013-window.md)). There is no need to rush it. The "anabolic window" is far wider than the marketing implies, and across the day total protein matters more than its timing. That evidence and the daily targets are set out on [protein and recovery](protein-and-recovery.md).
 
 ## Rehydration: replace more than you lost, with sodium
 
