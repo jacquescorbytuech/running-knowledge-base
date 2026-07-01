@@ -49,9 +49,10 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Ketone esters](ketone-esters.md) — expensive, no race-day benefit
 - [Exogenous lactate](exogenous-lactate.md) — lactate is a real fuel, but eating it has not improved performance and upsets the gut
 - [Ashwagandha](ashwagandha.md) — an adaptogen with a VO₂max signal, but low-quality, industry-linked evidence and real safety footnotes
+- [HMB (β-hydroxy-β-methylbutyrate)](hmb.md) — a leucine metabolite with a split endurance signal and a steadier muscle-damage recovery benefit; emerging, not proven
 - [BCAAs](bcaas.md) — plausible mechanism, no delivery
 - [Magnesium](magnesium.md) — heavily promoted; real if you are deficient, little on top of an adequate diet, and not a cramp cure
 - [Electrolytes](electrolytes.md) — oversold; no cramp or hyponatraemia protection, and most runners already get enough sodium
 - [Antioxidant supplements](antioxidant-supplements.md) — may blunt adaptation
 - [CBD (cannabidiol)](cbd.md) — no direct athlete evidence, a poorly regulated market, and a THC doping risk
-- [Supplements that do not hold up](supplements-that-dont-hold-up.md) — glutamine, HMB, MCT, nitric-oxide products and more
+- [Supplements that do not hold up](supplements-that-dont-hold-up.md) — glutamine, MCT, nitric-oxide products and more

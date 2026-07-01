@@ -29,6 +29,7 @@ The reasonable overall reading: not a core endurance aid, but a defensible choic
 
 ## Related
 
+- [HMB](hmb.md)
 - [Protein and recovery nutrition](protein-and-recovery.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
 - [Individual variation](../concepts/individual-variation.md)

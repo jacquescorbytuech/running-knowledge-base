@@ -41,6 +41,7 @@ Rapid refuelling matters only when the next hard session is less than about eigh
 - [Evaluating supplement claims](evaluating-supplements.md)
 - [Iron](iron.md)
 - [Creatine](creatine.md)
+- [HMB](hmb.md)
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
 - [Cold water immersion](../recovery/cold-water-immersion.md)

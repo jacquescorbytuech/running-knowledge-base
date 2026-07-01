@@ -49,4 +49,6 @@ Load and dose are what make it work. The productive range is heavy: roughly thre
 
 - [Running economy](../concepts/running-economy.md)
 - [Protein and recovery nutrition](../nutrition/protein-and-recovery.md)
+- [Creatine](../nutrition/creatine.md)
+- [HMB](../nutrition/hmb.md)
 - [Training volume versus intensity](training-volume-vs-intensity.md)
