@@ -8,15 +8,6 @@ timestamp: 2026-07-01
 
 # Fränti 2024, What is wrong with MDPI, predator or serious competitor?
 
-An analysis of the open-access publisher MDPI, examining whether its practices amount to predatory publishing or aggressive but legitimate competition. It documents the explosive growth of special issues, very short submission-to-acceptance times, and self-citation and guest-editor patterns that raise peer-review-quality questions, while acknowledging that MDPI also publishes large volumes of ordinary, sound work. Used to anchor the claim that a journal's publisher and special-issue status, not just its name, should inform how much weight a paper carries.
+Fränti P. "What is wrong with MDPI: Is it a predator or a serious competitor?" arXiv:2411.08051, 2024.
 
-## Key takeaways
-
-- MDPI's growth has been driven heavily by special issues with very fast turnaround, the same pattern flagged at Frontiers and Hindawi.
-- Rapid acceptance and guest-edited special issues are the mechanism most associated with weakened peer review, not the publisher's name as such.
-- The verdict is "grey zone" rather than outright predatory: much sound work is published, but the model creates systematic quality risk a reader must account for.
-- Practical implication: weight a paper by venue, peer-review route and independent replication, not by open-access status alone.
-
-## Pages touched
-
-- [[concepts/sports-science-journals]]
+An analysis of the open-access publisher MDPI, examining whether its practices amount to predatory publishing or aggressive but legitimate competition. It documents the explosive growth of special issues, very short submission-to-acceptance times, and self-citation and guest-editor patterns that raise peer-review-quality questions, while acknowledging that MDPI also publishes large volumes of ordinary sound work. The verdict is "grey zone" rather than outright predatory: the rapid special-issue route creates systematic quality risk a reader must account for, so a paper should be weighted by venue, peer-review route and independent replication rather than by open-access status or publisher name alone.

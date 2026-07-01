@@ -8,16 +8,6 @@ timestamp: 2026-07-01
 
 # Bonilla et al. 2021, Ashwagandha and physical performance systematic review and Bayesian meta-analysis
 
-A PRISMA systematic review and Bayesian meta-analysis of ashwagandha (*Withania somnifera*) supplementation and physical performance in healthy people, published in the *Journal of Functional Morphology and Kinesiology*. Thirteen trials met inclusion (twelve in the quantitative analysis), with Bayesian hierarchical models across strength/power, cardiorespiratory fitness and fatigue/recovery. The authors treat ashwagandha as an adaptogen with plausible but not decisive potential to aid performance and recovery.
+Bonilla DA, Moreno Y, Gho C, Petro JL, Odriozola-Martínez A, Kreider RB. "Effects of Ashwagandha (Withania somnifera) on Physical Performance: Systematic Review and Bayesian Meta-Analysis." *Journal of Functional Morphology and Kinesiology* 2021;6(1):20. DOI: 10.3390/jfmk6010020.
 
-## Key takeaways
-
-- Pooled across domains, ashwagandha showed favourable effects on strength/power, maximal oxygen consumption and fatigue/recovery versus placebo, on a small and heterogeneous trial base.
-- Framed mechanistically as an adaptogen and anti-stress agent, with cortisol reduction among the proposed pathways.
-- Effective doses in the trials were commonly 300–500 mg of root extract twice daily for 8–12 weeks.
-- Evidence base is limited: small samples, heterogeneity, and heavy reliance on branded extracts and industry-adjacent trials.
-- Conclusion is that ashwagandha "could" improve performance, with better and independent trials needed.
-
-## Pages touched
-
-- [[nutrition/ashwagandha]]
+PRISMA systematic review and Bayesian meta-analysis of ashwagandha supplementation and physical performance in healthy people. Thirteen trials met inclusion (twelve in the quantitative analysis), with Bayesian hierarchical models across strength/power, cardiorespiratory fitness and fatigue/recovery, all showing favourable effects versus placebo on a small and heterogeneous trial base. Effective doses were commonly 300–500 mg of root extract twice daily for 8–12 weeks. The authors frame ashwagandha as an adaptogen and anti-stress agent (cortisol reduction among the proposed pathways) with plausible but not decisive potential, noting small samples, heterogeneity and heavy reliance on branded extracts. Weak.
