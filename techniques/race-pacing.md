@@ -36,7 +36,7 @@ A caution about the evidence. Most of this comes from observing what fast people
 
 ## Conditions
 
-Heat, wind and terrain all justify pacing slower than a flat-calm goal. Hills are best run as constant effort. Headwinds are worth tucking behind others, and championship data show that running in a pack with similar-ability runners helps both sexes, while nomadic or inconsistent group positioning tended to cost time in the second half ([Hanley 2016](../sources/hanley-2016-pacing-profiles.md)). The discipline to start conservatively is the single most transferable pacing skill, and it is best rehearsed in training so race-day adrenaline does not override it.
+Heat, wind and terrain all justify pacing slower than a flat-calm goal. The size of the heat adjustment scales with the distance: the marathon is slowed most and is fastest in cool conditions ([El Helou et al. 2012](../sources/el-helou-2012-marathon-temperature.md)), whereas sprint and middle-distance track events are little troubled by warmth and in fact peak around 23 °C ([Haïda et al. 2013](../sources/haida-2013-sprint-middle-distance-temperature.md)). A hot 10 km still warrants a touch of restraint, but nothing like the caution a hot marathon demands. Hills are best run as constant effort. Headwinds are worth tucking behind others, and championship data show that running in a pack with similar-ability runners helps both sexes, while nomadic or inconsistent group positioning tended to cost time in the second half ([Hanley 2016](../sources/hanley-2016-pacing-profiles.md)). The discipline to start conservatively is the single most transferable pacing skill, and it is best rehearsed in training so race-day adrenaline does not override it.
 
 ## Related
 
