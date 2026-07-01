@@ -27,6 +27,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [Biomechanics and gait](biomechanics-and-gait.md) — cadence, footstrike and overstriding, mostly self-optimised
 - [Training intensity zones](training-intensity-zones.md) — two thresholds, three domains, and how the zone models map onto them
 - [Theory of constraints (training the limiter)](theory-of-constraints.md) — find and train your actual limiter rather than polishing a strength
+- [Reading sports-science journals](sports-science-journals.md) — how much weight to give a study by where it was published, and why the publisher and special-issue route matter
 
 ## Populations and health
 

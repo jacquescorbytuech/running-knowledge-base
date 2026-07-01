@@ -269,6 +269,8 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Bischof et al. 2024, collagen peptide supplementation with training systematic review and meta-analysis](bischof-2024-collagen-peptide-meta.md)
 - [Body composition and distance-running performance, narrative synthesis](sutton-2009-body-fat-kenyan-runners.md)
 - [Bolland et al. 2018, vitamin D supplementation and musculoskeletal health meta-analysis](bolland-2018-vitamin-d-musculoskeletal.md)
+- [Bonilla et al. 2021, Ashwagandha and physical performance systematic review and Bayesian meta-analysis](bonilla-2021-ashwagandha-performance.md)
+- [Bordoli et al. 2024, Oral lactate supplementation, acid-base balance and prolonged interval cycling](bordoli-2024-oral-lactate.md)
 - [Brooks et al. 2022, Ketone supplementation and performance meta-analysis](brooks-2022-ketones.md)
 - [Burke 2021, Ketogenic LCHF diet: the future of elite endurance sport?](burke-2021-lchf-review.md)
 - [Burke et al. 2011, IOC consensus: carbohydrates for training and competition](burke-2011-fuelling.md)
@@ -288,6 +290,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Fernández-Landa et al. 2024, HMB and endurance performance meta-analysis](fernandez-landa-2024-hmb-endurance.md)
 - [Fernández-Lázaro et al. 2024, omega-3 and exercise recovery and performance](fernandez-lazaro-2024-omega3-review.md)
 - [Forbes et al. 2023, Creatine for endurance athletes](forbes-2023-creatine.md)
+- [Gao & Chilibeck 2020, Tart cherry concentrate and endurance exercise performance meta-analysis](gao-chilibeck-2020-tart-cherry-endurance.md)
 - [Gao & Eshaghi 2021, omega-3 and exercise-induced muscle damage markers](gao-2021-omega3-eimd.md)
 - [Garrison et al. 2020, magnesium for skeletal muscle cramps (Cochrane)](garrison-2020-magnesium-cramps.md)
 - [Gavel et al. 2024, How cool is that? Menthol mouth rinsing on exercise performance — systematic review and meta-analysis](gavel-2024-menthol-rinse-meta.md)
@@ -339,6 +342,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Parr et al. 2014, Alcohol impairs post-exercise myofibrillar protein synthesis](parr-2014-alcohol-protein-synthesis.md)
 - [Paulsen et al. 2014, Vitamin C and E blunt training adaptation](paulsen-2014-antioxidants.md)
 - [Pengelly et al. 2024, iron deficiency & performance in female athletes](pengelly-2024-iron-female-athletes.md)
+- [Pérez-Gómez et al. 2020, Ashwagandha and VO₂max systematic review and meta-analysis](perez-gomez-2020-ashwagandha-vo2max.md)
 - [Poffe et al. 2019, Ketone ester and training tolerance](poffe-2019-ketones.md)
 - [Ramos-Campo et al. 2023, carbohydrate feeding & endurance performance meta-analysis](ramos-campo-2023-carbohydrate-meta.md)
 - [Rawji et al. 2024, magnesium for anxiety and sleep quality](rawji-2024-magnesium-sleep.md)
@@ -591,3 +595,8 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Daniels 1984, stride-rate observations at the Olympics](daniels-1984-stride-rate.md)
 - [Lenhart et al. 2014, step rate and patellofemoral force](lenhart-2014-step-rate-patellofemoral.md)
 - [Marathon Handbook, the 180-cadence myth](marathon-handbook-cadence-myth.md)
+
+## Reference and methods
+
+- [Fränti 2024, What is wrong with MDPI, predator or serious competitor?](franti-2024-mdpi.md)
+- [Frontiers Media, publishing model and reputation (overview)](frontiers-media-publishing-model.md)

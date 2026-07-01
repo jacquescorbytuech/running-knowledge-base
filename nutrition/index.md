@@ -34,6 +34,7 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Alcohol and endurance](alcohol.md) — a dose- and timing-dependent tax on repair, refuelling, rehydration and sleep
 - [Omega-3 fatty acids](omega-3.md) — sound general-health nutrient and plausible minor recovery aid, no proven performance benefit
 - [Menthol](menthol.md) — reliably makes hot running *feel* cooler without cooling the body; a small, inconsistent performance benefit in dry heat
+- [Tart cherry](tart-cherry.md) — a modest, real recovery aid for strength and power, with an antioxidant-blunting caveat that makes timing matter
 
 ## Energy, health and body composition
 
@@ -45,6 +46,8 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 
 - [Nomio (broccoli-sprout shots)](nomio-broccoli-shots.md) — hyped, plausible mechanism, no performance evidence yet
 - [Ketone esters](ketone-esters.md) — expensive, no race-day benefit
+- [Exogenous lactate](exogenous-lactate.md) — lactate is a real fuel, but eating it has not improved performance and upsets the gut
+- [Ashwagandha](ashwagandha.md) — an adaptogen with a VO₂max signal, but low-quality, industry-linked evidence and real safety footnotes
 - [BCAAs](bcaas.md) — plausible mechanism, no delivery
 - [Magnesium](magnesium.md) — heavily promoted; real if you are deficient, little on top of an adequate diet, and not a cramp cure
 - [Electrolytes](electrolytes.md) — oversold; no cramp or hyponatraemia protection, and most runners already get enough sodium
