@@ -39,3 +39,4 @@ The effects above are real but modest and heterogeneous, and they are concentrat
 - [The basics](../concepts/the-basics.md)
 - [Individual variation](../concepts/individual-variation.md)
 - [Tapering](tapering.md)
+- [Motivation, habit and adherence](../concepts/motivation-and-adherence.md)

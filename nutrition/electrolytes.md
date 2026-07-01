@@ -21,7 +21,7 @@ This is a separate question from [hydration](hydration.md), which is well eviden
 
 ## Salt does not reliably prevent cramps
 
-The most aggressively marketed claim is the weakest. The best-supported cause of exercise-associated cramp is altered neuromuscular control driven by fatigue, not dehydration or electrolyte depletion ([Miller et al. 2022](../sources/schwellnus-cramps.md)). In a 161 km ultramarathon, sodium intake was no different between runners who cramped and those who did not ([Hoffman & Stuempfle 2015](../sources/hoffman-2015-sodium-ultra.md)), and a 2022 systematic review concludes there is no documented scientific evidence for a sodium–cramp relationship ([Veniamakis et al. 2022](../sources/veniamakis-2022-sodium-endurance.md)). There is a sliver of contrary lab evidence: a carbohydrate-electrolyte drink more than doubled the time to an experimentally-induced calf cramp, but 69% of participants still cramped while fully hydrated and supplemented ([Jung et al. 2005](../sources/jung-2005-cramps-electrolyte.md)). Taken together, electrolytes are not a reliable cramp fix, and the depletion theory that sells them is largely refuted.
+The most aggressively marketed claim is the weakest. The best-supported cause of exercise-associated cramp is altered neuromuscular control driven by fatigue, not dehydration or electrolyte depletion ([Miller et al. 2022](../sources/miller-2022-cramps-aetiology.md)). In a 161 km ultramarathon, sodium intake was no different between runners who cramped and those who did not ([Hoffman & Stuempfle 2015](../sources/hoffman-2015-sodium-ultra.md)), and a 2022 systematic review concludes there is no documented scientific evidence for a sodium–cramp relationship ([Veniamakis et al. 2022](../sources/veniamakis-2022-sodium-endurance.md)). There is a sliver of contrary lab evidence: a carbohydrate-electrolyte drink more than doubled the time to an experimentally-induced calf cramp, but 69% of participants still cramped while fully hydrated and supplemented ([Jung et al. 2005](../sources/jung-2005-cramps-electrolyte.md)). Taken together, electrolytes are not a reliable cramp fix, and the depletion theory that sells them is largely refuted.
 
 ## Salt does not prevent hyponatraemia
 
@@ -50,3 +50,4 @@ A normal diet covers the average runner; salt food to taste and reserve electrol
 - [Magnesium](magnesium.md)
 - [In-race carbohydrate](in-race-carbohydrate.md)
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
+- [Exercise-associated muscle cramps](../injury/muscle-cramps.md)

@@ -5,6 +5,7 @@ Physiological and theoretical ideas. Start with the basics, then the determinant
 - [The basics (what actually matters)](the-basics.md) — the 95% that drives most of the gains for most runners
 - [Running for beginners](running-for-beginners.md) — how to start running and keep at it
 - [Running for intermediates](running-for-intermediates.md) — the next stage: more volume, a long run, a little structure, strength work
+- [Motivation, habit and adherence](motivation-and-adherence.md) — the real limiter for most runners is showing up; how to build the habit and keep it
 - [VO₂max](vo2max.md) — the aerobic ceiling, and what it does and does not predict
 - [Lactate threshold](lactate-threshold.md) — why velocity at threshold predicts endurance performance
 - [Lactate shuttle](lactate-shuttle.md) — why lactate is a fuel the body produces, moves and reuses, not a waste product

@@ -38,3 +38,4 @@ The blunting concern applies to *chronic* high-dose use during adaptation-focuse
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md)
 - [Protein and recovery nutrition](protein-and-recovery.md)
 - [Cold water immersion](../recovery/cold-water-immersion.md)
+- [Curcumin (turmeric)](curcumin.md)

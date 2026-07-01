@@ -48,4 +48,5 @@ Honestly, not much, and nothing that abolishes it. No treatment reliably removes
 - [Muscle strains](../injury/muscle-strains.md)
 - [Strength training for runners](../techniques/strength-training-for-runners.md)
 - [Ultramarathon and trail training](../techniques/ultra-and-trail-training.md)
+- [Curcumin (turmeric)](../nutrition/curcumin.md)
 - [Training-load management](../techniques/training-load-management.md)

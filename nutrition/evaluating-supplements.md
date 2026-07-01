@@ -41,4 +41,5 @@ Applied honestly, this lens clears some products and condemns others. [Caffeine]
 - [Nomio](nomio-broccoli-shots.md)
 - [Magnesium](magnesium.md)
 - [The marketing playbook](the-marketing-playbook.md)
+- [Supplement contamination and anti-doping](supplement-contamination.md)
 - [Individual variation](../concepts/individual-variation.md)

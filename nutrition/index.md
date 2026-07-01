@@ -2,7 +2,7 @@
 
 Food, supplements and ergogenic aids, graded by evidence. The honest short version: a balanced diet plus a handful of proven aids does almost everything; most of the supplement shelf sells reassurance.
 
-Start with [evaluating supplement claims](evaluating-supplements.md) for how to read the evidence behind anything below: who funded it, how good the studies are, and whether the headline is a real performance gain or just a biomarker. Its companion, [the marketing playbook](the-marketing-playbook.md), is about the practice itself: how the industry sells fixes for problems you do not have, and how to spot it.
+Start with [evaluating supplement claims](evaluating-supplements.md) for how to read the evidence behind anything below: who funded it, how good the studies are, and whether the headline is a real performance gain or just a biomarker. Its companion, [the marketing playbook](the-marketing-playbook.md), is about the practice itself: how the industry sells fixes for problems you do not have, and how to spot it. A third, [supplement contamination and anti-doping](supplement-contamination.md), covers the separate question of safety: how often products carry undeclared banned substances, and what that means for a tested runner.
 
 ## Well-evidenced (the 95%ers)
 
@@ -35,6 +35,7 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Omega-3 fatty acids](omega-3.md) — sound general-health nutrient and plausible minor recovery aid, no proven performance benefit
 - [Menthol](menthol.md) — reliably makes hot running *feel* cooler without cooling the body; a small, inconsistent performance benefit in dry heat
 - [Tart cherry](tart-cherry.md) — a modest, real recovery aid for strength and power, with an antioxidant-blunting caveat that makes timing matter
+- [Curcumin (turmeric)](curcumin.md) — a real but modest reduction in muscle soreness, tempered by poor absorption and the antioxidant-blunting caveat
 
 ## Energy, health and body composition
 
@@ -52,4 +53,5 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 - [Magnesium](magnesium.md) — heavily promoted; real if you are deficient, little on top of an adequate diet, and not a cramp cure
 - [Electrolytes](electrolytes.md) — oversold; no cramp or hyponatraemia protection, and most runners already get enough sodium
 - [Antioxidant supplements](antioxidant-supplements.md) — may blunt adaptation
+- [CBD (cannabidiol)](cbd.md) — no direct athlete evidence, a poorly regulated market, and a THC doping risk
 - [Supplements that do not hold up](supplements-that-dont-hold-up.md) — glutamine, HMB, MCT, nitric-oxide products and more

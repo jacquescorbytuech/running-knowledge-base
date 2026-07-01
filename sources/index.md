@@ -351,7 +351,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [McMahon et al. 2017, Nitrate supplementation and exercise performance](mcmahon-2017-nitrate.md)
 - [Miall et al. 2018, Two weeks of repeated carbohydrate feeding (gut training)](miall-2018-gut-training.md)
 - [Miller et al. 2010, pickle juice and electrically induced muscle cramp](miller-2010-pickle-juice-cramp.md)
-- [Miller et al. 2022, on the aetiology of exercise-associated muscle cramps](schwellnus-cramps.md)
+- [Miller et al. 2022, on the aetiology of exercise-associated muscle cramps](miller-2022-cramps-aetiology.md)
 - [Miller et al. 2025, Bicarbonate and continuous running meta-analysis](miller-2025-bicarb.md)
 - [Morton et al. 2018, Protein supplementation and resistance training gains: systematic review, meta-analysis and meta-regression](morton-2018-protein-meta.md)
 - [Mountjoy et al. 2014, Beyond the female athlete triad, RED-S](mountjoy-2014-ioc-reds.md)

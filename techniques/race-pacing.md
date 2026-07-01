@@ -47,3 +47,4 @@ Heat, wind and terrain all justify pacing slower than a flat-calm goal. The size
 - [Durability](../concepts/durability.md)
 - [Glycogen](../concepts/glycogen.md)
 - [In-race carbohydrate](../nutrition/in-race-carbohydrate.md)
+- [Racing tactics](racing-tactics.md)

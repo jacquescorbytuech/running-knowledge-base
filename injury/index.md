@@ -12,6 +12,7 @@ Running injuries and how to avoid them. Most are overuse injuries from training-
 - [Calf and hamstring strains](muscle-strains.md) — sudden mechanical tears from fast running, treated by early progressive loading
 - [Common overuse injuries](common-overuse-injuries.md) — iliotibial band syndrome and shin splints (medial tibial stress syndrome)
 - [Practical niggles](practical-niggles.md) — blisters, chafing, black toenails and the side stitch
+- [Exercise-associated muscle cramps](muscle-cramps.md) — the cramp that strikes late in hard or long runs; why the electrolyte theory is largely refuted and what actually stops one
 
 ## Treatments and therapies
 

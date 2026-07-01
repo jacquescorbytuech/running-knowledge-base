@@ -14,6 +14,7 @@ Equipment, and how much of it actually matters. Super-shoes are the rare case of
 - [Barefoot and minimalist running](barefoot-running.md) — changes mechanics, but no proven injury or performance benefit
 - [GPS watches and metrics](gps-watches-and-metrics.md) — what they measure well, what they only estimate, and why they are directional trends not absolute truths
 - [Heart-rate monitors](heart-rate-monitors.md) — chest strap versus optical wrist and armband, and how accuracy differs by type
+- [Continuous glucose monitors](continuous-glucose-monitors.md) — the glucose wearable sold for fuelling; no performance evidence in healthy runners, and least accurate during hard running
 - [Training apps and platforms](training-apps.md) — tracking, social and adaptive-plan apps; modest real benefit, with load metrics and AI plans weaker than they look
 - [Sports bras and running apparel](sports-bras-and-apparel.md) — high-support, well-fitted bras are essential kit; the honest case on socks and fabrics
 - [Compression apparel](compression-apparel.md) — worn socks, sleeves and tights; nothing for performance, a little (mostly perceptual) for recovery

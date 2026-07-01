@@ -16,6 +16,7 @@ Training and practice methods.
 - [Music and running](music-and-running.md) — a small, perceptual aid for easy running; the safety and rules caveats
 - [Treadmill running](treadmill-running.md) — a valid substitute, and the truth about the 1% incline rule
 - [Running surfaces](running-surfaces.md) — road, track, grass and trail; why the body adapts to hardness, the energy cost of soft ground, and indoor versus outdoor tracks
+- [Breathing and respiratory training](breathing-and-respiratory-training.md) — whether breathing limits you, and the honest evidence on breathing-muscle training, nasal breathing and masks
 
 ## Quality and sharpening
 
@@ -31,6 +32,7 @@ Training and practice methods.
 - [Heat acclimation](heat-acclimation.md) — reliable for hot races, contested as a cool-weather aid
 - [Altitude training](altitude-training.md) — reliable haematology, contested performance payoff
 - [Cold-weather running](cold-weather-running.md) — cool helps but cold hurts; the lungs do not freeze; manage wind chill and wet
+- [Running in the dark](running-in-the-dark.md) — being seen, seeing the ground, and staying safe on dark roads and trails
 
 ## Structure and peaking
 
@@ -39,6 +41,7 @@ Training and practice methods.
 - [Distance-specific training](distance-specific-training.md) — how emphasis shifts from 1500 m to the marathon and ultra
 - [Ultramarathon and trail training](ultra-and-trail-training.md) — time on feet, power-hiking, quad conditioning and effort-based pacing
 - [Race pacing](race-pacing.md) — even pacing wins; going out too fast is the classic error
+- [Racing tactics](racing-tactics.md) — racing other people, not the clock: positioning, drafting, pack running and the timing of the kick
 
 ## Load, comeback and cross-training
 

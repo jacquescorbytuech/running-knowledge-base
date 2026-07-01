@@ -19,4 +19,8 @@ The physiological labels below, the 5k as a VO₂max event or the half as a thre
 - [The half marathon](the-half-marathon.md) — a threshold event; goal pace sits at the lactate threshold
 - [The marathon](the-marathon.md) — decided by threshold, economy, durability and fuel; the event where running out of carbohydrate ends races
 
+## Off-road
+
+- [Cross country](cross-country.md) — the winter discipline defined by terrain rather than distance; soft, hilly ground raises the energy cost, pace is meaningless and durability and footing decide it
+
 Ultras and technical trail sit one rung further out, where top-end speed is irrelevant and time on feet, fuelling tolerance and terrain dominate; they keep their own page under [ultramarathon and trail training](../techniques/ultra-and-trail-training.md).
