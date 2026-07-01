@@ -33,6 +33,7 @@ Start with [evaluating supplement claims](evaluating-supplements.md) for how to 
 
 - [Alcohol and endurance](alcohol.md) — a dose- and timing-dependent tax on repair, refuelling, rehydration and sleep
 - [Omega-3 fatty acids](omega-3.md) — sound general-health nutrient and plausible minor recovery aid, no proven performance benefit
+- [Menthol](menthol.md) — reliably makes hot running *feel* cooler without cooling the body; a small, inconsistent performance benefit in dry heat
 
 ## Energy, health and body composition
 

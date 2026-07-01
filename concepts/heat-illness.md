@@ -53,5 +53,6 @@ The single most important principle is to cool the body as fast as possible, and
 
 - [Heat acclimation](../techniques/heat-acclimation.md)
 - [Hydration](../nutrition/hydration.md)
+- [Menthol](../nutrition/menthol.md)
 - [Cold water immersion](../recovery/cold-water-immersion.md)
 - [The basics](the-basics.md)

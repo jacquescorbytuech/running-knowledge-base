@@ -52,6 +52,7 @@ Sweating to cool down depletes the very blood volume the cooling system relies o
 - [Exertional heat illness](heat-illness.md)
 - [Heat acclimation](../techniques/heat-acclimation.md)
 - [Hydration](../nutrition/hydration.md)
+- [Menthol](../nutrition/menthol.md)
 - [Durability](durability.md)
 - [Cardiovascular and respiratory adaptations](cardiovascular-and-respiratory-adaptations.md)
 - [The basics](the-basics.md)

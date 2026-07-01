@@ -290,6 +290,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Forbes et al. 2023, Creatine for endurance athletes](forbes-2023-creatine.md)
 - [Gao & Eshaghi 2021, omega-3 and exercise-induced muscle damage markers](gao-2021-omega3-eimd.md)
 - [Garrison et al. 2020, magnesium for skeletal muscle cramps (Cochrane)](garrison-2020-magnesium-cramps.md)
+- [Gavel et al. 2024, How cool is that? Menthol mouth rinsing on exercise performance — systematic review and meta-analysis](gavel-2024-menthol-rinse-meta.md)
 - [Gawelczyk et al. 2026, Low-carbohydrate and ketogenic diets and aerobic performance: systematic review and meta-analysis](gawelczyk-2026-lchf-aerobic-meta.md)
 - [Gejl & Nybo 2021, periodized carbohydrate restriction meta-analysis](gejl-nybo-2021-cho-restriction-meta.md)
 - [Gerlach et al. 2008, fat intake and injury in female runners](gerlach-2008-fat-intake-injury-runners.md)
@@ -311,6 +312,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Jung et al. 2005, hydration, electrolytes and exercise-associated cramps](jung-2005-cramps-electrolyte.md)
 - [Kaviani et al. 2020, Creatine supplementation in vegetarians, a review](kaviani-2020-creatine-vegetarians.md)
 - [Keay et al. 2018, RED-S in male endurance athletes](keay-2018-reds-male-cyclists.md)
+- [Keringer et al. 2020, Menthol improves thermal perception during exercise — meta-analysis of RCTs](keringer-2020-menthol-thermal.md)
 - [Kerksick et al. 2017, ISSN position stand: nutrient timing](kerksick-2017-nutrient-timing.md)
 - [King et al. 2018, Carbohydrate dose and exogenous oxidation](king-2018-carbs.md)
 - [Lakićević 2019, Alcohol consumption and post-resistance-exercise recovery — systematic review](lakicevic-2019-alcohol-recovery.md)
@@ -348,6 +350,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [Smith et al. 2011, omega-3 and the muscle protein anabolic response](smith-2011-omega3-mps.md)
 - [Solem et al. 2025, Carbohydrate loading meta-analysis](solem-2025-loading.md)
 - [Southward et al. 2018, Caffeine and endurance performance meta-analysis](southward-2018-caffeine.md)
+- [Stevens et al. 2016, Menthol mouth rinse improves 5-km running in the heat but ice slurry does not](stevens-2016-menthol-rinse.md)
 - [Stoffel et al. 2017, Iron absorption and alternate-day dosing](stoffel-2017-iron.md)
 - [Sweat rates and sweat sodium concentrations in athletes](sweat-sodium-variability.md)
 - [Tart cherry and recovery scoping review (Front Nutr 2026)](tart-cherry-2026.md)
@@ -364,6 +367,7 @@ Every work cited in the knowledge base, with its location and headline finding. 
 - [WHO, sodium reduction (population intake)](who-sodium-reduction.md)
 - [Wirnitzer et al. 2022, NURMI study of vegan and omnivorous runners](wirnitzer-2022-nurmi.md)
 - [Wolfe 2017, BCAAs and muscle protein synthesis — myth or reality?](wolfe-2017-bcaa.md)
+- [Zhu et al. 2026, Menthol administration routes and endurance in the heat — network meta-analysis](zhu-2026-menthol-routes-meta.md)
 
 ## Gear
 
